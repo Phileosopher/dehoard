@@ -1,0 +1,8 @@
+
+If you must explain your value, it's not as great as you think.
+
+I'd start a company that does nothing but help market homes in the open internet, creating listings on Craigslist, taking pictures and making videos, making web pages for the homes, making sure those pages show up in searches, even buying ads on Google. You can do this for free using Picasa, YouTube, Google Maps aerial view, and lists of local restaurants using Yelp. Home sellers can add links to their own favorite hangouts, best grocery stores, and add tips about where the kids can play. You can sell not just the property but the experience, the lifestyle, the community. It won't be long before you can introduce buyers to our neighbors, linking to their blogs or Facebook. Many homeowners wouldn't want to do this themselves, so there's a business opportunity to help. I'd sell these services and options for flat fees, not a percentage of sale price.
+
+Start a company that offers concierge services to schedule and escort would-be buyers. Buyers could pay the consierge to chauffeur them from home to home. Sellers could pay the consierge to hold open-houses (& make the place presentable). See lcoal home-tour bloggers emerge, taking tours, taking pictures, and treating new homes on the market as news. I'd read it and buy ads there.
+
+EveryBlock.com lists all kinds of data around addresses. Outside.in organizes local blog posts around locations. CleverCommute provides a real picture of traffic headaches. All this open data beats the agent telling you that every neighborhood is wonderful and every house has potential.

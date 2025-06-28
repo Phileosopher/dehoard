@@ -1,0 +1,2 @@
+
+Base your decision on logic, not emotion. Many people let feelings and passion steer them toward a business, but don't let your heart call the shots. Starting a business is a logical decision. Stay focused on the important questions: Who are you? Where do you fit? Who are your competitors?Stick with the familiar. Choose something that feels comfortable. If it doesn't feel like a natural fit for your skills and personality, pick something else.Prioritize fun. If you don't enjoy your work, you won't succeed. Look for a business with the potential to be deeply satisfying.

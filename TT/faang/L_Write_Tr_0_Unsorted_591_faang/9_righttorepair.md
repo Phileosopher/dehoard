@@ -1,0 +1,11 @@
+
+[Breaking "DRM" in Polish trains [video] | Hacker News](https://news.ycombinator.com/item?id=38788360)
+[Breaking "DRM" in Polish trains - media.ccc.de](https://web.archive.org/web/20240106093138/https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains)
+[Polish Hackers that repaired DRM trains threatened by train company | Hacker News](https://news.ycombinator.com/item?id=38628635)
+[Polish Hackers Repaired Trains the Manufacturer Artificially Bricked. Now The Train Company Is Threatening Them](https://www.404media.co/polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-the-train-company-is-threatening-them/)
+[Dieselgate, but for trains - some heavyweight hardware hacking | Hacker News](https://news.ycombinator.com/item?id=38567687)
+[Dieselgate, but for trains - some heavyweight hardware hacking - BadCyber](https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/)
+[Polish trains lock up when serviced in third-party workshops | Hacker News](https://news.ycombinator.com/item?id=38530885)
+[q3k :blobcatcoffee:: "I can finally reveal some rese…" - Warsaw Hackerspace Social Club](https://social.hackerspace.pl/@q3k/111528162462505087)
+[Trains were designed to break down after third-party repairs, hackers find | Hacker News](https://news.ycombinator.com/item?id=38638865)
+[Trains were designed to break down after third-party repairs, hackers find | Ars Technica](https://arstechnica.com/tech-policy/2023/12/manufacturer-deliberately-bricked-trains-repaired-by-competitors-hackers-find/)

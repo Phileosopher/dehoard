@@ -1,0 +1,2 @@
+
+In effect, the power of an internet user is defined by how much time they spend curating their communication to ride the waves of an algorithm. This system creates a power dynamic defined by how much they're not doing other more important things, alongside the defined agenda that a social media algorithm has been programmed to endorse. When people consume that every day, it creates a minority of people who do nothing but work themselves into an agitated froth with not much else to show for it.

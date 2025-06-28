@@ -1,0 +1,5 @@
+
+A rent-to-own laptop product. He bulk buys the laptops for $200 apiece
+and rents-to-own them out for $20 a week for a year.
+- THERE ARE A LOT OF MIDDLEMAN OPPORTUNITIES, MOSTLY BECAUSE PEOPLE ARE COMPUTER IDIOTS AND DON'T LIKE TO WORK WITH COMPUTERS
+- IN OTHER WORDS, YOU WIN WHEN YOU CAN USE COMPUTERS TO GET COMPUTERS OUT OF THE WAY
