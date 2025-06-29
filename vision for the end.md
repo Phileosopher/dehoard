@@ -39,10 +39,15 @@ keep the opinions
 
 ## TT
 
-all technical specs and facts moved to notes
+migrate *all* STEM to TT
+- all technical specs and facts moved to notes
 
 keep the opinions
 - not understanding is good
 - understand primitives
 
 strip out FAANG and send to notes, but keep the ideas
+
+make a "what's technology" page?
+- indicate how we actually define it as "high technology"
+
