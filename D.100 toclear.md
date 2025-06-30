@@ -20,12 +20,6 @@
 
 ## 0 TT
 
-- Tech Esoterica: Code Snips
-- Technical Documentation: Why Write Stuff Down?
-- Tech Esoterica: RSS
-- Social Network: How Do People Use Websites Together?
-- Tech Esoterica: Keyboard Shortcuts – Web Browser
-- Goal-Setting: What Do You Want In CS?
 - Technical Interviewing: How Do You Ace a Technical Interview?
 - Non-Technical Interviewing: How Do You Prove You’re Good at Computers with Speaking?
 - Closing the Deal/Negotiating: How Do You Land the Job?
