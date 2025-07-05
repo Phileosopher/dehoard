@@ -1,2 +1,0 @@
-
-[SECUSHARE](https://secushare.org/)

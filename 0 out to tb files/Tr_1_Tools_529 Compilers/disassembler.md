@@ -1,2 +1,0 @@
-
-[REDasm](https://redasm.io/)

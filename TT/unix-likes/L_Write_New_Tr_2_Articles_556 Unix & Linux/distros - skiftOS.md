@@ -1,2 +1,0 @@
-
-[skiftOS](https://skiftos.org/)

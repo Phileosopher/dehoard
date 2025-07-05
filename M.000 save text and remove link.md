@@ -11,8 +11,7 @@ speakerdeck
 slideshare
 scribd
 [Slideshare Downloader - Directly Download Slides PDF/PPT](https://slidesaver.app/)
-- THIS GOES TO TB!
-
+  THIS GOES TO TB!
 
 twitter.com
 mastodon posts

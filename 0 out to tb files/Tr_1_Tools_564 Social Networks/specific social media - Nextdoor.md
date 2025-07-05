@@ -1,2 +1,0 @@
-
-[NextDoor](https://nextdoor.com/)
