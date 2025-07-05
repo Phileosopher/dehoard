@@ -16,3 +16,6 @@ to explore ecclesiology is to self-reflect on a group's [identity]
 it's important to be VERY obsessive about language
 - without specificity, people can fall away and the devil can deceive them
 - the product of low-language Christianity is to generate moralistic therapeutic deism
+
+It is not appropriate for believers to seek a legacy
+- it is conceit, veiled as meaningful

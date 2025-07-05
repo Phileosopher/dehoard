@@ -29,3 +29,5 @@ in identity: we are not our feelings, we are not our thoughts
 - we are the soul that oversees those feelings and thoughts
 
 per Jules: the feelings simply need to fly by
+
+define: feelings vs mood vs affect
