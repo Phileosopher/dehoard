@@ -26,3 +26,7 @@ marketing
 
 [A Swiss town banned billboards. Zurich, Bern may soon follow | Hacker News](https://news.ycombinator.com/item?id=41075766)
 [Switzerland: Zurich, Bern Consider Billboard Advertising Bans - Bloomberg](https://www.bloomberg.com/news/articles/2024-07-26/zurich-bern-consider-billboard-bans-after-vernier-outlaws-visual-pollution)
+
+Ideal selling is 1 to 1
+The marketing data is trying to create 1 to 1 in targeting
+Machine learning can generate a 1 to 1 conversation

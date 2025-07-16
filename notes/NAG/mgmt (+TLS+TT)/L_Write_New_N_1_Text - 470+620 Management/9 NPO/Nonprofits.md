@@ -1,4 +1,7 @@
 
+Don't measure people served, measure the turnover rate (eg ppl rehabilitated)
+
+
 [Wikipedians are rebelling against "unethical" Wikipedia fundraising banners | Hacker News](https://news.ycombinator.com/item?id=33609240)
 - NPOs tend to prey on the good faith of others
 - they often exploit guilt and shame to get there

@@ -20,3 +20,9 @@ Sentencing, goes to Enforcement
 
 [Wex | Wex | US Law | LII / Legal Information Institute](https://www.law.cornell.edu/wex)
 - a tool for legal research, costs money for full use
+
+LEGALLY SAFE:
+Get the title released for the car or house
+1 get the info beforehand
+2 submit it ASAP
+Protects from everything associated with you and the car
