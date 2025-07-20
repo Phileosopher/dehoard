@@ -18,13 +18,10 @@ General approach:
 - Closing the Deal
 - How to Write
 - Handling Death
-- Basic First Aid
 - Throwing a Party
 - Parenting Babies
 - Interviewing
 - Image Crafting
-- Staying Humble
-- Making Realistic Goals
 - Short-Term Preparation
 - What to Change
 - Parenting/Releasing Teenagers
@@ -45,7 +42,6 @@ General approach:
 - Long-Term Preparation: Moving
 - Why People Skills Matter
 - Why Money Management Matters
-- Persevering
 - WAD Overcoming Interpersonal Hardships
 - Adequate Data: Disaster Checklist
 - How Creativity Works
@@ -58,8 +54,6 @@ General approach:
 - Parenting Children
 - Housekeeping
 - Conflicts
-- Optimizing Your Routine
-- Attitude Adjustment
 - Getting Organized
 
 ## AL3
@@ -69,24 +63,18 @@ General approach:
 - Decorations & Renovations
 - Making Yourself Presentable
 - Budgeting & Goals
-- Self-Awareness
 - Improving Memory
 - Adequate Data: Fun Ideas
 - Everything About Debt
 - How to Speak
 - Overcoming Severe Hardship
-- Defining Success
 - Preparing for the Search
+- Weight Management
+  - will probably need to separate diet/exercise
 
 ## Keep But Review
 
 - Making Habits Stick
-- Defining Happiness
-  - summation grouped
-  - merge Fighting Unhappiness into it
-  - merge Maintaining Happiness into it
-- Weight Management
-  - will probably need to separate diet/exercise
 
 ## OTHER AL
 

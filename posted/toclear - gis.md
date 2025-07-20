@@ -5,7 +5,7 @@ General approach:
 
 1. low-popularity data is always sub-grouped under a commonplace essay (e.g., eras becomes "stories-eras")
 2. move the body of the essay (abstract ideas) to commonplace and link at bottom
-3. "Application" becomes the body of the essay, merge ideas together
+3. "Application" becomes the body of the essay, merge ideas together into a differently-named essay (e.g., how networks function, humanity is an image)
 4. debatable or difficult moves to "dehoard" ideas
 5. debate value of GIS3
 
@@ -44,7 +44,6 @@ General approach:
 - Fear
 - Science
 - Pedagogy
-- Philosodata: Bad Predictions
 - Technology
 - Conservative/Liberal
 - Rules
