@@ -62,3 +62,5 @@
 [The Power of the Convicted Few – Gab News](https://news.gab.com/2025/04/the-power-of-the-convicted-few/)
 
 [The Lost Promise of the Digital Age – Gab News](https://news.gab.com/2025/05/the-lost-promise-of-the-digital-age/)
+
+[Our Faith Is Not a Suicide Pact – Gab News](https://news.gab.com/2025/07/our-faith-is-not-a-suicide-pact/)

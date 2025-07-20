@@ -1,6 +1,20 @@
 
 # 2025-06-21 My vision for how I want my websites to not have useless information and glorify God
 
+FORMER
+How do I... AL
+What is... GIS
+What does God... TLS
+How do computers... TS
+??... NAG
+
+NOW
+AL - What is the TLDR for functioning?
+GIS - What is nobody else saying that needs to be said?
+TLS - What are Christians not saying that needs to be said?
+TS - What is the TLDR for how things work?
+NAG - (gone, redirect to TS)
+
 ## ST
 
 It will not have much changed, but I may move things around

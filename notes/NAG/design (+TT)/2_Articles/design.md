@@ -9,3 +9,5 @@ Designer Excuses, based on [Jon Moore' article on medium](https://medium.com/ux-
 
 [UX Quotes](http://uxchoice.com/ux-quotes)
 Tweetable quotes on User Experience / Design
+
+https://digitalsynopsis.com/design/50-clever-hidden-meaning-logo-designs/

@@ -7,3 +7,5 @@ the people who follow the [trends] around AI are essentially practitioners of a 
 
 the "artificial intelligence" is never really "intelligent"
 - it's basically just a bunch of rules: an [algorithm]
+
+[Fooling ourselves | WORLD](https://wng.org/articles/fooling-ourselves-1749073881)

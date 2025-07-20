@@ -54,3 +54,67 @@
 [Katawa Shoujo](https://www.katawa-shoujo.com/)
 
 [the book of common prayer – Qwant Search](https://www.qwant.com/?q=the+book+of+common+prayer&t=web)
+
+[Adam Carrington: A liturgy that changed the world | WORLD](https://wng.org/podcasts/adam-carrington-a-liturgy-that-changed-the-world-1749495850)
+
+[What Is Midrash? | My Jewish Learning](https://www.myjewishlearning.com/article/midrash-101/)
+
+https://www.amazon.com/What-Every-Christian-Should-Know/dp/1540902129
+
+https://www.sandyadams.org/
+
+https://en.m.wikipedia.org/wiki/Silent_reading
+
+https://neurolaunch.com/mental-disorders-similar-to-narcissism/
+
+[“THAT'S MY KING!” EXTENDED VERSION - S. M LOCKRIDGE 1970's - YouTube](https://www.youtube.com/watch?v=VwQqQkdn_5Q)
+
+[Understand systems with Connection circles • Buttondown](https://buttondown.com/untools/archive/understand-systems-with-connection-circles-4101/)
+
+https://wng.org/podcasts/darkness-beauty-and-belief-1749845820
+
+https://wng.org/podcasts/andrew-walker-rethinking-influence-1750089914
+
+https://standinthegapmedia.org/
+
+https://www.rethinknow.org/when-to-leave-a-church-changing-churches/
+
+https://en.m.wikipedia.org/wiki/Cooperative_principle
+
+https://mises.org/podcasts/revisionist-history-war-conference
+
+https://www.blinkerfluidcoach.com/videos-1/v/character-structure-building-attachment-how-to-get-people-fuel
+
+https://www.boundariesbooks.com/products/people-fuel-fill-your-tank-for-life-love-and-leadership
+
+http://rei.to/carotdav_en.html
+
+https://en.m.wikipedia.org/wiki/The_dress
+
+https://www.tabletmag.com/sections/news/articles/honor-rock-west-israel
+
+https://www.outsideonline.com/health/training-performance/movement-key-to-living-longer
+
+https://www.reddit.com/r/todayilearned/comments/1m31xdu/til_a_man_with_chronic_d%C3%A9j%C3%A0_vu_was_trapped_in_a/
+
+https://www.equip.org/articles/the-dark-side-of-eternity-hell-as-eternal-conscious-punishment/
+
+https://www.amazon.com/Biblical-Doctrine-Systematic-Summary-Bible/dp/1433545918
+
+https://www.amazon.com/Follow-Him-Seven-Marks-Disciple/dp/1576730352
+
+https://en.m.wikipedia.org/wiki/ELIZA_effect
+
+https://www.carrierlookup.com/
+
+https://20somethingfinance.com/how-to-send-text-messages-sms-via-email-for-free/
+
+https://wng.org/podcasts/flynn-evans-the-porn-illusion-1752631857
+
+[Bible Chronology and Timelines](https://www.bible.ca/chronology/)
+
+[Rapture Refuted! Pre-tribulation Rapture and Premillennialism Refuted Home page](https://www.bible.ca/rapture.htm)
+
+[Should we use AI and LLMs for Christian Apologetics? - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/)
+
+[Not your father’s bluegrass | WORLD](https://wng.org/podcasts/not-your-fathers-bluegrass-1752080900)

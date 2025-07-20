@@ -13,3 +13,7 @@
 [John Gottman: The science of love | John Gottman | TEDxVeniceBeach | TED Talk](https://www.ted.com/talks/john_gottman_the_science_of_love)
 
 [Even Healthy Couples Fight — the Difference Is How | Julie and John Gottman | TED - YouTube](https://www.youtube.com/watch?v=nBN9zG1JNPg)
+
+[6 Ways to Affair-Proof Your Marriage - Fierce Marriage](https://fiercemarriage.com/6-ways-affair-proof-marriage)
+
+[Will These "Magic Questions" Help Your Marriage? (Part 1 of 2) - Fierce Marriage](https://fiercemarriage.com/will-these-magic-questions-help-your-marriage-part-1-of-2)

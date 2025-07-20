@@ -49,3 +49,17 @@
 [WW: Tower to Truth Ministries – Pens & Wrenches](https://pensandwrenches.com/2025/05/28/ww-tower-to-truth-ministries/)
 
 [WW: The Pocket Testament League – Pens & Wrenches](https://pensandwrenches.com/2025/06/04/ww-the-pocket-testament-league/)
+
+[WW: The Catholic Blog – Pens & Wrenches](https://pensandwrenches.com/2025/06/24/ww-the-catholic-blog/)
+
+[A Big Mac to the Back: Preaching at Ambassador’s Academy – Pens & Wrenches](https://pensandwrenches.com/2025/06/25/big-mac-preaching-ambassadors-academy/)
+
+[Personal Lessons Learned at Ambassador’s Academy – Pens & Wrenches](https://pensandwrenches.com/2025/06/27/personal-lessons-learned-at-ambassadors-academy/)
+
+[WW: The Cross Current – Pens & Wrenches](https://pensandwrenches.com/2025/07/02/ww-the-cross-current/)
+
+[Relating to Culture in Evangelism – Pens & Wrenches](https://pensandwrenches.com/2025/07/08/relating-to-culture-in-evangelism/)
+
+[We’re Getting Ready—Are You? – Pens & Wrenches](https://pensandwrenches.com/2025/07/09/were-getting-ready-are-you/)
+
+[Understanding the Devil’s Tactics in Art and Life – Pens & Wrenches](https://pensandwrenches.com/2025/07/19/devils-tactics-in-art/)
