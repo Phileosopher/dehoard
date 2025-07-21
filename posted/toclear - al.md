@@ -8,77 +8,88 @@ General approach:
 3. delete if not core
 4. debate value of AL3
 
-## AL1
+Jobs
+
+- Making Plans (jobs)
+- Image Crafting
+- Interviewing
+- Closing the Deal
+- Job Hunting
+- Preparing for the Search
+
+Survival
 
 - Surviving Nature
-- Pet Ownership
-- Making Plans (jobs)
 - Adequate Data: Specific Survival Situations
-- Deciding on College
-- Closing the Deal
-- How to Write
-- Handling Death
-- Throwing a Party
-- Parenting Babies
-- Interviewing
-- Image Crafting
-- Short-Term Preparation
-- What to Change
-- Parenting/Releasing Teenagers
-- Weddings
-- Dealing with Liars
-
-## AL2
-
-- Long-Term Preparation: Staying
-- Prolonged Unemployment
-- Alcohol Ideas
-- How to Cook
-- Job Hunting
-- Adequate Data: Numerous Saving Tips
-- Wise Spending Concepts
-- WAD Overcoming Personal Hardships
-- WAD Overcoming Society's Hardships
-- Long-Term Preparation: Moving
-- Why People Skills Matter
-- Why Money Management Matters
-- WAD Overcoming Interpersonal Hardships
-- Adequate Data: Disaster Checklist
-- How Creativity Works
-- Defining Disasters
-- Basic Computer Skills
-- Building Friendships
-- Respecting People
-- Having Fun
-- Life Partner Relationships
-- Parenting Children
-- Housekeeping
-- Conflicts
-- Getting Organized
-
-## AL3
-
-- Enjoying Vacations & Trips
-- Dating
-- Decorations & Renovations
-- Making Yourself Presentable
-- Budgeting & Goals
-- Improving Memory
-- Adequate Data: Fun Ideas
-- Everything About Debt
-- How to Speak
-- Overcoming Severe Hardship
-- Preparing for the Search
-- Weight Management
+- WAD Weight Management
   - will probably need to separate diet/exercise
 
-## Keep But Review
+Productivity
+
+- How Creativity Works
+- Housekeeping
+- Getting Organized
+- Improving Memory
+
+Having fun
+
+- Pet Ownership
+- Throwing a Party
+- Weddings
+- Having Fun
+- Enjoying Vacations & Trips
+- Decorations & Renovations
+- Adequate Data: Fun Ideas
+
+People skills
+
+- How to Write
+- Dealing with Liars
+- Building Friendships
+- Respecting People
+- Life Partner Relationships
+- Conflicts
+- Dating
+- How to Speak
+
+Hardship
+
+- Handling Death
+- Prolonged Unemployment
+- WAD Overcoming Personal Hardships
+- WAD Overcoming Society's Hardships
+- WAD Overcoming Interpersonal Hardships
+- Overcoming Severe Hardship
+
+Parenting
+
+- Parenting Babies
+- Parenting/Releasing Teenagers
+- Parenting Children
+
+Disasters
+
+- Short-Term Preparation
+- Long-Term Preparation: Staying
+- Long-Term Preparation: Moving
+- Adequate Data: Disaster Checklist
+- Defining Disasters
+
+DELETE?
+
+- What to Change
+
+Food
+
+- How to Cook (will want to link other saved stuff I've already pulled)
+
+KEEPBUTREVIEW
 
 - Making Habits Stick
 
 ## OTHER AL
 
-WILL POST ONTO WEBSITE, THEN PUBLISH SEPARATE @D2D
+WILL POST ONTO WEBSITE(?), THEN PUBLISH SEPARATE @D2D
 
 - How to Start Looking at Autism (2nd edition)
 - How to Start Looking at Autistics (obsolete)
