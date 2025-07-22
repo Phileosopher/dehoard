@@ -1,4 +1,0 @@
-
-Baking soda
-Vinegar
-Borax

@@ -1,22 +1,6 @@
 
 # AL clearout
 
-General approach:
-
-1. strip out the data, move to commonplace and link
-2. strip out the guide, move to commonplace root and link
-3. delete if not core
-4. debate value of AL3
-
-Jobs
-
-- Making Plans (jobs)
-- Image Crafting
-- Interviewing
-- Closing the Deal
-- Job Hunting
-- Preparing for the Search
-
 Survival
 
 - Surviving Nature
@@ -27,13 +11,11 @@ Survival
 Productivity
 
 - How Creativity Works
-- Housekeeping
 - Getting Organized
 - Improving Memory
 
 Having fun
 
-- Pet Ownership
 - Throwing a Party
 - Weddings
 - Having Fun
