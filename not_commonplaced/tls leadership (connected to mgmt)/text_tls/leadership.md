@@ -19,3 +19,5 @@ it's important to be VERY obsessive about language
 
 It is not appropriate for believers to seek a legacy
 - it is conceit, veiled as meaningful
+
+It takes ~2 yrs to replace a pastor

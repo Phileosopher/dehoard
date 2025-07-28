@@ -31,3 +31,8 @@ in identity: we are not our feelings, we are not our thoughts
 per Jules: the feelings simply need to fly by
 
 define: feelings vs mood vs affect
+
+The excess of anything will pass into the realm of fetish
+- anything whatsoever becomes sexual arousal if it is pushed too heavily or gratuitously
+- art very often tests limits, which is why it verges constantly into the realm of sexuality (and why homosexuality is rampant)
+- goodness is defined by a regulation to standards that don't deviate, and is why great art's sexuality is subdued (eg mona lisa)
