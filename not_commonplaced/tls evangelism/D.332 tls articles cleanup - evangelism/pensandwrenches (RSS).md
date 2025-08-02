@@ -63,3 +63,9 @@
 [We’re Getting Ready—Are You? – Pens & Wrenches](https://pensandwrenches.com/2025/07/09/were-getting-ready-are-you/)
 
 [Understanding the Devil’s Tactics in Art and Life – Pens & Wrenches](https://pensandwrenches.com/2025/07/19/devils-tactics-in-art/)
+
+[Don’t Climb Abord the Crazy Train – Pens & Wrenches](https://pensandwrenches.com/2025/07/30/dont-climb-abord-the-crazy-train/)
+
+[WW: Open Air Campaigners – Pens & Wrenches](https://pensandwrenches.com/2025/06/11/ww-open-air-campaigners/)
+
+[Keeping a Bible Study from Being Hijacked – Pens & Wrenches](https://pensandwrenches.com/2025/06/13/keeping-a-bible-study-from-being-hijacked/)

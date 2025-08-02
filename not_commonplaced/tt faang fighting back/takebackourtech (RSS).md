@@ -50,3 +50,29 @@
 [The Digital You: Built from your Data](https://tbot.substack.com/p/the-digital-you-built-from-your-data)
 
 [Why Are We Addicted to Our Phones?](https://tbot.substack.com/p/why-are-we-addicted-to-our-phones)
+
+[Take Back Our Tech · FreshRSS](https://stucky.tech/freshrss/p/i/?a=normal&get=f_35)
+
+[Speaking The Language of Plants Through Narrowband Light](https://tbot.substack.com/p/speaking-the-language-of-plants-through)
+
+[Understanding Electromagnetic Fields](https://tbot.substack.com/p/understanding-electromagnetic-fields)
+
+[Monero’s 51% Attack: Centralization vs Decentralization at the hands of an AI Coin](https://tbot.substack.com/p/moneros-51-attack-centralization)
+
+[The Best Way to Beat SIM Swaps? Stop Using a Phone Number.](https://tbot.substack.com/p/the-best-way-to-beat-sim-swaps-stop)
+
+[Is It Hard to Switch to Above Phone?](https://tbot.substack.com/p/is-it-hard-to-switch-to-above-phone)
+
+[#TBOT Show 8: Monero Attacked by a Centralized AI Coin, Linux Users Who Use PCs - Watch Out, Australian Age Verification](https://tbot.substack.com/p/tbot-show-8-monero-attacked-by-a)
+
+[Best and Worst Tech I Saw in Japan - Take Back Our Tech](https://tbot.substack.com/p/best-and-worst-tech-i-saw-in-japan)
+
+[What Japan Taught Me About Discipline, Death, and Digital Life](https://tbot.substack.com/p/what-japan-taught-me-about-discipline)
+
+[Reducing EMF Harm - New Study with Geophilia](https://tbot.substack.com/p/reducing-emf-harm-new-study-with)
+
+[XMPP Made Simple - Live Setup Demo on Corbett Report](https://tbot.substack.com/p/xmpp-made-simple-live-setup-demo)
+
+[Mexico’s Biometric ID: Oh Crap, its the Cuerpo](https://tbot.substack.com/p/mexicos-biometric-id-oh-crap-its)
+
+[Profiles = Protection: Why App Isolation Matters](https://tbot.substack.com/p/profiles-protection-why-app-isolation)
