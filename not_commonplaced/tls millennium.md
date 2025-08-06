@@ -10,3 +10,6 @@ Isa 19
 - there will be altars across the world?
 23In that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt, and the Egyptians to Assyria. The Egyptians and Assyrians will worship together.
 24In that day Israel will join a three-party alliance with Egypt and Assyria—a blessing upon the earth. 25The LORD of Hosts will bless them, saying, “Blessed be Egypt My people, Assyria My handiwork, and Israel My inheritance.”
+
+
+Hos 2:18 On that day I will make a covenant for them with the beasts of the field and the birds of the air and the creatures that crawl on the ground. And I will abolish bow and sword and weapons of war in the land, and will make them lie down in safety.
