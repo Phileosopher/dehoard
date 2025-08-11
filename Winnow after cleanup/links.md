@@ -46,3 +46,25 @@ https://www.youtube.com/watch?v=1yZxqAxJwg0
 https://www.thebrink.me/chatgpt-induced-psychosis-how-ai-companions-are-triggering-delusion-loneliness-and-a-mental-health-crisis-no-one-saw-coming/
 
 https://thespectator.com/topic/progressivism-killed-american-protestantism/
+
+https://reclaimthenet.org/judge-strikes-down-california-deepfake-censorship-law
+
+https://buttondown.com/untools/archive/why-ai-is-making-us-worse-thinkers-and-how-to/
+
+https://www.unitypoint.org/news-and-articles/heat-stress-vs-heat-exhaustion-vs-heat-stroke
+
+https://reclaimthenet.org/the-payment-giant-that-wants-to-be-your-digital-id
+
+https://www.yearofmentalhealth.com/p/the-feelings-wheel-beyond-good-bad
+
+https://us5.campaign-archive.com/?e=0999e1ccd1&u=b38185d0dfde8285ccccf4ed6&id=072aa2977d
+
+https://www.yearofmentalhealth.com/p/every-message-is-a-gift
+
+[Surviving The Chronic Liar: 5 Things To Do](https://psychcentral.com/blog/caregivers/2019/07/surviving-the-chronic-liar-5-things-to-do)
+
+[How to Understand and Cope with Compulsive Liars](https://www.verywellmind.com/compulsive-liars-how-to-cope-with-their-lies-7373288)
+
+[The Many Ways You Can Deal With A Compulsive Lair at Work](https://www.thehrdigest.com/many-ways-can-deal-compulsive-lair-at-work/)
+
+[What Do You Do With an Insecure Liar? | Psychology Today](https://www.psychologytoday.com/us/blog/lasting-love/202103/what-do-you-do-insecure-liar)

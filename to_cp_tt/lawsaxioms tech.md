@@ -1,4 +1,38 @@
 
+Since computers advance so fast, all previous analysis and efforts were made in a different time period, so anything over a year old is the soft social science of history.
+
+There's no universal ideal solution, but there are ideals for use cases. There are also more wrong solutions than right ones.
+
+You only legitimately understand something either the third time you see it or the first time you teach it.
+
+You'll never have all the information, so start the analysis as soon as possible and reconfigure often.
+
+Make guesses when in doubt, guess in an emergency, but always clean up the mess later.
+
+You're not as smart or experienced as everyone else in the industry. If your analysis says your prototype will run faster than Google, you may have invented a new [mathematical proof](math.md), but it's more likely you missed something.
+
+Designing something better than requirements is completely uncorrelated to the final product's quality.
+
+Requirements come from the ability to "do" things, no matter what engineering textbooks say.
+
+The fastest way to solve something is often to throw out everything and start over.
+
+### fixing things
+
+[Hacking](hacking.md) and [coding](programming-basics.md) is an analytical [creative](mind-creativity.md) art pursuing vague goals, so it's not worth taking failure personally.
+
+### working
+
+Don't use a company account to sign up for something if you plan to use that service longer than staying with the company ([which is *very* likely](/your-job-sucks/)).
+
+Unless you enjoy the experience, only make a productivity-enhancing system if the work to do it takes less time than the time you save over a year.
+
+### Trends
+
+The unwashed masses don't understand computers, but they vote with their wallet, so the tech industry is run by the tyranny of the majority.
+
+The people who build out the winning tech [trends](https://gainedin.site/trends/) are some random guy name Ronald who makes a Unix-based software package called "runk" that stands for "Ronald's Universal Number Kounter". Then, big names like Bill Gates and Steve Jobs streamline it and sell it at enormous profit.
+
 ### Wadler's Law
 
 Wadler's Law on wiki.haskell.org
