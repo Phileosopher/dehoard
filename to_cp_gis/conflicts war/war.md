@@ -1,4 +1,8 @@
 
+it's worth indicating that EVERY conflict has war associated, since people [imagine] it going there as soon as [love] for their antagonist is utterly removed.
+- of course, most people don't want to admit it, since their [shame] or [fear] of what others would think (as a power tactic) prevents them from openly disclosing the value
+- this doesn't have any [class] distinction, either: the [evil] would represent in the weak if they became strong
+
 [Bad-jacketing - Wikipedia](https://en.m.wikipedia.org/wiki/Bad-jacketing)
 
 [Something Every Cop Should Hear – Dude Named Ben](https://namedben.com/something-every-cop-should-hear/)
