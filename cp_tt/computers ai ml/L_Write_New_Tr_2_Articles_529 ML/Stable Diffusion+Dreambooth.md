@@ -1,0 +1,3 @@
+
+[I used Stable Diffusion and Dreambooth to create an art portrait of my dog | Hacker News](https://news.ycombinator.com/item?id=35592847)
+[How I Used Stable Diffusion and Dreambooth to Create A Painted Portrait of My Dog - In this post, we walk through my entire workflow/process for bringing Stable Diffusion to life as a high-quality framed art print. We'll touch on making art with Dreambooth, Stable Diffusion, Outpainting, Inpainting, Upscaling, preparing for print with Photoshop, and finally printing on fine-art paper with an Epson XP-15000 printer.](https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog)
