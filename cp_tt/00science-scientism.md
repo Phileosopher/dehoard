@@ -1,59 +1,5 @@
 
-NOTE: DOVETAILS WITH NAG SCIENCE
-
-Science is a robust branch of metaphysics that specializes in the knowable, known, and potentially knowable. It starts with what people consider common sense, then develops as a [story](stories.md) to clarify whether that [sense](mind-feelings.md) is accurate.
-
-The specific method for scientific understanding is an established procedure designed to remove individual [bias](mind-bias.md):
-
-1. Ask a question.
-   - Someone must be able to test and observe that question's answer.
-   - This question comes from a [desire](purpose.md) to discover [facts](reality.md), but the rest of the steps are a [story](stories.md) that concludes with communicating the findings.
-2. Do background research.
-   - Investigate any existing discoveries from publications, past data, wikis, anecdotes, and personal experiences.
-   - Good scientists work hard to suspend *all* [judgment](understanding-certainty.md) as they thoroughly sift through the information, though [they can never be entirely precise](mind-bias.md).
-3. Build an educated guess (i.e., a "hypothesis").
-   - It doesn't have to make sense, but must be [logical](logic.md).
-4. Test that guess with an experiment.
-   - All experiments require identifying [numbers](math.md) (quantitative) or [qualities](values.md) (qualitative).
-   - Whenever possible, have a "control" and "test" group to compare differences.
-   - Sometimes, the experiments are merely focused observations.
-5. Analyze the data from the experiment, then conclude something.
-   - Break the information into [tables, charts, and graphs](data-viz.md) to find [patterns](symbols.md), a bit like [the creative process](mind-creativity-how.md).
-   - Keep many notes about how you got the data so anyone else can get the same results if they reproduce your conditions.
-   - The conclusion should be so blatantly obvious that any other sane person with the same evidence will infer the same conclusion.
-6. [Communicate](people-conversation.md) the results and get feedback.
-   - The communication step is *loaded* with [politics](power.md) and [bias](image.md) from [human nature](humanity.md), though many in the scientific community [believe](trust.md) the system is self-correcting.
-   - If the results diverge from [convention or tradition](habits.md), the feedback will likely create [controversy](people-conflicts.md).
-   - Often, editing the [presentation](stories.md) of the scientific paper can advance the controversial result through [virtue signaling](stories-storytellers.md) the community's [pre-existing beliefs](trust.md).
-
-## Science has limits
-
-Science is a method, so it can give answers to questions, but never *provides* those questions. Those come from the [curiosity](purpose.md) of people wishing to know, [fear](mind-feelings-fear.md) of what would happen if they *don't* know, or some form of personal gain through the [publishing process](stories-storytellers.md).
-
-All scientific theories can only represent 2 possibilities:
-
-1. Theories known to be wrong, since they were sufficiently tested and adequately rejected.
-2. Theories that haven't been affirmed as wrong yet, not falsified yet, but are exposed to the possibility of being wrong.
-
-It's impossible to use science to [deductively](logic.md) affirm something as right or true, simply because humanity cannot perceive all [reality](reality.md), and therefore can only [inductively deduce](logic.md) reality with a margin of error.
-
-Metaphysics concerns itself with *everything* that exists, but scientific thinking can only localize itself strictly to [provable](understanding-certainty.md) things. Without [philosophy](philosophy.md) or [theology](religion.md), everything beyond the provable is murky conjecture:
-
-- Where the universe came from
-- How life exists
-- [What happens after we die](religion.md)
-- Most of the disciplines surrounding [psychology](humanity.md), [economics](economics.md), and [politics](groups-large.md)
-- Whether a [soul](humanity.md) exists
-
-Even within the realm of [known things](understanding-certainty.md), a conversation with a small child will reveal *many* obvious things outside the scope of science.
-
-Further, to answer every presently obvious question would yield many more beyond them, and the full breadth of scientific knowledge will never, *ever* end until either our [desire to understand](understanding.md) ceases or we've mastered all aspects of the universe.
-
-## Scientists fail at science
-
-The only way a scientific mind can assert that something is, in fact, [reality](reality.md), is to set up all experiments while believing a high possibility of failure. A healthy philosophy of the scientific method will consider *all* possibilities where an experience is definitely correlation (i.e., A, then B) but may not be causation (i.e., A causes B).
-
-Further, a scientist will disclose *absolutely every reason* why their experiment might be invalid. However, this type of [storytelling](stories.md) is rigorous and requires a certain level of [humility](morality.md), and that degree of transparency works against how [human nature](humanity.md) is naturally [influenced](influence.md).
+## The failure of scientism
 
 Most significant scientific studies require money, so they're also typically performed with a secondary [purpose](purpose.md) by their financiers. A studies' validity, therefore, can be derived from [understanding](understanding.md) why scientists performed it. The [group](groups-large.md) who acquired the data determines how it could have been [distorted](mind-bias.md):
 
@@ -127,37 +73,12 @@ As a logical flow, the scientific community needs to hear alternative [narrative
 
 The irony of [what we know](understanding-certainty.md) in context to [the unknown](unknown.md) is that we acquire so many known elements that we assume there's no more need to accept the unknown within our body of known [understanding](understanding.md).
 
-* * * * *
+Scientim possesses a unique [religious doctrine](religion.md) that prohibits accepting that it is, itself, a religion. In that sense, the [culture](culture.md) behaves like a [cult](culture-cults.md).
 
-## Application
+Many [atheist](religion.md) scientists have hijacked this ideology to imply that science is a self-contained domain, but it's a vastly connected discipline with basically [everything that can be known](science.md).
 
-Great scientists are more concerned with investigating things against popular convention than disproving them. For that reason, most scientists are [unfashionable](trends.md) nerds.
 
-Science is great at affirming and proving the patently obvious, but the science nerds often endorse [fashions](trends.md) that aren't [true](reality.md), often believing *those* things to also be patently obvious.
+To save time on learning for the sake of certainty, it's vitally important to hammer out your metaphysics *before* diving into science:
 
-Science can find facts, but not connections between facts. We still must consider [whether we understand truths correctly](reality.md), which is *not* a scientific endeavor.
-
-"According to scientific studies" is the modern-day iteration of "according to the Bible" in the Middle Ages or "according to the gods" in antiquity.
-
-While science removes individual bias, it doesn't do anything for collective bias. If every human is the same kind of delusional, the scientific community is effectively a large group that shares similar delusions.
-
-Scientific studies are only useful to the degree they're boring.
-
-The scientific community has enough hubris that they aren't willing to accept things they can never know. For that reason, among others, most scientific papers are [image distortion](image-distortion.md) that sneak [self-interested](morality-evil.md), bad [ideas](values.md) past other scientists' [common sense](understanding.md).
-
-To know whether a scientific study is even trustworthy, ask who is paying for the study and *that* [group's](groups-large.md) [bias](mind-bias.md) and [interests](purpose.md).
-
-Scientists often preoccupy themselves with [understanding](understanding.md) "what" and frequently with "how", but they will sometimes fall into bad [cultural](culture.md) beliefs based on the [traditions](habits.md) of other scientists:
-
-1. Why do we have 2 nostrils?
-   - Two nostrils give redundancy to prevent mucus from plugging up airflow.
-2. Where did 2 nostrils come from?
-   - Evolution, since it was the fittest solution to a survival need.
-3. Why don't we see *any* 1-nostril creatures?
-   - They all died off.
-4. Where is the fossil record for that?
-   - We haven't found it yet, but will soon, and it's certainly not driven by an atheistic [agenda](groups-large.md).
-
-Science is the tool, not the master. The [purpose](purpose.md) that drives science comes from other [sources](understanding.md). When scientists don't closely [look beyond](image.md) their [naturally occurring prejudice](mind-bias.md), they submit to the [trends](trends.md) of their [culture](culture.md) and time.
-
-Scientific institutions devolve when they don't have a unified [purpose](purpose.md) for existing, and become the same as any other [bad system](mgmt-badsystems.md).
+1. If there is no god, then the sciences have an indefinite role in exploring the farthest reaches of understanding, and therefore have an effectively infinite utility proportional to our [understanding](understanding.md).
+2. If there *is* a god, then the sciences can only exist as far as we can tangibly know things, which creates a hard limit based on our present [technology](technology.md).

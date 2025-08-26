@@ -124,7 +124,7 @@ Only sell short if you see a looming negative change.
 The market will naturally cycle up and down:
 
 - A market cycle is a [trend](trends.md) that rises, crests, and falls.
-  - There are predictable seasonal trends, such as from [weather](weather.md) or [elections](politics-systems.md).
+  - There are predictable seasonal trends, such as from [weather](science-earth-weather.md) or [elections](politics-systems.md).
   - It tends to go up more slowly than it falls.
   - When it falls, it can devastate entire nations, but only happens periodically.
   - In any randomly given month, the market is likely to go upwards a little.

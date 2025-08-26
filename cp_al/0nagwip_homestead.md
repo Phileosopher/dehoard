@@ -344,7 +344,7 @@ You can cut down on most electricity needs by using alternative energy sources (
 
 If you can, try to get a very high-capacity battery or create an array of smaller batteries to store electricity.
 
-Stay *much* more aware of [incoming storms](weather.md), since natural disasters will more easily take out your power (and it won't be restored as quickly) than a city's.
+Stay *much* more aware of [incoming storms](science-earth-weather.md), since natural disasters will more easily take out your power (and it won't be restored as quickly) than a city's.
 
 - If the power ever *does* go out, make sure to power off everything to avoid accidentally charging a wire later when you're working on it.
 

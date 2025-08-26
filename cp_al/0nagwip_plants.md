@@ -342,7 +342,7 @@ At some point as you scale, you won't simply need tractors and labor.
   - Regulating moisture between storage and selling of product (since it's sold by weight)
   - Tracking market prices and either selling via futures contracts or on the open market
   - Regulating fertilizer usage to maintain the soil
-  - Accommodating for any [weather changes](weather.md) through all of it
+  - Accommodating for any [weather changes](science-earth-weather.md) through all of it
 - To gather data, you'll need plenty of sensors, [wireless technology](radio.md), and [GPS information](logistics-navigation.md).
 - On a more advanced level, modern farming involves high-end specialized [robotics](computers-robotics.md) that use soil data to precisely plant seeds.
 

@@ -254,7 +254,7 @@ Another side effect of electrical transfer is magnetism. Again, by winding elect
 
 In a straightforward sense, a battery is an AC electricity storage container for later use:
 
-1. Have something in a safe box which holds a positive electrical charge for a long time (i.e., many atom ions missing [electrons](science-quantum.md)).
+1. Have something in a safe box which holds a positive electrical charge for a long time (i.e., many atom ions missing [electrons](science-physics-quantum.md)).
 2. Have something in another safe box which holds a negative electrical charge for a long time (i.e., many atom ions with extra electrons).
 3. Attach the device you want to power with a + and - conductor, typically a cable.
 4. As the device needs, it'll draw electrons off - (the cathode) as they travel to + (the anode).
