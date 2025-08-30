@@ -4,7 +4,7 @@
 [Journal.TXT](https://journaltxt.github.io/)
 single-text file journals the human multi-document format for writers
 
-```
+```journal
 
 --
 
@@ -39,7 +39,7 @@ or beer-of-the-day calendars.
 [Todo.TXT](https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format)
 by Gina Trapani et al -future-proof task tracking in a file you control; if you want to get it done, first write it down.
 
-```
+```journal
 
 (A) Call Mom @Phone +Family
 
@@ -62,7 +62,7 @@ x Download Todo.txt mobile app @Phone
 [Feed.TXT](https://feedtxt.github.io/)
 free web feeds format in (plain) text w/ structured meta data
 
-```
+```journal
 
 |>>>
 
@@ -99,7 +99,7 @@ free web feeds format in (plain) text w/ structured meta data
 [Manuscripts](http://manuscripts.github.io/)
 free book format write books in (plain) text
 
-```
+```journal
 
 ---
 
@@ -136,7 +136,7 @@ more often and loudly in the acts of his life...
 [Bib.TXT](http://bibtxt.github.io/)
 free bibliographies in text (unicode) format BibTeX for the 21st century books, articles, & more
 
-```
+```journal
 
 [Fau86]
 
@@ -154,7 +154,7 @@ free bibliographies in text (unicode) format BibTeX for the 21st century books, 
 
 [Ledger](http://plaintextaccounting.org/quickref) double-entry bookkeeping/accounting in (plain) text; follow your money
 
-```
+```journal
 
 2016/1/1 set opening balance
 
@@ -169,4 +169,3 @@ free bibliographies in text (unicode) format BibTeX for the 21st century books, 
    assets:checking
 
 ```
-

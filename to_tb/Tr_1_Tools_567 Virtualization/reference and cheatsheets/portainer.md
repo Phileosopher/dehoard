@@ -3,7 +3,8 @@
 My cheatsheet for Portainer
 
 # Active directory configuration
-```
+
+```activedirectory
 BaseDN: CN=Users,DC=example,DC=org
 Username attribute: sAMAccountName
 Filter: (objectClass=user)

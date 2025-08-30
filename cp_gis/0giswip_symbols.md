@@ -7,9 +7,9 @@ Symbols are inherently [emotional](mind-feelings.md), and they resonate *much* m
 
 We send and store ideas with symbols. The more elaborate and complicated the idea, the more symbols we need.
 
-We don't have enough words to 100% describe what we wish to convey, so we [try our best](mind-creativity-results.md) to grab the best possible arrangement of symbols. We then [trust](trust.md) the other person or our future self will [understand](understanding.md) by filling in the parts we *didn't* say. Naturally, with deeply sophisticated things like [physics and engines](engineering.md), technical writers don't trust much to others' understanding.
+We don't have enough words to 100% describe what we wish to convey, so we [try our best](results.md) to grab the best possible arrangement of symbols. We then [trust](trust.md) the other person or our future self will [understand](understanding.md) by filling in the parts we *didn't* say. Naturally, with deeply sophisticated things like [physics and engines](engineering.md), technical writers don't trust much to others' understanding.
 
-Because of its emotional nature, a symbol represents many elements a person will associate with an object. Some of the most commonplace symbols in society include [language](language.md), [logos](marketing.md), and many [design concepts](design-uxui.md).
+Because of its emotional nature, a symbol represents many elements a person will associate with an object. Some of the most commonplace symbols in society include [language](language.md), [logos](marketing.md), and many [design concepts](engineering-design.md).
 
 People frequently associate a symbol with a [social group](groups-member.md). The symbols *themselves* reproduce very similar patterns across people, and the [social conflict](people-conflicts.md) typically comes through the *[feelings](mind-feelings.md)* associated toward that group.
 
@@ -35,7 +35,7 @@ But, even further, we're attaching human-like qualities that probably shouldn't 
 
 Beyond that, we tend to attach value to specific parts of the body, especially the face. Often, a covered face is a "dehumanizing" thing, and [groups](groups-small.md) can inspire [organizational evil](mgmt-badsystems.md) by having all the members wear a matching and facially obscuring clothing item.
 
-We associate tasks to visual images of human-like depictions. The head associates to [authority or control](power.md). The hands symbolize action or [doing](mind-creativity-results.md). The waist symbolizes [fertility](people-family.md) or [sex](gender.md). The feet imply traveling. We can layer on the imagery to adapt to the situation (e.g., a gloved hand represents unfeeling action).
+We associate tasks to visual images of human-like depictions. The head associates to [authority or control](power.md). The hands symbolize action or [doing](results.md). The waist symbolizes [fertility](people-family.md) or [sex](gender.md). The feet imply traveling. We can layer on the imagery to adapt to the situation (e.g., a gloved hand represents unfeeling action).
 
 Most [language](language.md) involving gestures are reproducing those associations. In the case of lewd or vulgar gestures, they're frequently reproducing the action itself.
 

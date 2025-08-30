@@ -7,7 +7,7 @@ Human beings aren't capable of understanding the raw information in a [database]
 
 Therefore, we must use more articulate ways to express this information.
 
-The easiest way to express data is through a visualization, mostly because our eyes give more absolute information to our brains than any of our other senses. It's *possible* to express data as a sound (e.g., [notifications](design-uxui.md)), but that doesn't mean it's effective in conveying anything precise.
+The easiest way to express data is through a visualization, mostly because our eyes give more absolute information to our brains than any of our other senses. It's *possible* to express data as a sound (e.g., [notifications](engineering-design.md)), but that doesn't mean it's effective in conveying anything precise.
 
 ## Reports
 

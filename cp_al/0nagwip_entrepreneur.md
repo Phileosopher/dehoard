@@ -108,7 +108,7 @@ The disposition of an entrepreneur means they tend to have a few lifestyle eleme
 - Loves [traveling](fun-vacations.md) to original, exotic places.
 - Typically [self-taught](understanding.md), but often not much [college education](jobs-college.md).
 - Often obsessively focused on whatever task they're performing.
-- Spends their free time [learning](pedagogy.md), [absorbing information](understanding.md), or [mastering a fun skill](fun.md).
+- Spends their free time [learning](education.md), [absorbing information](understanding.md), or [mastering a fun skill](fun.md).
 
 For several reasons, entrepreneurs are typically [young](maturity.md).
 
@@ -128,6 +128,6 @@ Many disciplines parallel an entrepreneur's, and most of them typically visit at
 - Professional [writers](language-writing.md), especially fiction writers.
 - [Media](stories-storytellers.md) professionals and [public speakers](language-speaking.md).
 - [Leaders](mgmt-1_why.md) in nonprofit organizations or churches.
-- [Homeschooling](pedagogy-homeschool.md) [parents](parenting-2_children.md).
+- [Homeschooling](education-homeschool.md) [parents](parenting-2_children.md).
 
 *Next: [A Business Idea](entrepreneur-2_idea.md)*

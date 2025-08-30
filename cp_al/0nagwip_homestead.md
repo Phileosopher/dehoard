@@ -30,7 +30,7 @@ Living off the land does *not* have to be expensive, and is often *much* more af
 - Some states give away vacant properties if you build a house on them or live there for a certain amount of time.
 - You can often secure a subsidized or low-interest farm [loan](money-2_debt.md) through the government if you meet certain criteria.
 
-If you choose to live somewhat remotely, and you have children, the best decision *will* be to [homeschool](pedagogy-homeschool.md) your children.
+If you choose to live somewhat remotely, and you have children, the best decision *will* be to [homeschool](education-homeschool.md) your children.
 
 - Remote learning doesn't give the [impact](meaning.md) that an in-person teaching session can provide, especially when a teacher has the work divided across *many* more students.
 - Eventually, *expect* your children to either [leave to find their lifestyle](parenting-3_teenagers.md) (in the [career](jobs-1_why.md) of their choice) or adopt something related to *your* career.
@@ -228,7 +228,7 @@ Whatever dwelling you design, make sure it's accessible later:
 Spend more money than you'd expect on the building's basic structure.
 
 - If you get low-quality building materials, you *will* have to [fix it](fix.md) later.
-- However, don't obsess too much about finishing materials, since they're more for [design](design-uxui.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](trends.md).
+- However, don't obsess too much about finishing materials, since they're more for [design](engineering-design.md) than [use](purpose.md), and you may easily want to change it later if your preference [leans toward it](trends.md).
 - If you're hiring an architect, you'll probably need to rein them in on the finishing, since they typically get carried away with their [creativity](mind-creativity.md) where it [shows the most](image.md).
 
 If you're building something larger, adapt your strategy as constraints arise at [each phase of the project](mgmt-2_projects.md):
@@ -236,7 +236,7 @@ If you're building something larger, adapt your strategy as constraints arise at
 1. Building permissions must conform to [legal requirements](legal-safety.md).
 2. Preparing the site may have certain constraints on what you can do or how much.
 3. Construction often runs into problems with materials or [supply chain](logistics.md) issues.
-4. When finishing, it's easy to see [design issues](design-uxui.md) you may have missed earlier in the project.
+4. When finishing, it's easy to see [design issues](engineering-design.md) you may have missed earlier in the project.
 5. Finally, once you live there, you'll often discover issues you wouldn't have realized otherwise.
 6. Over the long term, the building may start representing [patterns](symbols.md) of specific [issues](fix.md), so [improve](home-decorations.md) as you go.
 

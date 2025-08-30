@@ -428,7 +428,7 @@ Further, those organizations (both public *and* private), when large and powerfu
 
 ## Cyber-coercion
 
-They'll also use systems like [dark patterns](design-uxui.md) and tailored data to promote things that people wouldn't normally choose.
+They'll also use systems like [dark patterns](engineering-design.md) and tailored data to promote things that people wouldn't normally choose.
 
 There are different versions of this:
 

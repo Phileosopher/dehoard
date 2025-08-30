@@ -36,20 +36,20 @@ They do this with many well-placed choices of [language](language.md) that separ
 - Inequality/equity
 - Intersectionality
 
-The promises from leftist leaders create an [image](image.md) of complete equality of [outcome](mind-creativity-results.md). This contrasts strongly with the natural law view of humanity's inherent equality of [essence](humanity.md) because it requires *constant* redistribution of [power](power.md).
+The promises from leftist leaders create an [image](image.md) of complete equality of [outcome](results.md). This contrasts strongly with the natural law view of humanity's inherent equality of [essence](humanity.md) because it requires *constant* redistribution of [power](power.md).
 
 ## Faith
 
 People must operate on a few [presumptions](understanding-certainty.md) to believe the promises of leftist thought leaders:
 
-1. Humanity is inherently [good](morality.md). All [evil](morality-evil.md) is a product of victimhood. Evil [decisions](decisions.md) started with people oppressing other people innocently, and humanity can save itself without [inner transformation](changes.md).
+1. Humanity is inherently [good](morality.md). All [evil](morality-evil.md) is a product of victimhood. Evil [decisions](decisions.md) started with people oppressing other people innocently, and humanity can save itself without [inner transformation](people-changes.md).
 2. There is no absolute [morality](morality.md) or [truth](reality.md). The State defines [justice](morality-justice.md), not [God](religion.md).
 3. As a product of the non-absolute nature of humanity, human nature can be changed directly, with enough centralized control over the process.
 4. Everyone is either a [victim](hardship-ptsd.md) in need of rescuing or an [oppressor](slavery.md) who must be stopped. Attacking the oppressor will [morally](morality.md) balance it.
 5. Even with central [control](rules.md), free-market [economies](economics.md) don't work because people don't want the right things. They must be told or steered toward [desiring](purpose.md) the correct things.
-6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](decisions.md) or [doing](mind-creativity-results.md).
+6. Once the right leadership is in power, goodness will prevail. This sharply contrasts with *anything* the current leadership are [deciding](decisions.md) or [doing](results.md).
 
-The practical effect of leftism is that the government should receive [power](power.md) to give the better [results](mind-creativity-results.md) of the stronger to the weaker. Thus, everyone will have the same things. Their reasoning is that ordered [justice](morality-justice.md) is more important than the chaotic nature of many opportunities, which is a product of disbelieving in [natural law](politics-conservativeliberal.md).
+The practical effect of leftism is that the government should receive [power](power.md) to give the better [results](results.md) of the stronger to the weaker. Thus, everyone will have the same things. Their reasoning is that ordered [justice](morality-justice.md) is more important than the chaotic nature of many opportunities, which is a product of disbelieving in [natural law](politics-conservativeliberal.md).
 
 Since [power](power.md) is how we accomplish *any* [purpose](purpose.md), governments should have some involvement with *everything* a person can [choose](decisions.md) to do.
 
@@ -57,7 +57,7 @@ Naturally, many people in the [lower and lower-middle classes](classes.md) will 
 
 - People who never transitioned through a [rite of passage](maturity.md). Many of them imagine they'll be more [respected](image.md) in a leftist revolution.
 - Self-[identifying](identity.md) [victims](hardship-ptsd.md) who let their past's [injustices](morality-justice.md) define their [decisions](decisions.md).
-- People who want free stuff, but don't consider [where it comes from](mind-creativity-results.md).
+- People who want free stuff, but don't consider [where it comes from](results.md).
 - [Upper-class](classes.md) leaders who [run society poorly](mgmt-badsystems.md), but want to [appear](image.md) benevolent. By doing so, their [image](image.md) is [risk management](insurance.md) against people taking their stuff.
 - Anyone who hates [reality](reality.md) or [their place in it](image.md), doesn't [understand](understanding.md) how much worse things could be, or wants to see [large-scale](groups-large.md) political [change](trends.md) without regard to its [risks](safety.md).
 
@@ -93,7 +93,7 @@ In practice, this means that the greatest authority on just about any subject is
 
 By stating someone is born into a lesser class, everyone is a personalized [victim](hardship-ptsd.md) in need of rescuing that nobody can legitimately [understand](understanding.md). However, they tend to dismiss [how much we all have in common](humanity-universals.md) and are *insanely* prejudiced against an oppressor class (i.e., heterosexual white neurotypical males).
 
-Under identity politics, the claim is that a specific person is more fit to lead *only* by virtue of their race, gender, ethnicity, or whatever. It doesn't consider other elements like aptitude, [experience](mind-creativity-results.md), or [wisdom](understanding.md). In effect, it's [bigoted favoritism](image.md).
+Under identity politics, the claim is that a specific person is more fit to lead *only* by virtue of their race, gender, ethnicity, or whatever. It doesn't consider other elements like aptitude, [experience](results.md), or [wisdom](understanding.md). In effect, it's [bigoted favoritism](image.md).
 
 Often, their claims of divisions are poorly placed. Racism and gender, for example, hasn't *ever* had as much impact on demarcating [groups](groups-large.md) and [social trends](trends.md) as [ethnic](culture.md) discrimination.
 
@@ -124,11 +124,11 @@ However, leftists can still politicize the weather because people are [afraid](m
 - They've claimed that man-made [industrialization](jobs-spcialization.md) is causing the environment to permanently get cooler or hotter beyond normal cycles. However, a large volcano causes more emissions in a few hours than 100 years of industrialization, and stopping the industry (such as COVID-19) brings everything back within months.
 - One of the most common claims connected to climate change is that our population on this planet can grow to the point of taking all the planet's resources. Their call is often to depopulate or curtail the population, but [technology](technology.md) has always solved problems as they've arisen, and [generational cultures](culture.md) have a natural disposition to slow down on reproducing (i.e., having only 1-3 [children](people-family.md)) when the population reaches a certain density.
 
-The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](mind-creativity-results.md) over can [address our issues](purpose.md) better.
+The climate change story is ubiquitous for a simple, broader reason. We're highly capable at [predicting](imagination.md) future problems, but terrible at predicting solutions to those problems. Plus, we [feel](mind-feelings.md) more inclined to [believe](understanding-certainty.md) things we have [control](results.md) over can [address our issues](purpose.md) better.
 
 The cure is more abstract: give more [education](understanding.md) to more people for them to invent better technology. This requires more free information, not fewer people, and government grants oriented toward [sustainability](leftism-sustainability.md) will quickly create a [bureaucratic mess](mgmt-badsystems.md). Shrinking families, abortions, genocide, or any other form of population control almost always veers dangerously close to [evil](morality-evil.md) or, at the very least, making the [lower classes](classes.md) [angry](mind-feelings-anger.md) at their suppressed [freedoms](people-boundaries.md).
 
-While most leftists don't realize it, the leadership of the far left heavily endorses climate change because it's a [creative](mind-creativity.md) method to gain more [power](power.md). By closely tracking someone's "carbon footprint", they can see exactly where someone goes, what they [do](mind-creativity-results.md), who they [interact with](people-conversation.md), and often [deduce](logic.md) with somewhat reliable accuracy what they're [thinking](understanding.md).
+While most leftists don't realize it, the leadership of the far left heavily endorses climate change because it's a [creative](mind-creativity.md) method to gain more [power](power.md). By closely tracking someone's "carbon footprint", they can see exactly where someone goes, what they [do](results.md), who they [interact with](people-conversation.md), and often [deduce](logic.md) with somewhat reliable accuracy what they're [thinking](understanding.md).
 
 ## Language
 
@@ -139,7 +139,7 @@ Many leftist leaders adapt [language](language.md) to [fit their purposes](image
 
 Typically, the Left uses [shame](image.md) to advance their [choice](decisions.md) of words. Sometimes, if they lose an election in their favor and have enough public support, they protest and break things.
 
-Now, with [technology](technology.md), the Left has the [power](power.md) to direct [conversations](people-conversation.md) with [social](people-friends.md) [media](creations.md). While *any* [large group](groups-large.md) with a [dysfunctional desire](mgmt-badsystems.md) can control conversations, leftism has been successfully [doing it](mind-creativity-results.md) for decades.
+Now, with [technology](technology.md), the Left has the [power](power.md) to direct [conversations](people-conversation.md) with [social](people-friends.md) [media](creations.md). While *any* [large group](groups-large.md) with a [dysfunctional desire](mgmt-badsystems.md) can control conversations, leftism has been successfully [doing it](results.md) for decades.
 
 * * * * *
 
@@ -149,7 +149,7 @@ Leftward thinking frequently leads to disasters. For the sake of the Party, peop
 
 Attacking someone because they attacked you is two wrong actions, or at the very best one wrong action and a retaliation. Nothing [good](morality.md) comes of it, but the scope of the actions can destroy quite a lot. However, the Left frequently uses evil-for-evil to [justify](logic.md) a political revolution.
 
-A leftist requires more [faith](understanding-certainty.md) in the [government](groups-large.md) than their individual [perceptions](image.md), [strength](mind-creativity-results.md), or [common sense](understanding.md). For that reason, successful people never sincerely believe in leftism (even if they [say they do](image.md)) because it requires [confronting and overcoming personal challenges](success-1_why.md).
+A leftist requires more [faith](understanding-certainty.md) in the [government](groups-large.md) than their individual [perceptions](image.md), [strength](results.md), or [common sense](understanding.md). For that reason, successful people never sincerely believe in leftism (even if they [say they do](image.md)) because it requires [confronting and overcoming personal challenges](success-1_why.md).
 
 A [perfect society](politics-perfectsociety.md) has the [claimed](image.md) actions of leftism, but is driven by [love](people-love.md). Without that love, any leftward government is a totalitarian dictatorship under another name.
 

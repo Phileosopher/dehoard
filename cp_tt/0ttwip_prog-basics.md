@@ -186,12 +186,12 @@ Usually, the function in most languages will use brackets to separate ideas like
 
 There are quite a few mundane functions in nearly *every* high-level language:
 
-- PRINT - spits out information to a screen. It's usually the first thing any programming class teaches. It's called "print" because it *used* to go to a printer before someone attached [screens](computers-screen.md) to computers!
+- PRINT - spits out information to a screen. It's usually the first thing any programming class teaches. It's called "print" because it *used* to go to a printer before someone attached [screens](engineering-screen.md) to computers!
 - CONCATENATE - adds multiple strings and other variables together. It's pretty much how a computer can say "You win! 18 points!"
 - Arithmetic functions that perform [math](math-cs.md).
 - Conditional statements, as explained below.
 
-Functions are condensed versions of the [many, many tasks a CPU must do](computers-cpu.md). The "print" function, for example, saves a *ton* of trouble by condensing the entire process of outputting to a [screen](computers-screen.md) down to a simple command. In technicality, *any* command that isn't machine/assembly code is a function!
+Functions are condensed versions of the [many, many tasks a CPU must do](computers-cpu.md). The "print" function, for example, saves a *ton* of trouble by condensing the entire process of outputting to a [screen](engineering-screen.md) down to a simple command. In technicality, *any* command that isn't machine/assembly code is a function!
 
 * * * * *
 
@@ -307,7 +307,7 @@ WHILE loops run indefinitely until a certain condition is met:
 
 - while (x == y) {*code to run over and over*}
 
-FOR loops are meant to end, but WHILE loops can run forever. They're really useful for constantly [refreshing the screen](computers-screen.md) many times a second or for keeping programs open all the time in an operating system. If you want to make it run forever, just put "while (true)".
+FOR loops are meant to end, but WHILE loops can run forever. They're really useful for constantly [refreshing the screen](engineering-screen.md) many times a second or for keeping programs open all the time in an operating system. If you want to make it run forever, just put "while (true)".
 
 DO-WHILE loops are unusual variants for a specific use. Sometimes you want to do something once, *then* check if conditions are met.
 

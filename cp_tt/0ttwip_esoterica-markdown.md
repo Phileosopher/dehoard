@@ -34,7 +34,7 @@ Heading 2: ## or ------------- underneath
 
 'code block' becomes:
 
-```
+```(language)
 code block
 ```
 

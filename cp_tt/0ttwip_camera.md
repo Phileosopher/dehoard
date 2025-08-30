@@ -7,7 +7,7 @@ By combining the aperture concept with something that darkens when exposed to su
 
 Instant-exposure film was invented in the 20th century, meaning you only had to open the aperture for a split-second and could capture motion. The 20th century saw cameras become more portable (and eventually fit the film on a reel) and cameras could be made so cheaply that they could be *disposable*!
 
-Digital cameras were first used by Russell Kirch in 1957 to take a 176-pixel photo of a baby, and operate on a different concept. Though the aperture opens up the same as a film camera, the technology where the light hits is effectively the reverse of a [computer screen](computers-screen.md).
+Digital cameras were first used by Russell Kirch in 1957 to take a 176-pixel photo of a baby, and operate on a different concept. Though the aperture opens up the same as a film camera, the technology where the light hits is effectively the reverse of a [computer screen](engineering-screen.md).
 
 There are different patterns to capture the light. One of the simplest is a Bayer filter, which has 2×2 squares of a red, blue, and two greens. There are two greens in this setup because the [luminous efficiency function](https://en.wikipedia.org/wiki/Luminous_efficiency_function) means green most heavily correlates with perceived brightness.
 
@@ -47,7 +47,7 @@ An object will create "motion blur" if something is moving particularly fast or 
 
 ## Post-processing
 
-Most artifacts can be at least partially compensated by software after the initial capture, but many artists intentionally disable those features (such as for movies), and even many [graphics developers](graphics.md) (especially for [games](computers-software-gamedev.md)) try to *recreate* those artifacts!
+Most artifacts can be at least partially compensated by software after the initial capture, but many artists intentionally disable those features (such as for movies), and even many [graphics developers](engineering-graphics.md) (especially for [games](computers-software-gamedev.md)) try to *recreate* those artifacts!
 
 In fact, post-processing has been how smartphones utterly *destroyed* the dedicated camera market. It's logistically impossible for a millimeter-deep lens distance to compete with several inches of space, and smartphone cameras have had to compensate by making weird-looking non-spherical lenses to refract the light. But, post-processing can effectively remove many of the issues which may potentially present in non-spherical lens photos.
 
@@ -59,11 +59,11 @@ While most post-processing features can be helpful, digital zoom is nothing more
 
 While post-processing can be very useful, it can become ineffective as well. If the operating system does *too* much to raw photos, the result will look inauthentic or strange, especially with human photos.
 
-Post-processing isn't exempt from [politics](power-types.md), either. Film industry experts, for example, have made deals with [television](computers-screen.md) companies to dampen high-resolution pixelation for skin tones.
+Post-processing isn't exempt from [politics](power-types.md), either. Film industry experts, for example, have made deals with [television](engineering-screen.md) companies to dampen high-resolution pixelation for skin tones.
 
 Further, perspective in our eyes works differently than perspective in a photograph. Photos capture the raw information evenly across a panel, while we capture *more* information at the center of our eye's focus than on the edge. This makes the center of something look somewhat larger by comparison to everything else, and photos are incapable of capturing that distinction.
 
-Among the [market](economics.md), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](computers-screen.md). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
+Among the [market](economics.md), webcams in particular are very shoddy. They possess low-quality post-processing software, *very* cheap components, and are small enough to fit snugly on the side of a [computer screen](engineering-screen.md). Professional-grade cameras or phone cameras networked to a computer are generally a better choice if you want a more presentable image for video streaming and online meetings.
 
 * * * * *
 

@@ -22,7 +22,7 @@ The term 3D printing has gone through some permutations. At one time, it referre
 
 The process is a relatively straightforward approach:
 
-1. Use CAD software to create a desired output form, which is often using the same or similar CAD software as most [graphics technology](graphics.md).
+1. Use CAD software to create a desired output form, which is often using the same or similar CAD software as most [graphics technology](engineering-graphics.md).
 2. Output the CAD software's information into an STL [file](computers-files.md) (for stereo lithography), which will store data of the CAD model's surfaces.
 3. That CAD STL file will frequently have errors, and there are a *lot* of error-correcting procedures to fix the *many* possible failures (e.g., warping, curling, holes, lines, vibrations), as well as structural risks (bridging failure, walls caving in, etc.). This often includes building other supports around the object:
    - Rafts are entire layers that sit below the build.
@@ -43,7 +43,7 @@ Beyond that, the details are very specific to the method. Many approaches are si
 
 ## Power
 
-The ability for *anyone* with [design](graphics.md) skills to make what they [imagine](imagination.md) has tremendous implications:
+The ability for *anyone* with [design](engineering-graphics.md) skills to make what they [imagine](imagination.md) has tremendous implications:
 
 1. Engineers can effectively prototype and test their creations within a matter of days, not weeks or months.
 2. The opportunity to create anything can include protected [intellectual property](legal-ip.md) and [illegal](rules.md) objects (e.g., guns).

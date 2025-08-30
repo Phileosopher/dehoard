@@ -7,9 +7,9 @@ Love is typically [habitual](habits.md) in day-to-day life, and we begin loving 
 
 The [cultural](culture.md) concept of love is far more constrained than love as a broad concept. Typically, the cultural standard is about a strong [emotional desire](mind-feelings.md) for something (i.e., "limerence"), either [romantic](relationships-3_marriage.md) or [religious](religion.md), and tends to have some type of selfish aspect to it.
 
-True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving it. This shows itself most clearly when people engage in [heated conflicts](people-conflicts.md) with one another. It may be directed to preserving a person, object, [belief](understanding-certainty.md), [mode of thought](understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](mind-creativity-results.md) when the situation calls for it.
+True love is to be concerned with the best interests of the recipient of the love, which usually involves preserving it. This shows itself most clearly when people engage in [heated conflicts](people-conflicts.md) with one another. It may be directed to preserving a person, object, [belief](understanding-certainty.md), [mode of thought](understanding.md), or [feeling](mind-feelings.md), but it *always* expresses as some type of [action](results.md) when the situation calls for it.
 
-Everyone wants to be important, which means that everyone wants others to find [value](purpose.md) in them. In other words, each person wants others to love something associated with them, whether it's [doing](mind-creativity-results.md) or [being](humanity.md).
+Everyone wants to be important, which means that everyone wants others to find [value](purpose.md) in them. In other words, each person wants others to love something associated with them, whether it's [doing](results.md) or [being](humanity.md).
 
 Love is not only the pinnacle of human existence. It is *the* foundation of all human [purpose](purpose.md) and [meaning](meaning.md):
 
@@ -54,15 +54,15 @@ We can love what a person possesses.
 
 We can love what a person does.
 
-- Their labor and [results](mind-creativity-results.md)
+- Their labor and [results](results.md)
 - Their natural abilities and [understanding](understanding.md)
 - [Future](imagination.md) abilities or results
 
 We can love who a person is (*agape*/*philia* in Greek, depending on whether we have more [power](power.md) or the same).
 
-We can love someone who doesn't exist yet, such as what they may or will [become](changes.md).
+We can love someone who doesn't exist yet, such as what they may or will [become](people-changes.md).
 
-Any attempt to overwork our sacrifice for others will fail because [our constant changing](changes.md) will make our [expectations](imagination.md) constantly fail.
+Any attempt to overwork our sacrifice for others will fail because [our constant changing](people-changes.md) will make our [expectations](imagination.md) constantly fail.
 
 ### Others
 
@@ -70,7 +70,7 @@ We can love a [deity](religion.md), [idea](values.md), [feeling](mind-feelings.m
 
 We can even love the *idea* of someone or something. In this case, we're stripping the [values](values.md) we like from the person and creating an [image](image.md) that [reality](reality.md) can't touch, often harming the actual being that was the [source of inspiration](mind-creativity.md).
 
-Further, we can subdivide or combine various loves as our [desires](purpose.md) and [affections](mind-feelings-happiness.md) [change](changes.md). [Language](language.md) itself doesn't have enough words to capture the mix-and-match varieties of how we love.
+Further, we can subdivide or combine various loves as our [desires](purpose.md) and [affections](mind-feelings-happiness.md) [change](people-changes.md). [Language](language.md) itself doesn't have enough words to capture the mix-and-match varieties of how we love.
 
 * * * * *
 
@@ -83,7 +83,7 @@ Loving is always sharing, and it includes various sacrifices:
 - [Understanding](understanding.md), and the time it takes to deliver it.
 - [Risking](safety.md) absolutely *any* sort of adverse self-interest for another's benefit.
 
-We can't see love directly from the [soul](humanity.md), but we can see it through what we spend much of our effort doing. And, since we're spending so much effort on it, our [results](mind-creativity-results.md) from loving will only loosely connect to whether we actually *do* love.
+We can't see love directly from the [soul](humanity.md), but we can see it through what we spend much of our effort doing. And, since we're spending so much effort on it, our [results](results.md) from loving will only loosely connect to whether we actually *do* love.
 
 Small variations in portions of what we love creates profound differences in how we demonstrate it:
 
@@ -109,9 +109,9 @@ The only form of love with no limit requires a person to act in the interests of
 
 Barring a legitimate transformation of one's [soul](humanity.md), there is no chance that we will naturally love. We will grow to love, however, if we adapt the values of [religions](religion.md) that endorse love.
 
-This often breaks down when we talk about how others respond to that love. Many people will [abuse it](power.md), misunderstand it, or receive it and not [act any differently](changes.md).
+This often breaks down when we talk about how others respond to that love. Many people will [abuse it](power.md), misunderstand it, or receive it and not [act any differently](people-changes.md).
 
-Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](mind-creativity-results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
+Post-modern discussion argues on the "purity" of a loving action that's only determined toward a positive consequence for oneself (i.e., Kantian ethics). However, we love because we wish to see positive [results](results.md) in the recipient of our love, and we still choose to love ourselves by even considering ourselves as part of the experience. In that sense, just because the object of our love isn't there does *not* mean we don't love something, and it can frequently be ourselves.
 
 Society needs love [large-scale](politics-perfectsociety.md) to prevent perpetual [conflicts](people-conflicts.md) among people from quickly turning into [evil](morality-evil.md). Most unrequited love comes from [cultural barriers](culture.md) and [misunderstanding intent](imagination.md) to be worse than it was (often from the recipient's [past trauma](hardship-ptsd.md)).
 
@@ -140,7 +140,7 @@ If we love others, we must frequently set aside the ideals we have for them. Oth
 
 Even when people [pursue](purpose.md) the same thing, they typically don't love the same thing behind the pursuit, and this will eventually create a [conflict](people-conflicts.md) later.
 
-Loving someone's physical state is easy, but isn't as important as loving someone's [soul](humanity.md). To love a person's soul, they sometimes must reap [adverse consequences](mind-creativity-results.md), and other times must receive [undue grace](morality.md).
+Loving someone's physical state is easy, but isn't as important as loving someone's [soul](humanity.md). To love a person's soul, they sometimes must reap [adverse consequences](results.md), and other times must receive [undue grace](morality.md).
 
 Since [meaning](meaning.md) comes best through love, and love is most directly adopted through religions that endorse it, we must learn love through a [religion](religion.md). This will either express through self-determination to build it (e.g., Buddhism) or through it being instilled from another source (i.e., [Christianity](jesus-gospel.md)).
 

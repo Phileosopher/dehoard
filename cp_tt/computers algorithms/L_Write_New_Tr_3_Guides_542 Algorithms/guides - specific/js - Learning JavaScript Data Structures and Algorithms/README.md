@@ -42,7 +42,6 @@ Source code of Learning JavaScript Data Structures and Algorithms book, third ed
 
 `src/js/index.js` file contains all the data structures and algorithms listed by chapter.
 
-```
 |_examples (how to use each data structure and algorithm, organized by chapter)
 |_src
 |___js (source code: JavaScript version)
@@ -56,7 +55,6 @@ Source code of Learning JavaScript Data Structures and Algorithms book, third ed
 |_test (unit tests with Mocha and Chai for src)
 |___js (tests for JavaScript code)
 |___ts (tests for TypeScript code)
-```
 
 ## Installing and running the book examples With Node
 

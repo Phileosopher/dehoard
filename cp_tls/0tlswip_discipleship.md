@@ -48,7 +48,7 @@ Mentoring takes endurance, and will often feel like a second job.
 
 ## Choosing disciples
 
-Good spiritual leaders are picky about who they decide to [teach](pedagogy.md).
+Good spiritual leaders are picky about who they decide to [teach](education.md).
 
 - Focus on [quality](values-quality.md), not quantity.
 - If you have [children](people-family.md), they're your disciples until they've reached adulthood.
@@ -56,7 +56,7 @@ Good spiritual leaders are picky about who they decide to [teach](pedagogy.md).
 
 A good disciple must be teachable and faithful.
 
-- Avoid leading people who crave emotional support, but refuse to [change](changes.md) from their [sins](morality-sins.md).
+- Avoid leading people who crave emotional support, but refuse to [change](people-changes.md) from their [sins](morality-sins.md).
 - They can be curious or smart enough to ask plenty questions, but can't be rebellious.
 - Focus on heavenly prizes ([1 Corinthians 9:24-27](https://biblehub.com/bsb/1_corinthians/9.htm), [Philippians 3:12-20](https://biblehub.com/bsb/philippians/3.htm), [Hebrews 11:24-26](https://biblehub.com/bsb/hebrews/11.htm)).
 - Don't judge their [outward appearance](image.md) ([1 Samuel 16:6-7](https://biblehub.com/bsb/1_samuel/16.htm), [1 Corinthians 1:27-29](https://biblehub.com/bsb/1_corinthians/1.htm)).

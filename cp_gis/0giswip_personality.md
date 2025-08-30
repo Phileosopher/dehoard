@@ -1,5 +1,5 @@
 
-A personality is based on the [experiences](reality.md) we endured and how we responded to them. We have zero control over our upbringing, but we [decided](decisions.md) on [changes](changes.md) to survive in that environment starting around 6 months old, and we tend to develop that personality with complete independence of our [genetics](people-family.md) starting around the ages of [5 to 10](maturity.md).
+A personality is based on the [experiences](reality.md) we endured and how we responded to them. We have zero control over our upbringing, but we [decided](decisions.md) on [changes](people-changes.md) to survive in that environment starting around 6 months old, and we tend to develop that personality with complete independence of our [genetics](people-family.md) starting around the ages of [5 to 10](maturity.md).
 
 In many ways, a personality is the closest we can observe as a "[soul](humanity.md)" within others. While the soul itself is more akin to the decisions we make *now*, our personality uses many [mental habits](habits.md) from the past to create a larger [expression](image.md) than the individual moments that make up the individual moments that define who we are at any given second.
 
@@ -17,9 +17,9 @@ The range of 1-100 sits as a bell curve, where someone with a score of 1 is thou
 
 The Big 5 personality indicator is the only [scientifically](science.md) proven personality test, though many other personality tests form approximately the same [classifications](logic.md). Each personality trait ends up cleanly dividing into two sub-factors for each dimension as well.
 
-Many so-called "personality tests", however, are often representing our tendencies toward skills. This may be useful for [working](mind-creativity-results.md) or [communication](people-conversation.md), but not for the way we [choose](decisions.md) to live our lives.
+Many so-called "personality tests", however, are often representing our tendencies toward skills. This may be useful for [working](results.md) or [communication](people-conversation.md), but not for the way we [choose](decisions.md) to live our lives.
 
-A person self-reporting on a Big 5 test is a reliable indicator across decades of how they'll likely [behave](mind-creativity-results.md), but *other* people reporting on someone is also a reliable indicator as well.
+A person self-reporting on a Big 5 test is a reliable indicator across decades of how they'll likely [behave](results.md), but *other* people reporting on someone is also a reliable indicator as well.
 
 The dimensions are easy to remember as an acronym, and it takes about 100 [well-asked questions](understanding.md) to find where someone sits on the spectrum:
 
@@ -43,7 +43,7 @@ One tiny statistical correlation shows that people born in warmer climates tend 
 
 ### Openness
 
-We have a certain tolerance and enjoyment of exploring [unknown](unknown.md) [experiences](mind-creativity-results.md):
+We have a certain tolerance and enjoyment of exploring [unknown](unknown.md) [experiences](results.md):
 
 - Enjoys [nature's](reality.md) [beauty](values-quality.md) and [believes](understanding-certainty.md) in [art's](mind-creativity.md) importance
 - Becomes deeply immersed in [creative works](creations.md) like music and poetry
@@ -54,16 +54,16 @@ In general, most people are *not* [creative](mind-creativity.md) in any given do
 
 ### Intellect
 
-We also have a certain tolerance and enjoyment of exploring [unknown](unknown.md) [ideas](values.md), which defines how well we can find [unique answers](mind-creativity-results.md) to tasks:
+We also have a certain tolerance and enjoyment of exploring [unknown](unknown.md) [ideas](values.md), which defines how well we can find [unique answers](results.md) to tasks:
 
 - Thinks quickly and rapidly [understands](understanding.md) abstract [ideas](values.md) and [how things work](engineering.md)
 - Can handle lots of [information](information.md) and has an extensive [vocabulary](language.md) that clearly indicates [ideas](values.md)
 - Enjoys solving complex [problems](purpose.md)
-- Enjoys [philosophical discussions](philosophy.md) and [difficult reading material](pedagogy.md)
+- Enjoys [philosophical discussions](philosophy.md) and [difficult reading material](education.md)
 
 Intellect can be *very* reliably measured with IQ tests that measure a person's ability to take a test about [understanding](understanding.md) and [logic](logic.md), but is a highly [controversial](conflicts-inner.md) subject because our biology mostly defines how smart we are, which demonstrates inherently that people have dramatically unequal [power](power.md) among each other.
 
-Nobody knows how to increase IQ, though [education](pedagogy.md) can increase [understanding](understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
+Nobody knows how to increase IQ, though [education](education.md) can increase [understanding](understanding.md) of specific domains that won't transfer. However, malnourishment during [childhood](people-family.md) can definitely *decrease* IQ.
 
 One aspect of intelligence that magnifies society's [inequality](jobs-spcialization.md) comes through [technology](technology.md). Intelligent people naturally understand technology more, meaning they have more [power](power.md) proportionally to the power of that technology.
 
@@ -75,18 +75,18 @@ We're constantly challenged to strive toward [what we ought](imagination.md) or 
 
 On the high end, we [live virtuously](morality.md) by self-defined [rules](rules.md) and take those rules so seriously that we'll [lead](groups-small.md) ourselves and everyone else as a [moral](morality.md) imperative. It comes with the risks, however, of perfectionism (e.g., anorexia, obsessive-compulsive disorder).
 
-On the low end, we follow [others' desires](groups-member.md) and [self-interest](purpose.md). It provides the advantage of us never feeling unfocused on the moment or adapting to [changes](changes.md), but at the risk of violating our [moral](morality.md) integrity and sacrificing long-term goals [worth striving for](meaning.md).
+On the low end, we follow [others' desires](groups-member.md) and [self-interest](purpose.md). It provides the advantage of us never feeling unfocused on the moment or adapting to [changes](people-changes.md), but at the risk of violating our [moral](morality.md) integrity and sacrificing long-term goals [worth striving for](meaning.md).
 
-High conscientiousness provides the advantage of imparting high-quality [virtues](morality.md) and [habits](habits.md) into the rest of society, but at the risk of unnecessary conflict with any present leadership not following those [values](values.md) in turn, as well as risks of [over-management](mgmt-badsystems.md) and difficulty handling [changes](changes.md).
+High conscientiousness provides the advantage of imparting high-quality [virtues](morality.md) and [habits](habits.md) into the rest of society, but at the risk of unnecessary conflict with any present leadership not following those [values](values.md) in turn, as well as risks of [over-management](mgmt-badsystems.md) and difficulty handling [changes](people-changes.md).
 
 It's worth indicating that a conscientious disposition is *not* a [moral](morality.md) one. Many immoral actions can be performed from pre-existing [rules](rules.md) that are gradations of [evil](morality-evil.md).
 
 ### Industriousness
 
-We have a certain natural desire to create [results](mind-creativity-results.md) that make us value [duty](rules.md), diligence, and focus:
+We have a certain natural desire to create [results](results.md) that make us value [duty](rules.md), diligence, and focus:
 
 - Carry out our plans without wasting time or getting distracted
-- Setting our minds to the immediate [task](purpose.md) and [finishing](mind-creativity-results.md) what we start
+- Setting our minds to the immediate [task](purpose.md) and [finishing](results.md) what we start
 - Making [decisions](decisions.md) quickly and [certain](understanding-certainty.md) about what we're doing
 
 Often, we make things out of a sense of guilt or shame that our [value](values-quality.md) only comes in what we produce.
@@ -106,13 +106,13 @@ We have a tendency to [feel](mind-feelings.md) disgust for the [risks](safety.md
 
 We either find renewal [with people](people-friends.mdds.md), or [without them](creations.md). This concept is easy enough to understand that practically *every* personality measurement without fail uses this dimension, but the disposition is linked more closely with how we [emotionally recharge](mind-feelings.md) than [social skills](people-conversation.md).
 
-Extraversion dictates whether we devote more of our [tasks](purpose.md) toward people or things. Both of them have challenges, and require [practice](pedagogy.md) to get correct, so we'll see better [results](mind-creativity-results.md) with the one that makes us more comfortable.
+Extraversion dictates whether we devote more of our [tasks](purpose.md) toward people or things. Both of them have challenges, and require [practice](education.md) to get correct, so we'll see better [results](results.md) with the one that makes us more comfortable.
 
 On the high end, we're constantly [choosing](decisions.md) to [interact with others](people-conversation.md). It provides the advantage of connecting with many people at once, but requires our constant involvement in a healthy group of people, and we're more susceptible to [lying](people-lying.md) to [gain favor from others](image-distortion.md).
 
-Extroverts have a tendency to live impulsively in the present. While they end up enjoying life more (a necessary quality of the [good life](goodlife.md)), they also risk overlooking adverse long-term [adverse consequences](mind-creativity-results.md).
+Extroverts have a tendency to live impulsively in the present. While they end up enjoying life more (a necessary quality of the [good life](goodlife.md)), they also risk overlooking adverse long-term [adverse consequences](results.md).
 
-On the low end, we prefer to be alone. It provides the advantage of working on [long-term projects](creations.md) and keeping our [rules](rules.md) unimpeded, but low skills at [influencing others](influence.md) mean others won't see the [results](mind-creativity-results.md) of our efforts without someone else [advertising it](trends.md).
+On the low end, we prefer to be alone. It provides the advantage of working on [long-term projects](creations.md) and keeping our [rules](rules.md) unimpeded, but low skills at [influencing others](influence.md) mean others won't see the [results](results.md) of our efforts without someone else [advertising it](trends.md).
 
 Introverts can often adapt to extroverted situations by more diligently [focusing](awareness.md) on what drains them and asserting themselves more often to *not* socially engage.
 
@@ -175,7 +175,7 @@ On the high end, most of our experiences are emotional experiences that run thro
 
 On the low end, most of our experiences are relatively [rational](logic.md) experiences that run through the left side of our brain. It provides the advantage of consistency and reproducibility, but with the downside of having little to no sympathy or compassion for others.
 
-Counterintuitively, the best way to handle extreme emotional reactions is consistent, repeated exposure to new experiences. Eventually, enough experience will make *everything* somewhat [familiar](symbols.md). If there are any hangups in [motivation](purpose.md), reduce the ambition to something easily [attainable](mind-creativity-results.md).
+Counterintuitively, the best way to handle extreme emotional reactions is consistent, repeated exposure to new experiences. Eventually, enough experience will make *everything* somewhat [familiar](symbols.md). If there are any hangups in [motivation](purpose.md), reduce the ambition to something easily [attainable](results.md).
 
 ### Withdrawal
 
@@ -187,7 +187,7 @@ We have a tendency to freeze when exposed to threats, which is a survival impuls
 
 ### Volatility
 
-Events deliver a specific, measurable amount of emotional severity from how strongly the adverse [consequences](mind-creativity-results.md) feel when we're first aware of them:
+Events deliver a specific, measurable amount of emotional severity from how strongly the adverse [consequences](results.md) feel when we're first aware of them:
 
 - Easily becomes angry, irritated, or upset
 - Loses composure and stirred up easily
@@ -225,7 +225,7 @@ Extraversion and agreeableness can be easily confused. Extroversion defines how 
 
 A baby's natural tendency to cry will clarify their neuroticism and agreeableness later on in life.
 
-The most important indicators of [success](mind-creativity-results.md) come firstly through our intellect (the subdomain of openness to experience) because it defines how [creative](mind-creativity.md) our solutions will be, and secondly through conscientiousness because it defines how frequently we'll perform [tasks](mind-creativity-results.md) we'd prefer to avoid. However, intelligence and conscientiousness have *zero* statistical connection with one another, likely because smart people can often slip through life without having to follow their [culture's](culture.md) [social rules](rules.md).
+The most important indicators of [success](results.md) come firstly through our intellect (the subdomain of openness to experience) because it defines how [creative](mind-creativity.md) our solutions will be, and secondly through conscientiousness because it defines how frequently we'll perform [tasks](results.md) we'd prefer to avoid. However, intelligence and conscientiousness have *zero* statistical connection with one another, likely because smart people can often slip through life without having to follow their [culture's](culture.md) [social rules](rules.md).
 
 Agreeableness and conscientiousness are at constant odds with each other in most social contexts:
 
@@ -246,7 +246,7 @@ When choosing a [mate](gender.md) or [leader](groups-small.md), personality is *
 
 Our [self-esteem](identity.md) is essentially our extraversion (as a positive emotional state) minus our neuroticism (as a negative emotional state).
 
-Most things we call "personality disorders" are simply the combination of personality characteristics that create adverse [consequences](mind-creativity-results.md) for society:
+Most things we call "personality disorders" are simply the combination of personality characteristics that create adverse [consequences](results.md) for society:
 
 - Cluster A personality disorders (paranoid personality disorder, schizoid/schizotypal personality disorder) are *extremely* high neuroticism without enough conscientiousness to constantly add new [perceptions](image.md) about [reality](reality.md).
 - Cluster B personality disorders (antisocial personality disorder, borderline personality disorder, histrionic personality disorder, narcissistic personality disorder) are the extremes of low conscientiousness and high extraversion.
@@ -258,7 +258,7 @@ Most things we call "personality disorders" are simply the combination of person
 
 Beyond that, there are a wide variety of mixtures when these 5 base components fit together into synergies.
 
-- Statistically, most people have low conscientiousness and high openness to experience. This makes them very flexible to [adapt](changes.md) to changing situations, but comes at the risk of adapting wrongly to a [bad leader](mgmt-badsystems.md).
+- Statistically, most people have low conscientiousness and high openness to experience. This makes them very flexible to [adapt](people-changes.md) to changing situations, but comes at the risk of adapting wrongly to a [bad leader](mgmt-badsystems.md).
 - The [high-risk](socialrisk.md) nature of prolific [artists of all fields](mind-creativity.md) requires them to always be high-neuroticism, no more than moderate agreeableness, and at least moderately conscientious.
 - [Philosophers](philosophy.md) tend to lean low agreeableness and high openness to experience. Otherwise, they tend to spend less time pondering and run society instead.
 - Criminals tend to have low agreeableness and low conscientiousness, though [white-collar](jobs-spcialization.md) crime can be much broader on the range of conscientiousness.
@@ -288,7 +288,7 @@ One consequence of this is that measuring personalities is very difficult. Peopl
 
 Generally, most cultures form an expected "false self" with a specific personality set:
 
-- Openness to Experience - [adapt and change](changes.md) to whatever the group [expects](imagination.md), but never take on enough [risk](socialrisk.md) that may potentially create adverse events for the group.
+- Openness to Experience - [adapt and change](people-changes.md) to whatever the group [expects](imagination.md), but never take on enough [risk](socialrisk.md) that may potentially create adverse events for the group.
 - Conscientiousness - always do what's [right](morality.md), until it doesn't conform with the desires of the highest-ranking [group leader](groups-large.md).
 - Extraversion - do whatever you want, but always attend required [group events](groups-member.md) and conform to the [cultural mores](culture.md) of your group.
 - Agreeableness - never [disagree](people-conflicts.md) with the group leader and only [politely disagree](people-5_conflicts.md) with others, and [females must be more agreeable than males](gender.md).
@@ -296,7 +296,7 @@ Generally, most cultures form an expected "false self" with a specific personali
 
 Proportional to our *actual* agreeableness, our actions with society's responses create a feedback loop of shame that reinforces and magnifies our "shadow self":
 
-1. We quickly [learn](pedagogy.md) to [habitually](habits.md) repress the true desires and [perceptions](image.md) we'd otherwise express.
+1. We quickly [learn](education.md) to [habitually](habits.md) repress the true desires and [perceptions](image.md) we'd otherwise express.
 2. To the degree we can restrain ourselves, we maintain that [image](image.md), but make a lapse in [judgment](decisions.md) when we face a severe breakdown of our [willpower](decisions.md). These lapses can include a drunken rage, outbursts of anger, unprovoked rude statements, failure to act, or an impulsive and large-scale decision.
 3. Typically, most cultures will express the action as shameful and wrong, and we conclude we shouldn't have done it.
 4. Upon reflection, we may shows a way for us to try even harder to repress those desires until we face another severe breakdown of our willpower.
@@ -324,7 +324,7 @@ One of the qualities of someone who integrated their shadow is that they can hol
 
 ## Personality groups
 
-Our [family](people-family.md) has a tiny bearing on our personality based on [biochemistry](science.md) and [culture](culture.md). For that reason, every larger group that arose from a family (e.g., most nations) has a specific biochemistry of their mind that influences how they make decisions.
+Our [family](people-family.md) has a tiny bearing on our personality based on [biochemistry](science-life-biochem.md) and [culture](culture.md). For that reason, every larger group that arose from a family (e.g., most nations) has a specific biochemistry of their mind that influences how they make decisions.
 
 These personality archetypes frequently ripple outward to create an entire national identity:
 
@@ -332,7 +332,7 @@ These personality archetypes frequently ripple outward to create an entire natio
 - Japan is a fork of risk-taking Chinese who left on ships to find the Fountain of Youth from a mad king's edict. They represent some of Asia's hardest-working and innovative people.
 - Most of the Middle East is made of close [family](people-family.md) ties, and it demonstrates certain similarities across the entire region.
 
-Within [society](jobs-spcialization.md), [technology](technology.md) means a higher requirement for the openness to experience dimension, but also comes with more opportunities to [succeed](mind-creativity-results.md). This becomes a dramatic political issue among society, and especially impacts people with high conscientiousness and low openness to experience, since their unemployment will create a devastating lack of [meaning](meaning.md) without any [solutions](mind-creativity.md) in sight.
+Within [society](jobs-spcialization.md), [technology](technology.md) means a higher requirement for the openness to experience dimension, but also comes with more opportunities to [succeed](results.md). This becomes a dramatic political issue among society, and especially impacts people with high conscientiousness and low openness to experience, since their unemployment will create a devastating lack of [meaning](meaning.md) without any [solutions](mind-creativity.md) in sight.
 
 * * * * *
 
@@ -359,7 +359,7 @@ Generally, we can fix most of our personality defects with *other* personality c
   - Extraversion can find new [people groups](groups-member.md) to explore more risks.
   - Agreeableness can find a way to accept others' [value systems](values.md).
   - Neuroticism can find a [creative](mind-creativity.md) convergence between the old and new.
-- Low conscientiousness when required to perform [tasks](mind-creativity-results.md):
+- Low conscientiousness when required to perform [tasks](results.md):
   - Openness to experience can find new permutations of an otherwise boring task.
   - Extraversion can find other people to help out in exchange for favors.
   - Agreeableness can [imagine](imagination.md) adverse social consequences for not performing the task.
@@ -369,10 +369,10 @@ Generally, we can fix most of our personality defects with *other* personality c
   - Agreeableness can learn to accept others' way of life.
 - Low extraversion when required to associate with other people:
   - Openness to experience can research new information about [how to have social skills](people-3_boundaries.md).
-  - Conscientiousness can focus on [tasks](mind-creativity-results.md) while around others.
+  - Conscientiousness can focus on [tasks](results.md) while around others.
   - Agreeableness can learn how to [listen more](people-3_boundaries.md) and find interesting qualities in others.
   - Neuroticism can learn to open up more transparently about their [feelings](mind-feelings.md) with strangers.
-- High extraversion when required to perform mundane [tasks](mind-creativity-results.md):
+- High extraversion when required to perform mundane [tasks](results.md):
   - Openness to experience can find new ways to [imagine](imagination.md) and anthropomorphize those tasks.
   - Conscientiousness can interpret the task as a necessary duty and push through it.
   - Agreeableness can find a way to [negotiate](people-conflicts.md) a mutually better arrangement.

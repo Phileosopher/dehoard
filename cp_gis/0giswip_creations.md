@@ -18,7 +18,7 @@ Most creations are expressed through a medium or media, but it's not always phys
 
 All things we call [work](success-4_routine.md) are creating in some way, and it's necessary for living a [good](goodlife.md) and [meaningful](meaning.md) life. Without creating anything, we'll become frustrated and unhappy with the world around us.
 
-We only create because we [believe](understanding-certainty.md) the creation will fulfill a future [purpose](purpose.md), and we can usually [imagine](imagination.md) its [results](mind-creativity-results.md).
+We only create because we [believe](understanding-certainty.md) the creation will fulfill a future [purpose](purpose.md), and we can usually [imagine](imagination.md) its [results](results.md).
 
 * * * * *
 
@@ -101,7 +101,7 @@ The natural result of most significant hacks is that they're a tremendous [socia
 
 All creations are inspired remixes of other things, and [high-quality](values-quality.md) creations copy and remix the best attributes of what they reference. Therefore, *all* creativity is the combination of two or more things, with at least one of them being what they're focusing on and the rest being pulled from unconscious [symbolic](symbols.md) association.
 
-[Specific rules constitute good design](design-uxui.md), which are practically non-negotiable because they tie closely to the [universal qualities of humanity](humanity-universals.md).
+[Specific rules constitute good design](engineering-design.md), which are practically non-negotiable because they tie closely to the [universal qualities of humanity](humanity-universals.md).
 
 When we [imagine](imagination.md) what we [want](purpose.md) to build, we summon [beauty](values-quality.md) as we [understand](understanding.md) it. However, we tend to forget our sources and smash multiple elements together as we imagine and manipulate them. In the process, the creation's "mold" is an [image](image.md) of our [soul](humanity.md).
 
@@ -109,7 +109,7 @@ The ability for someone to build a seemingly new thing is a product of their [so
 
 Usually, a created thing will be the foundation for other things by future creators. In retrospect, that creation will become "quaint" (e.g., a tired trope). However, the higher-quality work by later creators *needed* the lesser thing as the foundation for their existence.
 
-We create at a speed proportional to how much we [believe](understanding-certainty.md) the creation will create [desirable results](mind-creativity-results.md). On larger projects, this means we work faster near the beginning (since we don't [understand](understanding.md) how much work the project will require) and near the end (since we can see the entire project coming together).
+We create at a speed proportional to how much we [believe](understanding-certainty.md) the creation will create [desirable results](results.md). On larger projects, this means we work faster near the beginning (since we don't [understand](understanding.md) how much work the project will require) and near the end (since we can see the entire project coming together).
 
 ## Limits
 
@@ -138,7 +138,7 @@ The fact that nothing is "new" is also a type of constraint:
 3. We face a limit to how many high-quality, memorable things we can make, especially after a [trend](trends.md) has matured.
 4. The constraints become even harsher if we bring [intellectual property rights](legal-ip.md) into it.
 
-Most creators are [determined](purpose.md) to [accomplish](mind-creativity-results.md) through those limits:
+Most creators are [determined](purpose.md) to [accomplish](results.md) through those limits:
 
 - Some of the most brilliant books and movies were made on a *very* limited budget or time schedule.
 - The Sistine Chapel required a *ton* of elaborate artwork, but on a ceiling.
@@ -188,7 +188,7 @@ After enough time, we've [matured](maturity.md) since we last consumed a creatio
 
 Even anal-retentive [bureaucrats](bureaucracy.md) and obsessive hobbyists are adding what they imagine is value. The only way to [influence](influence.md) them is to treat their contributions as important (even when they aren't).
 
-Each person creates out of their own unique soul, so imitating another person will never quite work correctly. It's more productive to work with your preferred style while [imitating](mind-creativity.md) the parts of that person's [actions that work](mind-creativity-results.md).
+Each person creates out of their own unique soul, so imitating another person will never quite work correctly. It's more productive to work with your preferred style while [imitating](mind-creativity.md) the parts of that person's [actions that work](results.md).
 
 A creator will find more [meaning](meaning.md) in their creation than anyone else around them, often to the point of [over-valuing it](mind-bias.md). It doesn't mean others *won't* find [value](purpose.md) in it, but they'll never be as closely [associated](identity.md) with it as the person who [sacrificed](people-love.md) for it, including [groups](groups-large.md) who [carry on](legacy.md) the creation (e.g., sequels, spinoff works).
 
@@ -200,9 +200,9 @@ Even fools will sometimes absorb something wise, which is why wisdom exists even
 
 Exploring truths is such a high risk that artists can't afford to be fragile. They must be durable enough to brave [the unknown](unknown.md) and the very high chance of failure.
 
-If you're consuming something, the creator of that thing is [influencing](influence.md) you. Even dry textbooks or entertaining little things are designed to [change you](changes.md). Otherwise, you'd forget them and not care, and they wouldn't make any [money](power-types.md) by selling it to people like you.
+If you're consuming something, the creator of that thing is [influencing](influence.md) you. Even dry textbooks or entertaining little things are designed to [change you](people-changes.md). Otherwise, you'd forget them and not care, and they wouldn't make any [money](power-types.md) by selling it to people like you.
 
-Don't disrespect early [trendsetters](trends.md). They didn't have the pre-existing [understanding](understanding.md) of the finished creation that you, the current observer, possess. Creations always take more [work](mind-creativity-results.md) and [risk](socialrisk.md) than they [appear](image.md) to.
+Don't disrespect early [trendsetters](trends.md). They didn't have the pre-existing [understanding](understanding.md) of the finished creation that you, the current observer, possess. Creations always take more [work](results.md) and [risk](socialrisk.md) than they [appear](image.md) to.
 
 Beyond appreciating creations, we can find a tremendous amount of [purpose](purpose.md) in [understanding](understanding.md) *why* those people created something.
 
@@ -216,4 +216,4 @@ We can frequently form a [bias](image.md) toward creators and give grace for bad
 
 Nothing is really new, so people don't tend to spend much money for values contained in media, and creators can't legally [patent most creative works](legal-ip.md). Instead, a creator must [sell their creation](socialrisk.md) by either generating enough [popular demand](economics.md) to make plenty of extra money or by setting constraints on the physical media that contains the ideas.
 
-If we take the time to create things ourselves (instead of merely consuming), we find more [meaning](meaning.md) in absolutely everything we touch, *if* we can [succeed](mind-creativity-results.md) at it. It often comes with added [skills](habits.md) and [understanding](understanding.md) as well.
+If we take the time to create things ourselves (instead of merely consuming), we find more [meaning](meaning.md) in absolutely everything we touch, *if* we can [succeed](results.md) at it. It often comes with added [skills](habits.md) and [understanding](understanding.md) as well.

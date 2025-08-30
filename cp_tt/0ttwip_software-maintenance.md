@@ -31,7 +31,7 @@ Every feature that accommodates different situations adds to the complexity of t
 5. That larger handle will need to be either longer or wider, and there will be multiple "forks" for the ideal handle, with a large contention over which one is better.
 6. On the trunk version, detachable tips add unlimited portability, including users able to insert their own tips, creating even more complexity.
 
-In software, [the UI](design-uxui.md) can hide away most features, so there are nowhere *near* as many constraints to adding features as most other engineering. This is good because it allows the core function of the software to be relatively unaffected, and bad because the list of features can be theoretically endless.
+In software, [the UI](engineering-design.md) can hide away most features, so there are nowhere *near* as many constraints to adding features as most other engineering. This is good because it allows the core function of the software to be relatively unaffected, and bad because the list of features can be theoretically endless.
 
 The more time software developers work on features, the less they're working on the core function of the software.
 

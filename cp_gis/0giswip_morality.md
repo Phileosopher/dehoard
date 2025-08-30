@@ -8,7 +8,7 @@ Morality comes from "mores", which is at least partly a [social construct](group
 Moral decisions are *always* a connection between several elements:
 
 1. Decider - Someone who makes the agency of [choice](decisions.md) upon the matter.
-2. Subject - Someone else who experiences the [consequences](mind-creativity-results.md) of that choice, though it may sometimes be the Decider.
+2. Subject - Someone else who experiences the [consequences](results.md) of that choice, though it may sometimes be the Decider.
 3. Decision - The action itself. In the case of thought experiments, those decisions are usually magnified by [technology](technology.md).
 4. Motive - The [reason](purpose.md) for the Decider's decision.
 5. Consequences - what ultimately happens from the decision.
@@ -18,15 +18,15 @@ Since moral decisions have at least those six moving parts, they're always compl
 
 Large moral decisions are conscious, but most moral decisions are unconscious [habits](habits.md). Ethics is strictly morality about the near-recent past, often driven by [animal impulses](mind-feelings.md) and [principles](values.md), with consequences that materialized in the present already.
 
-Our moral decisions are either drawing from the past (non-consequentialism) or [calculating](imagination.md) the [consequences](mind-creativity-results.md) of the action (consequentialism). If we have any preconceived thoughts before even *hearing* about the situation, we have principles.
+Our moral decisions are either drawing from the past (non-consequentialism) or [calculating](imagination.md) the [consequences](results.md) of the action (consequentialism). If we have any preconceived thoughts before even *hearing* about the situation, we have principles.
 
 ## Basis
 
 Depending on the [philosophy](philosophy.md) of the perceiver, the goodness of the action resides in the decision, motive, or consequences:
 
 - Goodness in the motive is driven by a belief that virtue holds the most [value](values-quality.md).
-- Goodness in the decision comes from believing that we have little [control](mind-creativity-results.md) over our actions.
-- Goodness in consequences comes from a belief that goodness and [results](mind-creativity-results.md) are directly connected. This can get extremely complicated because of how [unpredictable](imagination.md) things are!
+- Goodness in the decision comes from believing that we have little [control](results.md) over our actions.
+- Goodness in consequences comes from a belief that goodness and [results](results.md) are directly connected. This can get extremely complicated because of how [unpredictable](imagination.md) things are!
 
 People can frequently justify their moral decisions as good when they're, in effect, operating on merely [fear](mind-feelings-fear.md). Frequently, people who perform [evil](morality-evil.md) or [criminal](rules.md) activities feel they're forced to do it because of the situation.
 
@@ -49,7 +49,7 @@ This slavery to the moral framework is *not* a bad thing. In fact, it's the only
 
 Many post-moderns and [Leftists](leftism.md) claim that [reality](reality.md) itself is nebulous and, thus, morality is entirely relative. At the same time, they claim that value as an absolute. To say "all moral values are relative" is an absolute value. To live by it is moral absolutism.
 
-In practice, most people want moral relativism to justify their views as a type of "live and let live" approach. If we were being *really* honest with ourselves, we tend to use [reasoning](logic.md) to justify and hide our [fear](mind-feelings-fear.md) of [moral consequences](mind-creativity-results.md).
+In practice, most people want moral relativism to justify their views as a type of "live and let live" approach. If we were being *really* honest with ourselves, we tend to use [reasoning](logic.md) to justify and hide our [fear](mind-feelings-fear.md) of [moral consequences](results.md).
 
 ## Virtue
 
@@ -62,7 +62,7 @@ Without [love for others](people-love.md), *any* principle by itself will veer i
 Some virtues stand alone as states of being:
 
 - Empathy - [understanding](understanding.md) and [feeling](mind-feelings.md) others' experiences
-- Kindness - [doing](mind-creativity-results.md) good things for others
+- Kindness - [doing](results.md) good things for others
 - Gratitude - [aware](awareness.md) and thankful for good things
 - Hope - [expects](imagination.md) the best and works toward it
 - Vitality/Joy - approaches life with [excitement and enthusiasm](mind-feelings-happiness.md)
@@ -89,7 +89,7 @@ Some virtues come through how we [see](image.md) things:
 Some virtues tie to our relationships with others:
 
 - [Social intelligence](people-boundaries.md) - aware of motives and [feelings](mind-feelings.md) in oneself and others
-- [Teamwork](people-boundaries.md) - able to [work](mind-creativity-results.md) well with others
+- [Teamwork](people-boundaries.md) - able to [work](results.md) well with others
 - [Fairness](morality-justice.md) - treats others without [bias](image.md)
 - [Leadership](influence.md) - encourages others to do well
 
@@ -106,7 +106,7 @@ Even when we don't understand virtue directly, we form a selfishly driven altern
 
 Some of the most powerful [evil](morality-evil.md) channels virtues and healthy principles toward destructive ends. This is easier than it sounds because many principles are *very* similar, but convey *entirely* different [implications](mind-feelings.md) (e.g., equality versus fairness, wisdom versus knowledge).
 
-The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), and to [learn](pedagogy.md) as specifically as possible.
+The scope of our capacity for ethical behavior comes closely with how well-refined our [intuition](mind-feelings.md) is about the subject of our [decisions](decisions.md). Therefore, to enhance our ethics, we must enhance our [understanding](understanding.md), especially of [the domain beyond this life](religion.md), and to [learn](education.md) as specifically as possible.
 
 One of the easiest ways to perform immoral actions is to behave kindly to Person A while harming Person B. We're able to justify our actions by claiming Person B had it coming, and Person A is unlikely to complain. Taken across a [large organization](groups-large.md), this moral decay is a massive reason [bad systems](mgmt-badsystems.md) exist.
 
@@ -118,7 +118,7 @@ Except for [self-destructive habits](addiction.md), morality *always* requires o
 
 However, we also often [fear](mind-feelings-fear.md) being unloved, so we naturally believe we must stay important to others. To do so, we'll declare ourselves the "best" at something. That "bestness" is also known as conceit, or the Christian concept of pride.
 
-If something risks outperforming us, we [wish](purpose.md) (and often [try](mind-creativity-results.md)) to outdo them. Our innate talent (of which we were typically [born with](humanity.md)) determines if we succeed.
+If something risks outperforming us, we [wish](purpose.md) (and often [try](results.md)) to outdo them. Our innate talent (of which we were typically [born with](humanity.md)) determines if we succeed.
 
 There are *many* places we can try to be "best" at:
 
@@ -136,7 +136,7 @@ The greatest moral hazard to any soul comes through false humility, which involv
 
 Conceit has a cure, but requires a few things:
 
-1. Regard others as equally significant as oneself. This requires *more* [work](mind-creativity-results.md) toward others than toward oneself because we don't know exactly what other people are thinking and [feeling](mind-feelings.md).
+1. Regard others as equally significant as oneself. This requires *more* [work](results.md) toward others than toward oneself because we don't know exactly what other people are thinking and [feeling](mind-feelings.md).
 2. Never [over-identify](identity.md) with anything that attributes to self-importance, especially on [how it appears to others](image.md).
 3. Accept all other perspectives are equally valid, even when the [reasoning](logic.md) isn't always as sound or is missing apparent portions of [reality](reality.md) that other people can plainly see.
 4. Quickly admit failure as it arises, irrespective of [what it looks like](image.md) or [implies](stories.md).
@@ -146,7 +146,7 @@ Humility is critical for the [good life](goodlife.md) and a [healthy society](po
 - Conceited people tend to grab all available [power](power.md) and, therefore, most of everyone's [attention](image.md).
 - Giving a humble person power may provoke them to self-conceit and make them a poor [role model](culture.md) for others.
 - Even if a humble person received all the power, they're not always shrewd enough to hold back the [evil](morality-evil.md) or conceited people from taking power again.
-- True, complete humility requires complete [self-awareness](awareness.md), which is impossible because we keep experiencing things that [change](changes.md) us.
+- True, complete humility requires complete [self-awareness](awareness.md), which is impossible because we keep experiencing things that [change](people-changes.md) us.
 
 * * * * *
 
@@ -166,7 +166,7 @@ Most conceited people are severely blind to themselves and don't realize how sil
 
 We tend to justify our moral actions, even when we know we're harming others who don't deserve it. It may help others [imagine](imagination.md) that we're moral, but it doesn't do anything for our inner wellness.
 
-Living a virtuous life is [meaningful](meaning.md) in itself, but its [evidence](mind-creativity-results.md) will always express itself with others. The only people, therefore, who can tell us if we *are* living virtuously [love](people-love.md) us enough to be honest about what they see.
+Living a virtuous life is [meaningful](meaning.md) in itself, but its [evidence](results.md) will always express itself with others. The only people, therefore, who can tell us if we *are* living virtuously [love](people-love.md) us enough to be honest about what they see.
 
 Selflessness can be trained, but it must be sincere. If anyone performs a virtue *for* someone else, they're likely trying to gain something from it. Even people trying to [please God](religion.md) might be doing it selfishly. The only reason someone should do *anything* virtuous is out of [love](people-love.md) for others around them.
 
@@ -177,6 +177,6 @@ Loving behavior toward others begins with patience:
 - Patience to suspend [judgment](decisions.md)
 - Patience to [understand](understanding.md) others and the situations involved
 - Patience to find [creative solutions](mind-creativity.md) that benefit everyone
-- Patience to [work toward](mind-creativity-results.md) an ideal
+- Patience to [work toward](results.md) an ideal
 
 Living virtuously is often unpopular, but some [trends](trends.md) will imply they're behaving virtuously. Often, their "virtue" will lead to persecution of the truly virtuous.

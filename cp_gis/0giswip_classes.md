@@ -70,13 +70,13 @@ While they may appear to live a life of comfort and sophistication, they're in a
 
 Parents of the upper class have the most varied approach of the three. Many of them train their children to honor the [culture](culture.md) and avoid shaming their [public image](image.md), but some will raise their children to inherit their [power](power.md), while others will try to prevent competition against their offspring.
 
-Morality is weakest among the upper class, since they're more able to draw from [money](power-types.md) or [influence](influence.md) to avoid or mitigate [direct consequences](mind-creativity-results.md) for what they do.
+Morality is weakest among the upper class, since they're more able to draw from [money](power-types.md) or [influence](influence.md) to avoid or mitigate [direct consequences](results.md) for what they do.
 
 For this reason, the upper class isn't too concerned with the lower and middle class until there's a [coup or revolution](people-conflicts-war.md).
 
 ## Migrating
 
-Because of how people use power in each class, migrating back-and-forth across them often requires [changes](changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](pedagogy.md).
+Because of how people use power in each class, migrating back-and-forth across them often requires [changes](people-changes.md) to [habits](habits.md). The culture propagates itself [across generations](maturity.md) as well: most parents of lower classes teach their children to *not* ask questions (since they might get in trouble), and most parents of higher classes give them an unnaturally privileged [education](education.md).
 
 Beyond the standard cultural adaptations like specific [language](language.md) and [rituals](culture.md), there are a few others.
 

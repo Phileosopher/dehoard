@@ -63,7 +63,7 @@ applicable to all Red Hat family (RHEL/CentOS/SL/OL 7) and to all PostgreSQL 9.*
 [Stack Overflow](https://stackoverflow.com/questions/876522/creating-a-copy-of-a-database-in-postgresql)
 Creating a copy of a database in PostgreSQL.
 in essence, what works for me :
-```
+```sql
 # backup :
 pg_dumpall > db.out
 # restore :

@@ -22,7 +22,7 @@ Some people say the creation story is merely [symbolic](symbols.md), but its [my
 Since that Fall, we've been cursed with sin:
 
 - Women must endure extreme pain during childbearing and [want](purpose.md) to take over the man's role ([Genesis 3:16](https://biblehub.com/genesis/3-16.htm)).
-- Men must [work](mind-creativity-results.md) very hard just to survive ([Genesis 3:17-19](https://biblehub.com/bsb/genesis/3.htm)).
+- Men must [work](results.md) very hard just to survive ([Genesis 3:17-19](https://biblehub.com/bsb/genesis/3.htm)).
 - We've been exiled from God and have lost our connection with nature:
   - Most human experiences with God are deceptions.
   - We no longer have [authority](power.md) over other living organisms.
@@ -106,4 +106,4 @@ Some Christians add that salvation requires effort beyond merely believing:
 - Other activities like communion/Eucharist and honoring the Sabbath pertain to your [relationship with God](identity.md) and [communal experience](church.md), but have nothing to do with attaining salvation.
 - Speaking in tongues and baptism in the Holy Spirit are [part of God's work in us](spiritual-gifts.md), but they're not salvation ([1 Corinthians 14](https://biblehub.com/bsb/1_corinthians/14.htm)).
 
-In response to your [faith](understanding-certainty.md) in Jesus, God will make you a [new creation](identity.md), which *will* permanently [change](changes.md) you.
+In response to your [faith](understanding-certainty.md) in Jesus, God will make you a [new creation](identity.md), which *will* permanently [change](people-changes.md) you.

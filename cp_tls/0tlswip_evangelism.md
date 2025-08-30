@@ -290,7 +290,7 @@ Eventually, you *will* get a question you don't know the answer to.
 
 Do *not* let yourself fall into a rhetorical trap.
 
-- Highly educated people (e.g., philosophy [teachers](pedagogy.md)) sometimes bait ambitious believers into a debate.
+- Highly educated people (e.g., philosophy [teachers](education.md)) sometimes bait ambitious believers into a debate.
   - However, they frequently have an unspoken advantage (e.g., a microphone), and will cut you off as soon as they see they're not winning.
 - The best thing to do is to avoid a direct conflict by owning that it's not the right time or place, and let the conversation move on.
 - Often, you'll get the freedom to have a discussion with some people later over the public exchange.

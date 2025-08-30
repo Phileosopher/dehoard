@@ -17,7 +17,7 @@ Conservatives tend to vote for civilization and liberals for equality, but this 
 While liberalism can embrace anything [trendy](trends.md), conservatives can also embrace anything [trendy](trends.md) from the past. They're both adopting those trends through what they [imagine](imagination.md):
 
 - Conservatives are using the [stories](stories-storytellers.md) of the past (i.e., "history") to define the best way to run society. They must make accommodations for [changing](trends.md) [cultures](culture.md) and [technology](technology.md), or they will make [bad decisions](mgmt-badsystems.md).
-- Liberals are using expectations of present [actions](mind-creativity-results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](understanding-certainty.md) to [know](understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
+- Liberals are using expectations of present [actions](results.md) onto the future to define the best way to run society. They must make accommodations for what they're [unable](understanding-certainty.md) to [know](understanding.md), or they will make [bad decisions](mgmt-badsystems.md).
 
 ## Undefined
 
@@ -48,14 +48,14 @@ However, both conservatives and liberals run the risk of abusing their power, me
 
 Conservatives believe in natural law:
 
-- [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](mind-creativity-results.md) for their [decisions](decisions.md). This makes the death penalty acceptable and abortion bad.
+- [Humanity](humanity.md) has inherent [value](values-quality.md), but must experience [consequences](results.md) for their [decisions](decisions.md). This makes the death penalty acceptable and abortion bad.
 - Individual [morality](morality.md) is irrespective of what an individual [interprets](image.md). Thus, the [laws](rules.md) and sentencing should still stand even with a tragic [story](stories.md) behind a [bad decision](decisions.md).
-- Each person is at least partly responsible for the [consequences](mind-creativity-results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](rules.md).
+- Each person is at least partly responsible for the [consequences](results.md) they've brought upon themselves. Others can extend [grace](people-love.md), but it's not a [requirement](rules.md).
 
 Progressives believe natural law is relative, nonexistent, or doesn't matter:
 
-- Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](decisions.md) over all [consequences](mind-creativity-results.md). This makes abortion acceptable and the death penalty bad.
-- Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](rules.md) should flow from individual [perceptions](image.md), and sentencing should judge [intent](purpose.md) more than [consequences](mind-creativity-results.md).
+- Humanity only has [value](values-quality.md) according to others' [purposes](purpose.md), and the State is the highest [authority](decisions.md) over all [consequences](results.md). This makes abortion acceptable and the death penalty bad.
+- Individual [morality](morality.md), aggregated, is group morality. Thus, [laws](rules.md) should flow from individual [perceptions](image.md), and sentencing should judge [intent](purpose.md) more than [consequences](results.md).
 - [Reality](reality.md) is too [uncertain](trust.md) for everyone's consequences to be [just](morality-justice.md). It's the duty of the State to intervene to [make things right](leftism.md).
 
 Further, in the midst of the two poles, other value systems diverge from the spectrum by emphasizing individuals' freedom:
@@ -80,7 +80,7 @@ Younger people are typically easier to [convince](influence.md) than older peopl
 
 The image of politically extreme [zealots](trust.md) is more [dramatic](mind-feelings.md) than the average person's honest views, so most [large-scale media](stories-storytellers.md) likes to promote those people. 90% of the people of any given party do *not* believe that way, and it's often [bigotry](image.md) to [believe](understanding-certainty.md) they do. Ironically, the "horseshoe effect" means extreme political values curve back toward the same pathway to totalitarianism.
 
-Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](decisions.md) that lead to [circumstances](mind-creativity-results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](mind-creativity-results.md) that lead to bad [choices](decisions.md).
+Political debates become fiercely heated from [philosophical](philosophy.md) differences in how we [believe](understanding-certainty.md) people can become [evil](morality-evil.md). Conservatives tend to [believe](understanding-certainty.md) evil is bad [choices](decisions.md) that lead to [circumstances](results.md), while liberals tend to [believe](understanding-certainty.md) evil is [circumstances](results.md) that lead to bad [choices](decisions.md).
 
 [Gender](gender.md) roles can easily fit into both conservative and liberal molds. On the conservative side, females prefer its [safety](safety.md) and makes prefer its conquest of the [unknown](unknown.md) via historical precedent. For liberals, females prefer the heightened aspirations for [agreeableness](people-conflicts.md), and males can conquer the unknown through novelty.
 
@@ -95,7 +95,7 @@ Human politics have a nasty, irreconcilable paradox that transcends *any* politi
 3. Even if the [unknown](unknown.md) persists indefinitely, the absence of [love](people-love.md) means people will constantly forbid others who desperately need something, sometimes to the point of death.
 4. The solution for tyrannical power abuse is to destroy it before it takes over everything.
 5. One of the most just places to destroy tyranny is when power transfers from one [generation](people-family.md) to the next (i.e., inheritance and inheritance tax).
-6. However, since parents [love](people-love.md) their children more than society, they will find ways to secretly transfer that power to their children, even if the children were given *complete* equality of situation (e.g., all receive the same [education](pedagogy.md) and starting income).
+6. However, since parents [love](people-love.md) their children more than society, they will find ways to secretly transfer that power to their children, even if the children were given *complete* equality of situation (e.g., all receive the same [education](education.md) and starting income).
 7. Punishing any parents will mean the entrusted children will conspire to destroy the social system, since they're not getting what they want and have the reckless [power of youth and time](maturity.md) to exact their revenge.
 
 By nature, conservatives will be somewhat antagonistic to overly used [technology](technology.md), and liberals toward overly applied [virtue](morality.md).

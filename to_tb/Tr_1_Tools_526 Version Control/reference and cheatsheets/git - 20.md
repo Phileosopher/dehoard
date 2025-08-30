@@ -40,7 +40,7 @@ Simply git cheatsheet
 
 ### Most active hours from git history ([src](https://gist.github.com/bessarabov/674ea13c77fc8128f24b5e3f53b7f094#gistcomment-2973934))
 
-```
+```bash
 git log --author="Morgan" \
         --format="%ad" \
         --date="format:%H" |\

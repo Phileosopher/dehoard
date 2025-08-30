@@ -49,7 +49,7 @@ Deeply consider all possible romantic relationships.
 Pick your [dates](relationships-2_dating.md) carefully.
 
 - Don't [steadily date with](relationships-2_dating.md) or get in [relationships](relationships-3_marriage.md) with non-believers ([2 Corinthians 6:14](https://biblehub.com/2_corinthians/6-14.htm)).
-- Even when someone is open-minded, they're more likely to frustrate you or convert you away from Christianity than your efforts legitimately [changing](changes.md) them.
+- Even when someone is open-minded, they're more likely to frustrate you or convert you away from Christianity than your efforts legitimately [changing](people-changes.md) them.
 - Non-believers are spiritually dead, so they'll usually find believers' spirituality attractive, for a season.
 - To discern a non-believer, observe their lifestyle more than what they say ([Matthew 7:15-20](https://biblehub.com/matthew/7.htm)).
 - More than anything else, flee sexual immorality ([1 Corinthians 6:18](https://biblehub.com/1_corinthians/6-18.htm)).
@@ -101,7 +101,7 @@ Family households are never permanent, and God designed them to grow children in
 God redeems and forgives, so fully [forgive](mind-feelings-happiness-stress.md) any adult child who comes back after rebelling ([Luke 15:11-32](https://biblehub.com/bsb/luke/15.htm)).
 
 - Jesus demonstrates how much love fathers should have for their lost sons.
-- However, your adult child should still reap the [consequences](mind-creativity-results.md) of their decisions.
+- However, your adult child should still reap the [consequences](results.md) of their decisions.
 
 ## Extended Family
 

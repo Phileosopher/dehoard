@@ -238,7 +238,7 @@ There are [spiritual motivational gifts inventories](/wp-content/uploads/2019/07
 
 Pay close attention to the [good habits](habits.md) you keep practicing:
 
-- You'll be thinking and acting on a motivation most of the time, even without anyone expecting you to or seeing any [results](mind-creativity-results.md) from it.
+- You'll be thinking and acting on a motivation most of the time, even without anyone expecting you to or seeing any [results](results.md) from it.
 - You're able to work on a specific sort of task for a *very* long time with little to no fatigue.
 - Mature Christians are stunned or amazed at what you were capable of doing with those tasks.
 

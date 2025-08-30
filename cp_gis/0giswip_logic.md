@@ -160,7 +160,7 @@ Since we can't gather *all* the inputs, we can never fully [predict the future](
 
 One useful way to track our [values](values.md) and [understanding](understanding.md) is to perform [thought experiments](paradoxes.md). By creating [imagined](imagination.md) scenarios which force extremes, we can observe nuances we otherwise would overlook.
 
-Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](understanding-certainty.md) their analysis on the principle that they [worked very hard](mind-creativity-results.md) and spent lots of time on their thoughts.
+Over-analysis is when we *should* be doing something else (like gathering more information or unpacking [feelings](mind-feelings.md)) but instead are trying to logically slice up what we know. Over-analyzers often [believe](understanding-certainty.md) their analysis on the principle that they [worked very hard](results.md) and spent lots of time on their thoughts.
 
 ## Sensibility
 
@@ -168,7 +168,7 @@ While everyone is logical, everyone is *not* sensible. To have "sense" is to und
 
 - All Icelanders are professional dancers, and all professional dancers are women, so all Icelanders are women.
 
-Most people [understand](understanding.md) at least some nonsense as being truth, though. They either miss some key premises (especially when they're [young](maturity.md)) or believe a few bad premises (because they were [educated poorly](pedagogy.md) or are mentally unwell).
+Most people [understand](understanding.md) at least some nonsense as being truth, though. They either miss some key premises (especially when they're [young](maturity.md)) or believe a few bad premises (because they were [educated poorly](education.md) or are mentally unwell).
 
 But, everyone *thinks* they're rational and sensible, which is a product of [natural conceit](morality-evil.md). This becomes especially dangerous when people reinforce their logic with [statistics](math.md).
 

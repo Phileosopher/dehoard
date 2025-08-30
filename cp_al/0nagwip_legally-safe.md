@@ -52,7 +52,7 @@ To put it another way, laws aren't directly morality:
 
 1. Law is a [value system](values.md) made collaboratively over time by [leaders](groups-large.md) with [authority](power.md).
 2. At first, the values reflect the leaders' [philosophies](philosophy.md), but adapt and conform to [trends](trends.md) over time to enforce [justice](morality-justice.md).
-3. Law enforcement will create [consequences](mind-creativity-results.md) for those laws, but those consequences aren't necessarily moral.
+3. Law enforcement will create [consequences](results.md) for those laws, but those consequences aren't necessarily moral.
 4. If there is anything moral about the laws, they exist in the framers' minds, and future morality comes through how future leaders interpret it.
 5. We all, in our mind, have an [imitation](image.md) of those laws, which is perpetually over-ruled by permutations and misunderstandings of those laws relative to how large organizations use them.
 
@@ -215,7 +215,7 @@ Watch the timing of what you say.
 - If you know someone tends to take screenshots of conversations, send them audio recordings instead.
 - Interacting with the wrong person in the wrong context can lead to a civil case.
 
-Pay close attention to opt-in or opt-out status, since its default state can be a [dark pattern](design-uxui.md).
+Pay close attention to opt-in or opt-out status, since its default state can be a [dark pattern](engineering-design.md).
 
 - Opt-in makes the default condition to opt-out, and it may be discriminatory or work against the interests of the consenting party.
 - Opt-out makes the default condition opt-in, which may make the consenting party agree to something they weren't aware of.
@@ -249,7 +249,7 @@ To avoid an urgent [decision](decisions.md), give as much time as possible to re
 
 - If you're not sure about *all* the clauses involved in the contract, give it time to read through it or consult a professional who would know more.
 - Generally, more disclosures and clauses are *them* trying to protect or insulate themselves from *you*.
-- Watch for [dark patterns](design-uxui.md) that streamline your consent, since it's usually to coerce consent, which no reasonable person would agree to if they read them.
+- Watch for [dark patterns](engineering-design.md) that streamline your consent, since it's usually to coerce consent, which no reasonable person would agree to if they read them.
 
 Note any terms which may hurt your capacity for choices later.
 

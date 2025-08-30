@@ -46,7 +46,7 @@ However, in a [computer-heavy](computers.md) society where the data is unusually
    - Bank accounts and [lines of credit](money-2_debt.md)
    - Financial purchases with any card associated to your name
    - [Insurance](insurance.md)
-   - [School](pedagogy.md) attendance
+   - [School](education.md) attendance
    - [Telecom](networks-computer.md) and utility agreements (e.g., cell phone, cable TV)
    - Hospital and [healthcare](body-4_health.md) visits
    - Official [employment](jobs-1_why.md)
@@ -97,7 +97,7 @@ This situation means most casual (and typically cost-effective) interactions are
 - The [credit score](money-2_debt.md) asks 3 possible reporting companies (Experian, TransUnion, Equifax) if other banks found this entity trustworthy to lend money to.
 - The [insurance score](insurance.md) asks a reporting company (LexisNexis) who this entity has had insurance with and what dates.
 - [Health](body-4_health.md) information is accessible through the Medical Information Bureau.
-- There are numerous other [trade-specific](jobs-specialization.md) reports, ranging from [academic](pedagogy.md) records to bank accounts open in your name.
+- There are numerous other [trade-specific](jobs-specialization.md) reports, ranging from [academic](education.md) records to bank accounts open in your name.
 - The reports never give a *complete* picture, and instead provide information that may be relevant for that [professional](professionals.md) to do their job.
 
 There *are* exceptions to this arrangement:

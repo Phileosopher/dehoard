@@ -88,7 +88,7 @@ Slowly open up to them and observe how they respond to you:
   - Tell them plainly when you dislike one of their thoughts.
   - Openly discuss your [finances](money-1_why.md) with them.
   - Your [religious faith](religion.md) should mesh, *especially* if either of you want [children](parenting-2_children.md) someday.
-  - While your preferences may differ, you should both share similar philosophies about life, and they may [change](changes.md).
+  - While your preferences may differ, you should both share similar philosophies about life, and they may [change](people-changes.md).
   - By the time you're considering [living together](home-moving.md) or [marrying](relationships-weddings.md), you should know approximately what they feel about most things.
 
 As your relationship naturally grows, expect they'll be more involved in your life:

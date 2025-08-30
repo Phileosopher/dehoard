@@ -20,7 +20,7 @@ Like [success](success-1_why.md) and [investing](money-investing.md), there's a 
 
 - Even when it doesn't pay well compared to their subordinates, many people wish to be managers because they desire [job security](safety.md) without much work or crave [power](power-types.md) over others.
 - A manager who [appears](image.md) to be competent or powerful to *their* boss is technically easier than actual competence or power.
-  - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](mind-creativity-results.md).
+  - A manager's results are [numerically tracked](math.md) in most conventional roles, and [Goodhart's Law](lawsaxioms.md) compounds because their performance comes directly from their *subordinates'* [results](results.md).
 - The formal [culture](culture.md) of most managerial roles mean managers don't receive direct correction by their subordinates (or those people are quickly replaced).
 - Most people who [succeed](success-1_why.md) at management, but desire more [wealth](money-1_why.md), move on from managing.
 
@@ -67,7 +67,7 @@ Anyone can be a manager if they're granted the role, but *successful* management
 Almost everyone is capable of being a manager, but not everyone has the [personality](personality.md) that they'd *enjoy* it:
 
 - Openness to Experience must be somewhere in the middle.
-  - They must accept the [inevitable changes](changes.md) that come with [groups of people](groups-small.md) along with results that *aren't* in their direct control.
+  - They must accept the [inevitable changes](people-changes.md) that come with [groups of people](groups-small.md) along with results that *aren't* in their direct control.
   - However, they can't accept the changes so far that they'd alienate the more [slow-changing members](habits.md) of the group they're leading.
 - Conscientiousness must be at least above-average.
   - They will have to follow *many* rules and honor more commitments than most other roles.
@@ -112,13 +112,13 @@ All managers *should* have leadership qualities because managers must perform sp
 - Can identify [potential candidates](mgmt-3_teams.md).
 - Nurtures late-bloomers who aren't rising to their presented challenges.
 - Fire or dismiss lazy, uncooperative, and complaining workers.
-- Adapt to the situation as it [changes](changes.md).
+- Adapt to the situation as it [changes](people-changes.md).
 - [Loyal](trust.md) to the [organization](groups-large.md) they're working to [build or maintain](creations.md).
 - Capable of making clear [decisions](decisions.md) confidently enough that others [trust](trust.md) them.
 
 While management itself is a role, leadership is a mindset and skill set:
 
-- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](decisions.md) that [take action](mind-creativity-results.md).
+- [Moral character](morality.md) that drives them [fearlessly](mind-feelings-fear.md) into [decisions](decisions.md) that [take action](results.md).
 - At least some degree of [maturity](maturity.md) and [awareness](awareness.md) to control their [emotions](mind-feelings.md) and take [personal responsibility](meaning.md).
 - Concerned more about their group's or team's [interests](purpose.md) than themselves.
 - Confident about their decisions without regrets, but humble enough to make dramatic changes when they're wrong.
@@ -157,8 +157,8 @@ The stereotype of bad managers distill to a few key details:
 - Accepts personal mediocrity about self-directed tasks and [goals](success-3_goals.md), which leads to some amount of hypocrisy with their expectations of others.
 - Either poor [interpersonal](people-3_boundaries.md) or [communication](language-speaking.md) skills, or insufficient enthusiasm to motivate others.
 - Poorly [understood](understanding.md) or poorly articulated [vision](imagination.md) or [purpose](purpose.md), or maintains contradicting priorities.
-- Unwilling to hear [constructive input](people-conflicts.md) from subordinates or peers, especially about matters which may imply [change](changes.md) (and therefore more work).
-- Refusing to learn from mistakes and failures that may require [change](changes.md) if [understood](understanding.md) and acknowledged.
+- Unwilling to hear [constructive input](people-conflicts.md) from subordinates or peers, especially about matters which may imply [change](people-changes.md) (and therefore more work).
+- Refusing to learn from mistakes and failures that may require [change](people-changes.md) if [understood](understanding.md) and acknowledged.
 - Disinterest in helping others [grow](maturity.md), improve, or [succeed](success-1_why.md) unless they receive some of the [credit](image.md).
 - Obsessed about goals or the group's well-being without concern for individuals in the group.
 
@@ -173,7 +173,7 @@ Many [larger group](groups-large.md) managers are *not* leaders:
   - Giving power to someone takes away power from someone else.
   - The boost to that worker's ego means they're more likely to stay loyal to the group, meaning they're less likely to leave.
   - [Groups can't admit they're wrong](groups-small.md), so a manager can easily [become the public scapegoat](image-distortion.md) for a change the manager wants to make.
-- Business [schools](pedagogy.md) tend to churn out MBA [technical idiots](https://gainedin.site/idiot/) who have poor [people skills](people-3_boundaries.md), but are skilled at [negotiating](people-5_conflicts.md) lower employee pay.
+- Business [schools](education.md) tend to churn out MBA [technical idiots](https://gainedin.site/idiot/) who have poor [people skills](people-3_boundaries.md), but are skilled at [negotiating](people-5_conflicts.md) lower employee pay.
   - In a group of them, their culture may often even instill outright *contempt* for subordinates.
 
 Watch for key phrases and behaviors that show non-leader managers:
@@ -191,7 +191,7 @@ When nobody leads by asking questions that provoke change, non-leader management
 
 - Using the passive voice and vague clarifications, which avoid risking a [verbal commitment](people-contracts.md) or expressing [certainty](understanding-certainty.md) ("For some time...", "Approximately..." "It was agreed...").
 - Dense and meaningless jargon, which shows both a lack of [understanding](understanding.md) and unwillingness to own that lack of understanding.
-- Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](mind-creativity-results.md) within those projects.
+- Endless meetings and email conversations to [communicate](mgmt-5_communication.md) status on projects, but without legitimately assisting to [make results](results.md) within those projects.
 - Sometimes projecting [family-based](people-family.md) roles onto the subordinates, then reversing direction and behaving impersonally under the pretense of [professionalism](professionals.md) when they may be held accountable on it.
 - Often dismally [unaware](awareness.md) of how everyone else [sees them](image.md).
 
@@ -220,13 +220,13 @@ The manager's skills will need to be appropriate to the team's purposes:
 - Skill at [influencing others](power-influence.md) to their perspective.
 - [Curates their image](image-distortion.md) and [crafts stories](stories.md) to appear at least a little better than [reality](reality.md).
 - Adapts to change and inspires others to it as well.
-- Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](mind-creativity-results.md) to take.
+- Able to calmly [analyze](logic.md) the situation enough to [understand](understanding.md) the [wisest path](results.md) to take.
 - Appearing fearless in the face of hardship.
 - Creates [rules](rules.md).
 - Follows rules.
 - Takes responsibility for a team's results.
-- Beyond ideals, focused on [practical results](mind-creativity-results.md).
-- Sees the long-term [consequences](mind-creativity-results.md) of their decisions.
+- Beyond ideals, focused on [practical results](results.md).
+- Sees the long-term [consequences](results.md) of their decisions.
 
 Most management roles clarify the contrast between prioritizing relationships versus tasks, but *every* manager must love their work.
 
@@ -264,7 +264,7 @@ Defines whether a leader is helping people or results more.
 Analyze a manager into 2 spectra:
 
 - People-Concerned - prioritizes [group members'](groups-member.md) benefits, what they enjoy the most, and the best interests for their careers.
-- Production-Concerned - prioritizes getting the job done as [effectively](mind-creativity-results.md) as possible and the organization's best interests.
+- Production-Concerned - prioritizes getting the job done as [effectively](results.md) as possible and the organization's best interests.
 
 These management styles can fit onto a graph:
 

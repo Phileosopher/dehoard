@@ -96,7 +96,7 @@ Usually, joining a cult requires a large personal sacrifice.
 Incrementally, the members are then introduced to further sacrifices to release control to the group, one small step at a time (BITE Model):
 
 1. Behavior control - their [physical reality](reality.md):
-   - The collective group ends up owning *all* their individual [creations and results](mind-creativity-results.md).
+   - The collective group ends up owning *all* their individual [creations and results](results.md).
    - This typically starts with [legitimately good habits](https://adequate.life/habits/), then moves to more intimate control methods.
 2. Information control - how they [understand](understanding.md) [reality](reality.md):
    - The group will typically give clear answers to more [controversial matters](people-conflicts.md), then work inward to otherwise non-negotiable or [taboo](morality-taboo.md) beliefs.
@@ -242,7 +242,7 @@ Often, cult membership creates very severe effects upon a participant:
 
 - Absolute sabotage of [personal freedoms](people-boundaries.md), to the point of having a broken [personality](personality.md) and unable to make [good boundaries](people-boundaries.md).
 - Severe [trauma](hardship-ptsd.md) from the events performed *to* them.
-- Bad [decisions](decisions.md) and [their effects](mind-creativity-results.md) they [chose](decisions.md) to make *on behalf of* the group they trusted.
+- Bad [decisions](decisions.md) and [their effects](results.md) they [chose](decisions.md) to make *on behalf of* the group they trusted.
 
 Generally, they'll veer *hard* into the polar opposite extreme value system:
 

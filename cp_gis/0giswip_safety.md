@@ -19,7 +19,7 @@ The entire point of *any* security/safety system is from vague [trust](trust.md)
 - Antibiotics
 - Guard rails and barriers
 
-The more [fear](mind-feelings-fear.md) we have of losing something, the harder we'll [work](mind-creativity-results.md) to keep it. In that sense, you can see how much people [love](people-love.md) things by where they devote their [budget](money-3_budget.md) and other [forms of power](power-types.md).
+The more [fear](mind-feelings-fear.md) we have of losing something, the harder we'll [work](results.md) to keep it. In that sense, you can see how much people [love](people-love.md) things by where they devote their [budget](money-3_budget.md) and other [forms of power](power-types.md).
 
 One easy way to avoid risk is to get [insurance](insurance.md). By giving up some power in the [form of money](power-types.md), someone can have a [separate organization](groups-large.md) take the risk instead. It's basically paying rent for someone else to take the risk.
 
@@ -29,7 +29,7 @@ Generally, when [deciding](decisions.md) when you don't know what to [expect](im
 
 Any security system, of any type, can't 100% stop things. A sufficiently [motivated](purpose.md), [creative](mind-creativity.md), and [talented](humanity.md) person can break through it.
 
-The *actual* purpose of a security system (and a benevolent [legal system](people-boundaries.md)) is to make the intruders [work](mind-creativity-results.md) harder than the reward by requiring them to spend more [power](power.md) to get it than it's worth ("deterrence"). Nobody will outright admit it, but defenders are often trying to direct the attackers' efforts to the defender's neighbors.
+The *actual* purpose of a security system (and a benevolent [legal system](people-boundaries.md)) is to make the intruders [work](results.md) harder than the reward by requiring them to spend more [power](power.md) to get it than it's worth ("deterrence"). Nobody will outright admit it, but defenders are often trying to direct the attackers' efforts to the defender's neighbors.
 
 Most people don't separate the concept, but *appearing* secure is different from *being* secure. The [image](image.md) of security can imply more [power](power.md) than reality, which is why people use "security theater":
 
@@ -47,7 +47,7 @@ Finally, some [creative](mind-creativity.md) defenders will try to make the intr
 - Place rocks in a safe and hide the valuables.
 - Have security guards surround a building with nothing significant inside.
 
-The only way to avoid a security breach entirely is to hide the appearance of *anything* valuable, but it requires tremendous [work](mind-creativity-results.md) and [creativity](mind-creativity.md) to pull it off correctly:
+The only way to avoid a security breach entirely is to hide the appearance of *anything* valuable, but it requires tremendous [work](results.md) and [creativity](mind-creativity.md) to pull it off correctly:
 
 - Make a fortress look like the surrounding landscape.
 - Name an area something inconspicuous.

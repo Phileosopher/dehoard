@@ -1,7 +1,7 @@
 
 One of the earliest forms of computer programming came through marking information on a specialized tabulated piece of paper. It allowed entering information, and had the small advantage of being asynchronous input (i.e., prepare the papers, then feed them in later).
 
-"Optical mark recognition" (OMR) is still useful for multiple-choice [tests in schools](pedagogy.md) (informally called "scantrons"), but scanning in fixed information only has limited use compared to the conveniences of [a keyboard](computers-keyboard.md).
+"Optical mark recognition" (OMR) is still useful for multiple-choice [tests in schools](education.md) (informally called "scantrons"), but scanning in fixed information only has limited use compared to the conveniences of [a keyboard](computers-keyboard.md).
 
 ## Scanning
 
@@ -9,7 +9,7 @@ A scanner ends up producing the same abstraction as a [camera](camera.md): a rec
 
 The primary advantage of a scanner is that it can capture [text](computers-keyboard.md) better, since it's taking proportionally more time to acquire the information. However, scanners are also cheaper than cameras because of that same reality.
 
-In one sense, a flatbed scanner works a bit like the reverse of a [printer](computers-printers.md): slowly move from one side to another, often with a light to illuminate the information, and a sensor captures the image and converts it into [encoded color](graphics.md) line-by-line.
+In one sense, a flatbed scanner works a bit like the reverse of a [printer](computers-printers.md): slowly move from one side to another, often with a light to illuminate the information, and a sensor captures the image and converts it into [encoded color](engineering-graphics.md) line-by-line.
 
 Scanners come in various forms:
 
@@ -47,7 +47,7 @@ The PDF protocol was designed by Adobe to replace all the usefulness of paper, a
 - [Password-protection](computers-cysec-authentication.md) and [encryption](encryption.md) of the file itself.
 - [Metadata](computers-files.md) storage, for just about anything.
 - Multiple layers for annotations, OCR, form fills, signatures, write-protection, and read-protection.
-- Hidden text (functionally similar to [HTML's](computers-webdev.md) [image](graphics.md) alt text).
+- Hidden text (functionally similar to [HTML's](computers-webdev.md) [image](engineering-graphics.md) alt text).
 - The ability to embed audio and video into the PDF file.
 - The means to run an early version of JavaScript inside it.
 - Compression to trim the memory from everything above.
@@ -87,7 +87,7 @@ Unfortunately, it's not uncommon for information to parse incorrectly, even with
 
 - [Xerox machines had a non-OCR bug which changed numbers on its scans that persisted for 8 years](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning).
 
-From [a design standpoint](design-uxui.md), adding barcode technology to an inherently social experience (e.g., restaurants, concerts) can create a *very* antisocial experience altogether, especially if people are conditioned to social interaction in a [culture](culture.md).
+From [a design standpoint](engineering-design.md), adding barcode technology to an inherently social experience (e.g., restaurants, concerts) can create a *very* antisocial experience altogether, especially if people are conditioned to social interaction in a [culture](culture.md).
 
 * * * * *
 

@@ -15,7 +15,7 @@ For *any* specialization, it's vitally critical to know the gist of what those p
 
 1. If we're not aware of that subject *at all*, we run the risk of a professional exploiting us.
 2. Even when that professional is sincere and honest, we run the risk of making a poorly informed decision simply on the limited information that professional provides.
-3. Even when we make the right decisions *without* complete [understanding](understanding.md) of the situation, we don't [learn from it](pedagogy.md) and therefore don't grow as much.
+3. Even when we make the right decisions *without* complete [understanding](understanding.md) of the situation, we don't [learn from it](education.md) and therefore don't grow as much.
 4. Over time, not learning from expert advice can make us [technical idiots](https://gainedin.site/idiot/) at worst or, ideally, experiencing limitations on [finding meaning](meaning.md).
 
 Since [the over-information age](information.md), finding legitimately high-skilled people is harder to sift from the many people who *claim* to be high-skilled.
@@ -112,7 +112,7 @@ Attorney (Must have passed the bar exam):
   - Civil rights law (if you're facing [significant political hardship](hardship-persecution.md))
   - Corporate law (for large-group [managers](mgmt-1_why.md))
   - Criminal law (for [legal issues](legal-safety.md))
-  - Education law (for [homeschooling legal issues](pedagogy-homeschool.md) or if you're [a teacher](pedagogy.md))
+  - Education law (for [homeschooling legal issues](education-homeschool.md) or if you're [a teacher](education.md))
   - Entertainment law (if you're a [performer](stories-storytellers.md))
   - Family law (for [legal issues](legal-safety.md) with your family)
   - Environmental and natural resource law (for large-group [managers](mgmt-1_why.md), especially factory production and mining)
@@ -152,4 +152,4 @@ Auto mechanic:
 Architect:
 
 - You may be able to mostly [design your own home](home-homestead.md) from stock blueprints, but you'll need an architect to at least sign off on the plans.
-- Even with a boilerplate architectural diagram, architects can add *tremendous* value in the [aesthetic value](design-uxui.md) of a building.
+- Even with a boilerplate architectural diagram, architects can add *tremendous* value in the [aesthetic value](engineering-design.md) of a building.

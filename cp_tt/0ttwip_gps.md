@@ -7,7 +7,7 @@ At one time, navigating an unknown region required a few things:
 2. If anyone was available to provide guidance, asking for directions.
 3. Awareness of your environment, which referenced the landmarks given by the map or directions.
 
-"Geolocation" is a modern miracle that effectively removes the need for most of that skill. It involves "geodesy", which is using a [3-dimensional representation](graphics.md) of geographical elements. It usually uses a "Global Positioning System" (GPS), but often uses other technologies as well (e.g., [cellular towers](radio.md), sonar), and can more broadly refer to "global navigation satellite systems" (GNSS).
+"Geolocation" is a modern miracle that effectively removes the need for most of that skill. It involves "geodesy", which is using a [3-dimensional representation](engineering-graphics.md) of geographical elements. It usually uses a "Global Positioning System" (GPS), but often uses other technologies as well (e.g., [cellular towers](radio.md), sonar), and can more broadly refer to "global navigation satellite systems" (GNSS).
 
 ## Coordinates
 
@@ -180,7 +180,7 @@ Since satellites can be used proficiently for *both* data and navigation, the pe
 
 However, geolocation by itself isn't necessarily useful, and needs to express on a map.
 
-Unless it's a direct 3-dimensional [graphical representation](graphics.md) of the Earth itself, maps must reduce something down for the sake of simplicity.
+Unless it's a direct 3-dimensional [graphical representation](engineering-graphics.md) of the Earth itself, maps must reduce something down for the sake of simplicity.
 
 - Maps represent a 3-dimensional sphere as a 2-dimensional projection. There are [many approaches to making a world map](https://en.wikipedia.org/wiki/List_of_map_projections), but the easiest *software* solution is to simply use a flat plane. This, however, [will distort our perspective of geographical relationships](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world).
 
@@ -196,7 +196,7 @@ The minimalism of maps, however, means there are *major* technicalities about se
 - The best way to represent unique roads (e.g., one-way roads, service roads).
 - How to represent intersections, especially when they're at strange angles.
 
-As "geographic information systems" (GIS) include more layers (e.g., hotels, restaurants, traffic data), the [UX](design-uxui.md) for maps becomes more difficult:
+As "geographic information systems" (GIS) include more layers (e.g., hotels, restaurants, traffic data), the [UX](engineering-design.md) for maps becomes more difficult:
 
 - When there is plenty of *potentially* useful information, the map must have layers that can be toggles, which adds extra complexities, especially if some of that data requires constant updating.
 - When a map expresses information, sometimes that information won't arrive in a timely manner, which may cause issues for the user as they start to interpret information before it updates to its final form.

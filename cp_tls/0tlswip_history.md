@@ -10,7 +10,7 @@ Frequently, a denomination forms through a specific pattern:
 1. Have a [disagreement](people-conflicts.md) about something in a different denomination.
 2. Break off and attempt to reconcile that disagreement.
 3. Within a few decades, resist *other* changes proposed by the younger members.
-4. After enough time, culturally freeze at least some traditions as members oppose [new trends](trends.md) and lock [habits](habits.md) against [changes](changes.md).
+4. After enough time, culturally freeze at least some traditions as members oppose [new trends](trends.md) and lock [habits](habits.md) against [changes](people-changes.md).
 5. These traditions become the cornerstone of the denomination, with other derivative denominations borrowing from them.
 
 ## 1. Judaism
@@ -94,7 +94,7 @@ Over time, the church buildings themselves started representing a similar vein o
 
 ## 3. An Illegal Religion
 
-Naturally, some believers were more [educated](pedagogy.md) or gifted than others, but the bar to join was relatively low. If you observe the [elders/deacons requirements](https://www.bible.com/bible/206/1TI.5.WEB), anyone who is keeping themselves relatively pure morally would qualify to become a [leader](mgmt-church.md). The entire message of Christ, mixed with its culture, *heavily* attracted the poor, slaves, and women.
+Naturally, some believers were more [educated](education.md) or gifted than others, but the bar to join was relatively low. If you observe the [elders/deacons requirements](https://www.bible.com/bible/206/1TI.5.WEB), anyone who is keeping themselves relatively pure morally would qualify to become a [leader](mgmt-church.md). The entire message of Christ, mixed with its culture, *heavily* attracted the poor, slaves, and women.
 
 Politically, Rome didn't know what to do with them. They stubbornly honored their beliefs in God (which defied the [Roman pantheon](religion.md)), but they were *excellent* Roman citizens. Their general approach was to leave them alone, but heavily persecute them for *any* law they may potentially have broken.
 
@@ -357,7 +357,7 @@ After the English Civil War from 1642-1651, many dissenting Christian groups eme
 
 In 1693, Jakob Ammann tried to reform the Mennonite community to include shunning, hold communion more often, and other differences (such as less gaudy colors in clothing). This didn't work out, so Ammann's followers became the **Amish**.
 
-The First Great Awakening was a movement in the 1730s and 1740s. It created a clear dividing line, and many of the existing denominations believed it was supporting fanaticism. It drew in relatively [uneducated](pedagogy.md) but *very* enthusiastic teachers, and started the **Evangelical** movement (an emphasis on [evangelism](evangelism.md) efforts toward non-believers). The original denominations before this movement culturally froze in the mid-1700's.
+The First Great Awakening was a movement in the 1730s and 1740s. It created a clear dividing line, and many of the existing denominations believed it was supporting fanaticism. It drew in relatively [uneducated](education.md) but *very* enthusiastic teachers, and started the **Evangelical** movement (an emphasis on [evangelism](evangelism.md) efforts toward non-believers). The original denominations before this movement culturally froze in the mid-1700's.
 
 - It played a major role in women's' lives, where they started focusing more on discussing their [feelings](mind-feelings.md) with each other, as well as becoming more independent in their [decisions](decisions.md).
 - The ideas of the First Great Awakening were highly influential in starting the abolitionist movement (getting rid of the institution of [slavery](slavery.md)).

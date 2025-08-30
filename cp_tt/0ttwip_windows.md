@@ -25,7 +25,7 @@ Windows 1.0 was released in 1985, and ran as software on top of MS-DOS.
 - Windows was more user-friendly by integrating use of the [computer mouse](computers-mouse.md) for *everything*.
 - It was widely popular, and became the standard operating system on most computers for at least a few decades.
 
-Microsoft Windows, up through Windows 3.1, was originally a blatant ripoff of Mac OS, and copied most of the [conveniences](design-uxui.md) of Apple's [design](design-uxui.md). Since it was more affordable than Macintosh computers, and ran on almost anything, Windows was able to [dominate the operating system market](faang.md). Even in the 2020s, [Linux](computers-os-unix.md) has made some good contenders, but Windows is still the convention for most [software developers](computers-software-design.md).
+Microsoft Windows, up through Windows 3.1, was originally a blatant ripoff of Mac OS, and copied most of the [conveniences](engineering-design.md) of Apple's [design](engineering-design.md). Since it was more affordable than Macintosh computers, and ran on almost anything, Windows was able to [dominate the operating system market](faang.md). Even in the 2020s, [Linux](computers-os-unix.md) has made some good contenders, but Windows is still the convention for most [software developers](computers-software-design.md).
 
 Windows forked a version of Windows called Windows NT in 1993.
 
@@ -35,7 +35,7 @@ Windows forked a version of Windows called Windows NT in 1993.
 
 Windows 95 changed out its design from its 3.1 roots, since Microsoft didn't want a [lawsuit](faang.md) from Apple.
 
-- Windows 95 had an industry-changing [interface](design-uxui.md) because it was the first OS to use a child-friendly setup.
+- Windows 95 had an industry-changing [interface](engineering-design.md) because it was the first OS to use a child-friendly setup.
 - It used a Start menu in the bottom-left corner (named Start to provoke the user to act), and a visual desktop folder that displayed on the main screen. One of the running jokes for a while was that you had to select Start to shut down.
 - It introduced a taskbar and notification area, which kept the active programs easily accessible and viewable.
 - Instead of using MS-DOS, the computer could [boot](computers-boot.md) straight into Windows.
@@ -57,7 +57,7 @@ The high point of Windows was indisputably with Windows XP, released in 2001.
 - It was thoroughly stable, kept driver backups in case a device driver failed, had a Prefetch feature that preloaded the [RAM](computers-memory.md) with frequently accessed programs, and ran strictly on a 32-bit architecture.
 - It borrowed heavily from Windows NT, and many [enterprise-grade](computers-distsys-enterprise.md) features were available inside the system.
 - It was also "backwards-compatible" to other Windows software with Compatibility Mode.
-- It also had multiple GUI updates that took advantage of the improved [graphics processing](graphics.md) from the early 2000s.
+- It also had multiple GUI updates that took advantage of the improved [graphics processing](engineering-graphics.md) from the early 2000s.
 - While its mainstream support ended in 2009, it ended extended support in 2014, and 13 years is an *eternity* in technology terms.
 
 Windows' [trend](trends.md) of improvement wobbled around, starting with Windows Vista, released in 2007.
@@ -72,7 +72,7 @@ Windows 7 added some much-needed UI improvements, and fixed most of what Windows
 
 Mobile devices were becoming more ubiquitous, and Microsoft tried to build Windows 8 to merge the mobile/desktop experience as an all-in-one solution, released in 2012.
 
-- The system was filled with horrible [UX](design-uxui.md) mistakes: getting rid of the familiar Start menu, mapping the mouse to the swipe features that a touchscreen usually had, using stock photography without any labels, and burying extremely common tasks 4-5 menus deep.
+- The system was filled with horrible [UX](engineering-design.md) mistakes: getting rid of the familiar Start menu, mapping the mouse to the swipe features that a touchscreen usually had, using stock photography without any labels, and burying extremely common tasks 4-5 menus deep.
 - It was such a terrible system that Microsoft released a free upgrade to a fixed version called Windows 8.1 that was a bit more like Windows 7.
 
 By this point, consumers had lost most of their desire to get a new version of Windows. There was no reason to try the new one.
@@ -116,7 +116,7 @@ This makes the computer updates reliable-enough, effectively over 99%, with a mi
 
 ## Not broken = not fixed
 
-Operating systems need constant [redesign](computers-software-redesign.md) to stay current to the changes in technology. They have to accommodate better [memory](computers-memory.md), more streamlined [programming languages](computers-languages.md), and [UX improvements](design-uxui.md).
+Operating systems need constant [redesign](computers-software-redesign.md) to stay current to the changes in technology. They have to accommodate better [memory](computers-memory.md), more streamlined [programming languages](computers-languages.md), and [UX improvements](engineering-design.md).
 
 At the same time, updating takes time and money. Most PCs have come pre-installed with Windows, so the executives who run Microsoft don't necessarily need to work at creating an ideal user experience, unless everyone were to leave for [Linux](computers-os-unix.md).
 

@@ -3,7 +3,7 @@ Power is the ability to do things. Like all other [values](values.md), we derive
 
 Power always comes through another perceived [purpose](purpose.md) and is the total combination of several elements:
 
-- Present purposes, usually through things we can [manipulate](mind-creativity-results.md) directly or gain through others' means.
+- Present purposes, usually through things we can [manipulate](results.md) directly or gain through others' means.
 - Future purposes, based on our [predictions](imagination.md), for ourselves.
 - Things we [predict](imagination.md) *other* people might have a [purpose](purpose.md) for.
 - [Story](stories.md) adaptation, which alters the [image](image.md) of something to imply any of the previous things have more or less power.
@@ -14,7 +14,7 @@ Without [love](people-love.md), the only useful thing any person's purpose can e
 
 ## Power's basis
 
-Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](awareness.md) or [consent](decisions.md). It can come from [family/group reputation](image.md) or [reality](reality.md), but also comes through aspects of our [personality](personality.md) and [genetics](science.md) before we're even *aware* of what our [decisions](decisions.md) would yield.
+Some power is given to us by others (e.g., [social class](classes.md)) and other power is earned (e.g., [understanding](understanding.md)). Society gives us most of our power, usually without our [awareness](awareness.md) or [consent](decisions.md). It can come from [family/group reputation](image.md) or [reality](reality.md), but also comes through aspects of our [personality](personality.md) and [genetics](science-life-biochem.md) before we're even *aware* of what our [decisions](decisions.md) would yield.
 
 We tend to say something has "value" when we interpret it as having power. That [value](values.md) comes from its ability to fulfill [purposes](purpose.md) for ourselves or others. If something is "universally valuable", it's because it satisfies a [human universal](humanity-universals.md).
 
@@ -24,7 +24,7 @@ Money is tangible, but [most power isn't](power-types.md). We can't discern *pre
 
 1. We guess how much power we have to accomplish our [purposes](purpose.md).
 2. We observe and trust the [image](image.md) of others' power to discern *their* power compared to ours.
-3. Then, we make [decisions](decisions.md) based on a complex power calculus to achieve [results](mind-creativity-results.md) we want to see.
+3. Then, we make [decisions](decisions.md) based on a complex power calculus to achieve [results](results.md) we want to see.
 4. After we see what happened, we correct our [prediction](imagination.md) later of others as we gain [experience](understanding.md).
 
 ## Power and love
@@ -37,7 +37,7 @@ Unless we're acting out of [love](people-love.md), our causes are easy to forget
 
 ## Power management
 
-We tend to [feel](mind-feelings.md) power when we observe [results](mind-creativity-results.md). Frequently, we'll [identify](identity.md) with the things that give us the most power.
+We tend to [feel](mind-feelings.md) power when we observe [results](results.md). Frequently, we'll [identify](identity.md) with the things that give us the most power.
 
 Often, we have *tons* of power but don't realize it because we're [unaware](awareness.md) of it. We'll frequently overlook these freedoms and privileges because we haven't made a tangible [purpose](purpose.md) that would use them.
 
@@ -53,7 +53,7 @@ Using [technology](technology.md), [creations](creations.md), and [others' labor
 
 Very frequently, we trade our power from one to another (e.g., a wage is renting out time in exchange for money). That trade usually leans toward the thing we [believe](understanding-certainty.md) is less available (scarcity). This is all about [perception](image.md), not [reality](reality.md), and some people [abuse appearances](image-distortion.md) to gain power.
 
-There are many forms of power trading, but maintaining an [image](image.md) is often physically the same thing as a [loving](people-love.md) person's [actions](mind-creativity-results.md):
+There are many forms of power trading, but maintaining an [image](image.md) is often physically the same thing as a [loving](people-love.md) person's [actions](results.md):
 
 - Giving gifts to others we favor can gain [reputation](image.md)
 - Sacrificing time with others can gain [knowledge](understanding.md)
@@ -61,7 +61,7 @@ There are many forms of power trading, but maintaining an [image](image.md) is o
 
 Nobody ever intentionally gives up their power without gaining an [alternate power](power-types.md) (i.e., an opportunity), [love](people-love.md) for someone else, or to [protect](safety.md) a [future loss](imagination.md) in power (driven by [fear](mind-feelings-fear.md)).
 
-We often sacrifice for future power as much as present power, which is the basis for [entrepreneurship](socialrisk.md) and [success in the world](mind-creativity-results.md).
+We often sacrifice for future power as much as present power, which is the basis for [entrepreneurship](socialrisk.md) and [success in the world](results.md).
 
 Most of our [decisions](decisions.md) and [purposes](purpose.md) revolve around gaining power or not losing power (i.e., [security](safety.md)). In modern society, most of our calculations about power revolve around our [relationships](people-boundaries.md) with others and [adopting trends](trends.md).
 
@@ -110,7 +110,7 @@ Typically, to [negotiate](people-5_conflicts.md), the attacker will show somethi
 
 Vulnerability is our willingness to [trust](understanding-certainty.md) that others won't damage our power. We tend to be less vulnerable when we're [afraid](mind-feelings-fear.md) of others, especially from [past trauma](hardship-ptsd.md). The more power we have, the higher the risk of loss, and the less we trust. People tend to believe confidence is a sign of significant power because they [look like](image.md) they'll recover from any loss, which means they must have more power.
 
-Across time, there's a type of "natural selection" of power, where the most capable in any situation overpower the less capable. This is the basis of [economics](economics.md) and [evolutionary theory](science.md), but there's very little value to knowing it on an individual basis.
+Across time, there's a type of "natural selection" of power, where the most capable in any situation overpower the less capable. This is the basis of [economics](economics.md) and [evolutionary theory](science-life.md), but there's very little value to knowing it on an individual basis.
 
 ## Downsides
 
@@ -127,8 +127,8 @@ Trying to maintain power can also create very unpleasant consequences:
 - [Addiction](addiction.md) is devoting *all* power to gaining a specific substance.
 - Hoarding is not seeing that past-tense power is not presently [useful](purpose.md).
 - By withholding or gaining [knowledge](understanding.md), we often risk [reputation](image.md).
-- Every form of power is subject to [diminishing return](mind-creativity-results.md) as it scales.
-- All power beyond ourselves makes us [slaves](slavery.md) to others' [results](mind-creativity-results.md), even when we're in positions of [authority](groups-small.md).
+- Every form of power is subject to [diminishing return](results.md) as it scales.
+- All power beyond ourselves makes us [slaves](slavery.md) to others' [results](results.md), even when we're in positions of [authority](groups-small.md).
 - The more power you have, the more you [can lose](safety.md) and the less [aware](awareness.md) you become of *other* [forms of power](power-types.md).
 - If you're not paying attention, managing power can sometimes backfire and harm you.
 
@@ -153,7 +153,7 @@ All forms of power, even knowledge, are limited. Since [power of all types](powe
 
 Power is somewhat randomly distributed to each of us through [upbringing](people-family.md) and [personality](personality.md), but we can make [decisions](decisions.md) that determine how our power shifts over time.
 
-We typically can't [predict](imagination.md) things beyond our [perceptions](image.md), so we frequently trade power that creates poor long-term [results](mind-creativity-results.md). We must be sure we [understand](understanding.md) the entire situation before acting to avoid giving up power.
+We typically can't [predict](imagination.md) things beyond our [perceptions](image.md), so we frequently trade power that creates poor long-term [results](results.md). We must be sure we [understand](understanding.md) the entire situation before acting to avoid giving up power.
 
 Eventually, most people are driven by the desire or need for [money](economics.md), in one way or another. Without awareness of this, any [group](groups-small.md) will eventually disband when the members find something else that will satisfy their purposes.
 
@@ -178,7 +178,7 @@ Giving everyone power, such as everyone having guns, would make everyone *much* 
 Power reflects on capacity for [purpose](purpose.md), so we can gain tremendous power from commonplace things:
 
 - Fully [understanding](understanding.md) a concept, especially something [specialized](jobs-spcialization.md) or [philosophical](philosophy.md).
-- Raising a [child](maturity.md) or [teaching](pedagogy.md) others.
+- Raising a [child](maturity.md) or [teaching](education.md) others.
 - [Creating or improvising](mind-creativity.md) something.
 - Doing someone a [favor](people-friends.md).
 

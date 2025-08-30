@@ -15,7 +15,7 @@ Interestingly, musical synthesizer keyboards operate similarly. [The only differ
 
 However, the *actual* design of a keyboard itself isn't so simple. Keyboards use an elaborate "keyboard matrix" to map the keys to the signals they're supposed to send.
 
-The keys themselves are designed to maximize ergonomic convenience and [conform to user habit](design-uxui.md). The conventions were drawn from typewriters, with a vast variety of other strange designs throughout the 1980s. However, the keyboard convention has settled itself into a predictable layout since the 1990s:
+The keys themselves are designed to maximize ergonomic convenience and [conform to user habit](engineering-design.md). The conventions were drawn from typewriters, with a vast variety of other strange designs throughout the 1980s. However, the keyboard convention has settled itself into a predictable layout since the 1990s:
 
 - A QWERTY layout of 26 characters, plus 8 keys used for punctuation. This was pulled straight from how typewriters worked (which was configured to prevent the hammers of nearby keys from sticking to each other when typing correctly).
 - A few keys to navigate text: a large Space key at the bottom to advance a space, a Tab key to insert a gap of about 5 spaces, Enter/Return to move to the next line, and Backspace to remove a character.
@@ -76,7 +76,7 @@ Later, they created a universal standard called Unicode, which ambitiously tried
 - UTF-32 is the current standard for an all-inclusive text format. It's still being added to, but is presently over 140,000 characters. Until [software standards](standards-computers.md) can use 262,145 characters, Unicode only requires 18 bits per character to transfer.
 - As of the early 2020s, UTF-8 is *usually* the standard for [most websites](computers-webdev.md). The intuition would be that UTF-32 is the best solution, but it often requires multiple "code points" to store the information, so it's easier to use a smaller UTF format.
 
-To save on data (since a database can frequently be *trillions* of characters), engineers developed "variable-length" encodings, where the leading bits can communicate how many bits the rest of the text has. The human-readable code point for each character looks like U+0041 U+0052, and doesn't carry over any [graphic design](graphics.md) or font selection.
+To save on data (since a database can frequently be *trillions* of characters), engineers developed "variable-length" encodings, where the leading bits can communicate how many bits the rest of the text has. The human-readable code point for each character looks like U+0041 U+0052, and doesn't carry over any [graphic design](engineering-graphics.md) or font selection.
 
 The standards for Unicode are drawn from the history of language, so they are *not* an exact science. Many of them borrow from prior printmaking conventions, and some characters are imported straight from it without much consideration. Further, some [fashions](trends.md) can affect whether some characters become [standardized](standards-computers.md).
 
@@ -92,7 +92,7 @@ This will probably move around based on the Unicode standard moving as well (new
 
 ## Graphical display
 
-Text, however, isn't simply an abstraction, and must [display in some fashion](graphics.md). There are many forms of typography available, and a set of characters that abide by that typographical rule is called a "font". Each font tends to include other formats as well of the characters, such as bold and italic.
+Text, however, isn't simply an abstraction, and must [display in some fashion](engineering-graphics.md). There are many forms of typography available, and a set of characters that abide by that typographical rule is called a "font". Each font tends to include other formats as well of the characters, such as bold and italic.
 
 A font is either "monospaced" (where each character is using the same width) or "proportional" (where each character uses differing widths relative to the size of the letter). Monospaced fonts are still used frequently for what is known as "ASCII art", which uses different characters to portray a minimalist image, and [programmers](programming-basics.md) prefer monospaced because it makes it easier to read and [debug](computers-software-redesign.md) code.
 
@@ -102,7 +102,7 @@ The keyboard signal sends over to the "keyboard memory map", a specific spot in 
 
 Since the keyboard memory map is an abstraction, it doesn't necessarily *need* a physical keyboard:
 
-- Add a keyboard display to a [touchscreen user interface](design-uxui.md).
+- Add a keyboard display to a [touchscreen user interface](engineering-design.md).
 - Use hand or body gestures with a programmed [camera](camera.md) to capture letters or words.
 - Use electrodes attached to the brain to let someone "think" the letters or words.
 
@@ -110,7 +110,7 @@ Since the keyboard memory map is an abstraction, it doesn't necessarily *need* a
 
 In general, a keyboard press has many stopping points between the moment that it's pressed and the moment the [CPU](computers-cpu.md) registers it. While it's not really processed at all during that wait, the signal is often locked-off or added to a queue to allow other time-sensitive [operating system](computers-os.md) processes to complete first.
 
-However, computers still run as fast as necessary irrespective of this delay. The only time this ever presents itself as an issue is with specific uses (such as playing high-reflex [games](computers-software-gamedev.md)). But, if [screens](computers-screen.md) draw frames faster than 60 Hz, this may change.
+However, computers still run as fast as necessary irrespective of this delay. The only time this ever presents itself as an issue is with specific uses (such as playing high-reflex [games](computers-software-gamedev.md)). But, if [screens](engineering-screen.md) draw frames faster than 60 Hz, this may change.
 
 ## The future
 
@@ -120,7 +120,7 @@ Keyboard interfaces migrated naturally from hardware to software, mostly because
 
 Keyboard interfaces have become more advanced. As of this writing (June 2022), neural implants are now permitting near-accurate typing using thoughts with at least 94% accuracy. It allows people with paralysis and cerebral palsy to communicate, and paves the way for further developments.
 
-However, keyboards must conform to healthy [UX standards](design-uxui.md). Pushing too many [trendy changes](trends.md) will invariably alienate most of the users, so it's likely keyboard conventions will stick around *long* after nearly everything uses a software-only digital keyboard.
+However, keyboards must conform to healthy [UX standards](engineering-design.md). Pushing too many [trendy changes](trends.md) will invariably alienate most of the users, so it's likely keyboard conventions will stick around *long* after nearly everything uses a software-only digital keyboard.
 
 ## Additional reading
 

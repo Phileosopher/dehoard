@@ -42,7 +42,7 @@ Not all taboos are bad. Many times, they're extreme applications of [justice](mo
 
 By their design, taboos direct shame onto people.
 
-Guilt is the [feeling](mind-feelings.md) of having done something wrong, but shame is the [feeling](mind-feelings.md) that something was *so* wrong that exoneration requires far more than merely [eye-for-an-eye retribution](morality-justice.md). It represents beyond an "[action](mind-creativity-results.md)" performed, and implies the person themselves is "wrong".
+Guilt is the [feeling](mind-feelings.md) of having done something wrong, but shame is the [feeling](mind-feelings.md) that something was *so* wrong that exoneration requires far more than merely [eye-for-an-eye retribution](morality-justice.md). It represents beyond an "[action](results.md)" performed, and implies the person themselves is "wrong".
 
 Shame frequently comes through [conflicts](people-conflicts.md) about a taboo, but anyone can [distort someone else's image](image-distortion.md) to imply they [should](imagination.md) be ashamed.
 
@@ -51,7 +51,7 @@ If someone is shamed hard enough, they can *become* the taboo themselves. Often,
 The implication of any taboo is that the shameful tasks are relatively easy to violate, but can disproportionately harm others. However, its risk to others is purely a [practical](purpose.md) and [cultural](culture.md) basis:
 
 - Wearing pants before going out in public is an easy [habit](habits.md) to establish, but that's presuming someone didn't come from a tropical society where pants don't exist.
-- Smoking cigarettes in public is unpopular in societies that have adopted the [stance](science.md) that refined tobacco has many carcinogenic substances, but it presumes everyone [believes](trust.md) cigarettes are bad to even be *near* because of it.
+- Smoking cigarettes in public is unpopular in societies that have adopted the [stance](mind-bias.md) that refined tobacco has many carcinogenic substances, but it presumes everyone [believes](trust.md) cigarettes are bad to even be *near* because of it.
 - Most people expect behavior that isn't awkward because they expect it's easy to do, but it's *not* easy for many STEM workers.
 
 At the same time, a failing that *isn't* easy in the first place is never subject to shame, mostly because it's more interpreted as "needing to be done":
@@ -72,15 +72,15 @@ The very essence of believing a taboo without understanding why is the *opposite
 
 Many times, the rules that maintain social order can backfire and create pockets of awkward scenarios in society:
 
-- People are awkwardly forced to tip servers (the IRS even presumes it), but tipping is tied to the [performance](mind-creativity-results.md) of the preparer and often only the [appearance](image.md) of the server. Nobody wants to be considered rude, though, so the practice continues.
+- People are awkwardly forced to tip servers (the IRS even presumes it), but tipping is tied to the [performance](results.md) of the preparer and often only the [appearance](image.md) of the server. Nobody wants to be considered rude, though, so the practice continues.
 - Many panhandlers make a living looking miserable, but most people don't want the inevitable [conflicts](people-conflicts.md) from forcing them to work, giving them a pep talk, or forcibly evicting them. This makes passersby more calloused and harsh to legitimately needy people.
 - National citizenship processes are complicated, but the foreigners affected by it can't vote to make it easier, and most citizens don't frequently [empathize](mind-feelings.md) with the foreigners. The same applies to individuals who have been incarcerated.
 - Some [ethnic cultures](culture.md) promote laziness through their leadership's endorsement of the lifestyle. [Influential](influence.md) people inside that community will use that ethnic difference to declare outsiders who address their issues, irrespective of intent or race, as [racist](image.md).
 
 The reason these awkward arrangements stay around for so long is from two fronts:
 
-- The only people that can do anything about it are [leaders](groups-small.md), but individuals must deal directly with the [consequences](mind-creativity-results.md). While leaders are *supposed* to confront those [conflicts](people-conflicts.md) from their position of [strength](power.md), the members' need to survive means they must avoid receiving shame for the conflict.
-- Often, the *leaders* are forced to do nothing from the blow to their [reputation](image.md) from making changes. Many social issues could be resolved with a simple [decision](decisions.md) by a leader who wasn't concerned with their [reputation](image.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](mind-creativity-results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
+- The only people that can do anything about it are [leaders](groups-small.md), but individuals must deal directly with the [consequences](results.md). While leaders are *supposed* to confront those [conflicts](people-conflicts.md) from their position of [strength](power.md), the members' need to survive means they must avoid receiving shame for the conflict.
+- Often, the *leaders* are forced to do nothing from the blow to their [reputation](image.md) from making changes. Many social issues could be resolved with a simple [decision](decisions.md) by a leader who wasn't concerned with their [reputation](image.md), but most of them are [afraid](mind-feelings-fear.md) of the [consequences](results.md) of public opinion. Cycling the leaders usually won't fix it either, since *someone* will have to look bad somewhere, and nobody wants to be the hated one.
 - The typical result, then, becomes oppressive [laws](rules.md) that create a social hedge around the taboo but never fix anything about it.
 
 ## Breaking
@@ -100,7 +100,7 @@ Skillful [creators](creations.md) and [leaders](groups-small.md) are keenly [awa
 
 Typically, they will add more room for failure by becoming more sophisticated. By [habitually](habits.md) using appropriate [language](language.md), expert [image](image.md) managers can rearrange their [story](stories.md) to [imply](image-distortion.md) better [motivations](purpose.md) than the culture's prejudice of a taboo-breaker. This isn't 100% reliable, but the public can often give more grace than otherwise.
 
-Generally, the most interesting people aren't afraid to explore taboos. Most of them are closely in touch with their [soul](humanity.md). This doesn't always mean they're [good people](morality.md), but they're always the best people to [learn](pedagogy.md) from.
+Generally, the most interesting people aren't afraid to explore taboos. Most of them are closely in touch with their [soul](humanity.md). This doesn't always mean they're [good people](morality.md), but they're always the best people to [learn](education.md) from.
 
 * * * * *
 

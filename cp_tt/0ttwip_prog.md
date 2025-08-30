@@ -8,7 +8,7 @@ Programming is giving a computer the instructions to reliably do things. This re
 Technically, if you *ever* interact with a computer, you're programming it:
 
 - Typing out a text message to a friend is programming the computer to send that message when you hit "send".
-- Drawing in a paint program is updating the [screen](computers-screen.md) with new images every time you drag the cursor, then saving to long-term storage when you hit "save".
+- Drawing in a paint program is updating the [screen](engineering-screen.md) with new images every time you drag the cursor, then saving to long-term storage when you hit "save".
 - Playing any video/computer game is you pressing buttons, with *very* specific premade reactions in the program based on the timing of the buttons you're pressing.
 - Using a key card or gate sensor is programming that computer to activate the mechanism to open the door or gate.
 - If you design a website to make it look pretty, you're programming the computer to show that website to everyone else who will access it over the internet.
@@ -21,7 +21,7 @@ Computers are the world's fastest idiots, and will do *exactly* what you tell th
 
 Programming has layers of complexity based on how much information you're giving. The fewer the keystrokes, the more you're [trusting](trust.md) some other person did all the programming work already.
 
-Each language is designed with codified rules ("syntax"), which are meant to convey some clear type of [meaning](meaning.md) ("semantics"). Most software development projects start with writing code that prints "hello world" to the [screen output](computers-screen.md), and then becomes more complex from there.
+Each language is designed with codified rules ("syntax"), which are meant to convey some clear type of [meaning](meaning.md) ("semantics"). Most software development projects start with writing code that prints "hello world" to the [screen output](engineering-screen.md), and then becomes more complex from there.
 
 ## Machine language
 

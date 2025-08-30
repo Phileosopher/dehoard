@@ -16,7 +16,8 @@ yum command help + examples
 
 [David Newcomb](http://www.bigsoft.co.uk/blog/2012/01/06/rpmdb-unable-to-join-the-environment)
 (2012) yum install failing on `rpmdb: unable to join the environment` or `db3 error(11) from dbenv->open: Resource temporarily unavailable`. Do the followings:
-```
+
+```bash
 rm -rf /var/lib/rpm/__db*
 rpm --rebuilddb
 ```

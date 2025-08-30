@@ -16,7 +16,7 @@ However, Christians don't necessarily need a *mystical* experience.
 - From moment to moment, walking in Christ is an experience in [self-improvement](success-1_why.md) and submission.
 - The mystical experiences will come as they may, and we're simply [responsible](meaning.md) to [persevere](https://theologos.site/devotion-chaos/) irrespective of [how we feel at the time](mind-feelings.md).
 
-We *must* take our exercises seriously if we want to see [results](mind-creativity-results.md) from them.
+We *must* take our exercises seriously if we want to see [results](results.md) from them.
 
 - We often mindlessly practice actions without considering their meaning.
 - It's only worth doing it if we *look forward* to spending time and energy with God.
@@ -173,7 +173,7 @@ Carefully consider any [media](creations.md) you consume, especially fiction:
   - Watch for repeated phrases or statements throughout the story.
   - Carefully examine pivotal events, like how the story started or how the characters came to their conclusions.
   - Consider the opponent's [reasoning](logic.md) to see what the storyteller wants you to decide against.
-- Pay attention to [consequences](mind-creativity-results.md) for behaviors in the story, both good and bad.
+- Pay attention to [consequences](results.md) for behaviors in the story, both good and bad.
   - These consequences should reflect *both* [reality](reality.md) and an [ideal](values.md).
   - Note how the story fulfills or plays with the hero's needs, weaknesses, or faults.
 - Look at who wins, who loses, who dies and why.

@@ -32,8 +32,8 @@ The rules must at least *[appear](image.md)* to be enforceable, or people won't 
 To be [just](morality-justice.md), every rule must have a few qualities:
 
 1. The rule's [boundaries](people-boundaries.md) must [make sense](understanding.md) to everyone.
-2. The rule's [consequences](mind-creativity-results.md) must reasonably fit the crime and be enforceable.
-3. The [language](language.md) and [enforcement](mind-creativity-results.md) of the rule must be resistant to [image distortion](image-distortion.md) by [evil people](morality-evil.md).
+2. The rule's [consequences](results.md) must reasonably fit the crime and be enforceable.
+3. The [language](language.md) and [enforcement](results.md) of the rule must be resistant to [image distortion](image-distortion.md) by [evil people](morality-evil.md).
 4. The rules must not impede the ranges of human behaviors that could be both [ethical](morality.md) and [culturally permissible](culture.md).
 5. There should be a means to repay the [injustice](morality-justice.md) the person performed.
 6. The criminal, upon repayment, should be released from any further obligation.
@@ -42,7 +42,7 @@ Since stated rules have no room for the nuances and [stories](stories.md) that a
 
 Further, the rules must be maintained evenly. Detaining, impeding, or killing a person can provoke dramatic [distrust](trust.md) from that person's [family](people-family.md), [friends](people-friends.md), and bystanders about the leaders' [justice](morality-justice.md) if a technicality permits someone else to go free after performing a similar action:
 
-- Whether something happens on one side of a political boundary or precisely one mile away on the other side can lead to absurdly different [consequences](mind-creativity-results.md).
+- Whether something happens on one side of a political boundary or precisely one mile away on the other side can lead to absurdly different [consequences](results.md).
 - A strict [age of majority without a rite of passage](maturity.md) to accompany it often distinguishes a few months' age between a 5-10 year prison sentence and a death penalty.
 - The only difference between murder and manslaughter/negligence is someone's [motive](purpose.md), which is often difficult to discern but severely defines the scope of criminal sentencing.
 
@@ -57,7 +57,7 @@ The ability to make rules can be vast but, except for [selfish purposes](moralit
 - [Protecting](safety.md) members from things outside the [group](groups-large.md), which people *always* assume automatically.
 - Protecting members from other things inside the group, usually by either protecting the weaker from the [stronger](power.md), separating people, or through standards that protect people from neglect or dangerous behavior.
 - Healthcare and everything else that protects or forestalls death.
-- Formalized [education](pedagogy.md), especially of [young people](maturity.md).
+- Formalized [education](education.md), especially of [young people](maturity.md).
 - [Entertainment and amusement](purpose.md) (e.g., the arts, sports).
 
 All prominent authorities have competitors, so they're constantly fighting various [threats](safety.md) that may erode their power:
@@ -83,7 +83,7 @@ The exclusive [power](power.md) to make [rules over others](rules-methods.md) co
 
 Rules, when properly enforced, are *[supposed](imagination.md)* to [empower](power.md) and preserve [human rights](people-boundaries.md), but it's a murky [philosophical debate](philosophy.md) about how far and where it cuts off. The [inherent uncertainties](trust.md) of [living together](groups-small.md) mean [evil](morality-evil.md) people can [adapt the image](image-distortion.md) of reality to exploit for their [purposes](purpose.md), and [hardship](hardship.md) (e.g., famine, [disease](body-4_health.md)) can magnify that effect out of everyone's desire for [safety](safety.md).
 
-Even if a rule system begins rightly, it will decay through good [intentions](purpose.md). By any means possible ("realism") a leader will try to achieve a good [consequence](mind-creativity-results.md), and they will cross a moral line as they continue trying to create their desired results ("noble cause corruption"). It can represent in various forms:
+Even if a rule system begins rightly, it will decay through good [intentions](purpose.md). By any means possible ("realism") a leader will try to achieve a good [consequence](results.md), and they will cross a moral line as they continue trying to create their desired results ("noble cause corruption"). It can represent in various forms:
 
 - Provoking people to break the rules, then reacting to it.
 - Planting something in someone's possessions, then performing an unscheduled search.
@@ -141,7 +141,7 @@ More rules become harder to enforce, but most rule-makers will make more rules w
 
 ## Voting
 
-One of the most common forms of redistributing who makes the rules comes through the concept of voting. By giving each person an equal measure in the [decision](decisions.md), the majority can determine what the group [does](mind-creativity-results.md).
+One of the most common forms of redistributing who makes the rules comes through the concept of voting. By giving each person an equal measure in the [decision](decisions.md), the majority can determine what the group [does](results.md).
 
 However, voting is subject to error because people are often swayed by a [convincing](influence.md) [story](stories.md), even when it's a lie. Plus, in a [large enough group](groups-large.md) (such as a country), [nobody has the time to vote](politics-systems.md) on *everything*.
 
@@ -149,7 +149,7 @@ The compromise to *everyone* voting on everything is to appoint elected represen
 
 To the degree people can engage in the voting process, an electoral system gives one specific [type of power](power-types.md) to the public. They can funnel their individually unimportant [decisions](decisions.md) through an appointed leader, who can then make all the decisions.
 
-Voting comes with an unfortunate side effect. Since people make decisions based on what they understand, which is based on what they [perceive](image.md), the people who become appointed are the ones who *appear* to be the most [fitting](mind-creativity-results.md) for the role. Thus, the art of [political power](power.md) in an elected society is to [bend the image](image-distortion.md) to [influence](influence.md) [opinions](understanding.md) toward their [purposes](purpose.md), rather than [military/tactical strength](people-conflicts-war.md), and it becomes nothing more than a popularity contest.
+Voting comes with an unfortunate side effect. Since people make decisions based on what they understand, which is based on what they [perceive](image.md), the people who become appointed are the ones who *appear* to be the most [fitting](results.md) for the role. Thus, the art of [political power](power.md) in an elected society is to [bend the image](image-distortion.md) to [influence](influence.md) [opinions](understanding.md) toward their [purposes](purpose.md), rather than [military/tactical strength](people-conflicts-war.md), and it becomes nothing more than a popularity contest.
 
 To avoid [corrupting perspective](image-distortion.md), most large-scale election systems have *layers* of jurisdictional control. When this happens, it's almost guaranteed to become [bureaucratic](bureaucracy.md) and [bloated](mgmt-badsystems.md).
 
@@ -173,7 +173,7 @@ The only way to fix a bad set of rules (either poorly set or poorly enforced) is
 
 ## Application
 
-The purpose of courts are not about truth, but about [justice](morality-justice.md). The difference comes in what a government is capable of [doing](mind-creativity-results.md) to remedy the situation.
+The purpose of courts are not about truth, but about [justice](morality-justice.md). The difference comes in what a government is capable of [doing](results.md) to remedy the situation.
 
 Rules are only valid if they transcend [culture](culture.md) to apply equally to all people. This requires that the rules are abstracted philosophical ideas, which requires a *lot* more patience than most people have the time to do.
 
@@ -191,7 +191,7 @@ Generally, [puritanical and religious authority](religion.md) come from weak rul
 
 Politics creates constant [distorted perceptions](image-distortion.md), but it's the only solution for an election-based society. Any alternative involves leaders who *don't* need to consider the public's opinion and can simply take control through raw [power](power.md).
 
-There's tremendous power behind elected officials in a government, so corporations and governments will put significant [effort](mind-creativity-results.md) into [bending](image-distortion.md) public [opinion](understanding.md) to motivate everyone to vote for a specific candidate.
+There's tremendous power behind elected officials in a government, so corporations and governments will put significant [effort](results.md) into [bending](image-distortion.md) public [opinion](understanding.md) to motivate everyone to vote for a specific candidate.
 
 [Safety restricts freedom](safety.md), so many people believe the reverse (freedom sacrifices safety). But, taking away all civil liberties may [feel](mind-feelings.md) like it'd bring peace, but it would allow [evil](morality-evil.md) people to do what they wanted because they'd be the only ones not honoring the rules.
 
@@ -205,7 +205,7 @@ Separating [religion](religion.md) and politics is impossible because they both 
 
 There is no solution [creative](mind-creativity.md) enough to completely contain [evil](morality-evil.md):
 
-- All people who ever think immoral thoughts at one point or another are susceptible to [performing it](mind-creativity-results.md) if they're given power to [decide](decisions.md). But, there's no way to [know](understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
+- All people who ever think immoral thoughts at one point or another are susceptible to [performing it](results.md) if they're given power to [decide](decisions.md). But, there's no way to [know](understanding.md) what people are thinking without giving them the [means](creations.md) to do something with it.
 - No matter how elaborate or constricting a system is, all humans who [purpose](purpose.md) one thing can be subverted by other humans with sufficient [motivation](purpose.md) and resources for the opposite purpose.
 
 There is no solution [creative](mind-creativity.md) enough to keep everyone perfectly [safe](safety.md):
@@ -215,8 +215,8 @@ There is no solution [creative](mind-creativity.md) enough to keep everyone perf
 
 The [power](power.md) and [longevity](legacy.md) of government leans most people into [bias](mind-bias.md) that form [cultural values](culture.md) that defy [reality](reality.md):
 
-1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](mind-creativity-results.md) unless it corresponds with their interests, and it's all determined by [how they maintain their power](politics-systems.md).
-2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal.md) for the [consequences](mind-creativity-results.md) of what they [decide](decisions.md).
+1. Governments do *not* act to [stop evil](morality.md) or perform socially useful [tasks](results.md) unless it corresponds with their interests, and it's all determined by [how they maintain their power](politics-systems.md).
+2. No individual has a duty to obey laws, but they should [understand](legal-safety.md) and [prepare](glossary-legal.md) for the [consequences](results.md) of what they [decide](decisions.md).
 3. If you prefer a [social reform](trends.md), a government is *not* [trustworthy](understanding-certainty.md) to correctly employ it.
 4. A government is never powerful enough that a person is never entitled to their [freedoms](people-boundaries.md).
 
@@ -228,7 +228,7 @@ The best solution for society would be a small group of *very* intelligent, expe
 
 Everyone in power is either forced to permit [taboo](morality-taboo.md) things or forbid them. Permissible things will allow [evil](morality-evil.md) people to misuse them, but forbidding things will merely make them part of the black market, and even totalitarian micromanagement can't prevent a black market.
 
-As a general rule of thumb, fewer well-enforced rules work better than more rules. However, political interests make this very difficult to [attain](mind-creativity-results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](socialrisk.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
+As a general rule of thumb, fewer well-enforced rules work better than more rules. However, political interests make this very difficult to [attain](results.md) by the time anyone [discusses it](language.md), so it's usually better to [start anew](socialrisk.md) with a [remixed duplication](creations.md) of what had worked previously than [fix what already exists](mgmt-badsystems.md).
 
 A [society](groups-large.md) that grows needs [specialization](jobs-spcialization.md), and its criminal justice system is no different. Without that specialization, the system becomes more complicated and less effective:
 

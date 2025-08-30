@@ -25,7 +25,7 @@ Usually, the trigger for a large-scale conflict comes through an existing disagr
 - [Irrational](logic.md) [hatred](morality-evil.md) of another people group.
 - A leader has a self-interested reason, so they deceive the entire group to do one of the above.
 
-Most groups tend to protect their most [educated and intelligent](pedagogy.md) members as much as possible from the group's highest risks. Strategists, among others, are often working closely with (or are) the ruling [class](classes.md) of the group, while less advantaged individuals (e.g., young, unintelligent) are far more exposed and disposable. To keep everyone in line, the lower class is implied to have access to those privileged positions if they work hard enough.
+Most groups tend to protect their most [educated and intelligent](education.md) members as much as possible from the group's highest risks. Strategists, among others, are often working closely with (or are) the ruling [class](classes.md) of the group, while less advantaged individuals (e.g., young, unintelligent) are far more exposed and disposable. To keep everyone in line, the lower class is implied to have access to those privileged positions if they work hard enough.
 
 When outright physical conflict isn't as advantageous to win, [legal battles](legal-safety.md) can become just as fierce. [Low-agreeableness personalities](personality.md) can even make *[sports](fun-sports.md)* a constrained form of warfare.
 
@@ -98,7 +98,7 @@ Unless the conflict is relatively short, there's a general calculus that approxi
 5. Multiply or divide by prevailing [philosophical values](values.md) that can affect everyone:
    - Belief in the importance of the conflict (as opposed to doing it out of [potential](imagination.md) personal gain).
    - Brutality toward enemies (as opposed to the polar opposite of taking prisoners and treating them well).
-   - The relative [education](understanding.md) of the groups (which will hinder the like-mindedness of [purpose](purpose.md) but increase [results](mind-creativity-results.md) as it scales).
+   - The relative [education](understanding.md) of the groups (which will hinder the like-mindedness of [purpose](purpose.md) but increase [results](results.md) as it scales).
    - Any sense of ownership by the groups over what they're trying to take or defend.
 
 When two or more groups attack each other, their relative size makes a profound difference in the fight's events.
@@ -110,10 +110,10 @@ But, there are a few universal aspects irrespective of size or context:
 - If a group starts losing, the [loyalty](trust.md) and [desires](purpose.md) of the individuals in the conflict determine how far and how long they'll keep fighting. If people are driven strictly by [money or opportunities](power-types.md), they won't fight for nearly as long or as hard as those driven by an ideal. People will risk their life for any purpose they want (and are more easily dissuaded from their [duties](rules.md) by conflicting opportunities), but will only sacrifice their lives for a perceived [noble](morality.md) cause.
 - The members' loyalty determines how much the entire endeavor can advance forward purely to satisfy the [ego](humanity.md) of the attacking leadership. This can only persist, however, as long as those members can advance their own self-interest as well.
 - The methods that any groups will even *think* of tie very closely to the group's long-term interests:
-  - Nuclear warfare obliterates *everything* (land, possessions, [human labor](mind-creativity-results.md), [human skills](understanding.md)), so it's only a last-ditch effort as a means to survive.
+  - Nuclear warfare obliterates *everything* (land, possessions, [human labor](results.md), [human skills](understanding.md)), so it's only a last-ditch effort as a means to survive.
   - Constraining power when the other group has a *different* type of power creates a "cold war" or "trade war", which ends up dramatically hurting both sides.
 
-The organization's ability to [educate](pedagogy.md) means of attacking and defending (e.g., military training) is frequently the determining factor in a tightly contested battle. However, the ability of an organization to [change](changes.md) their tactics relative to what the *other* side is doing can quickly determine whether a group can succeed.
+The organization's ability to [educate](education.md) means of attacking and defending (e.g., military training) is frequently the determining factor in a tightly contested battle. However, the ability of an organization to [change](people-changes.md) their tactics relative to what the *other* side is doing can quickly determine whether a group can succeed.
 
 When the organization is [larger than ~50 people](groups-large.md), the [older](maturity.md) leaders will send the younger members with something to prove into the [highest-risk](safety.md) parts of the conflict. The youth will often risk dying for another person's decision, meaning nearly all large-group conflicts that aren't preventing a decidedly [evil](morality-evil.md) thing are in some capacity [immoral](morality.md).
 
@@ -203,7 +203,7 @@ The only way for any smaller group to fight the larger group comes through a uni
 
 1. Get together to discuss what everyone [understands](understanding.md).
 2. Give enough time together to cross-pollinate [new ideas](mind-creativity.md) on how to solve the problems.
-3. Agree on a good decision, then [take action on it](mind-creativity-results.md).
+3. Agree on a good decision, then [take action on it](results.md).
 
 * * * * *
 
@@ -211,7 +211,7 @@ The only way for any smaller group to fight the larger group comes through a uni
 
 Modern warfare has tried to create some form of civility to war, especially as [technology](technology.md) has made warfare absolutely horrific. Dozens of organizations have responded afterward to the gruesome war [stories](stories.md) by banning certain forms of combat (e.g., chemical/biological warfare).
 
-The reasoning that drives the [rules](rules.md) around forbidden weapons is absurd. Beyond torture, killing a person is the worst thing you can do to them, and war is built around the threats and means of killing people. Some implements of war create devastating results that *don't* kill people (e.g., landmines), but the purpose of others is to make killing more [efficient](mind-creativity-results.md) (e.g., hollow-point bullets).
+The reasoning that drives the [rules](rules.md) around forbidden weapons is absurd. Beyond torture, killing a person is the worst thing you can do to them, and war is built around the threats and means of killing people. Some implements of war create devastating results that *don't* kill people (e.g., landmines), but the purpose of others is to make killing more [efficient](results.md) (e.g., hollow-point bullets).
 
 Further, the "rules of engagement" imply that only combatants should be harmed, and not civilians. While this may make sense in a war where the attacking and defending force are in relatively new territory, this is practically unenforceable when the defender is in their homeland and the [culture](culture.md) of the defender's [family](people-family.md) advocates for revenge. At that point, every civilian is a *possible* combatant.
 
@@ -228,7 +228,7 @@ This gets more [complicated](mgmt-badsystems.md), but the idea is to create a [f
 
 The simple reality of humanity is that they're capable of unending [evil](morality-evil.md) that is most prevalent in war, and only way to stop a war crime is to stop the war criminal, which usually means killing them.
 
-One of the benefits of a well-trained military is that it builds [habits](habits.md) into its members that empower more [success](mind-creativity-results.md) in other endeavors. For that reason, even when there are *zero* [risks](safety.md) from opposing forces, a military can still serve a useful purpose in times of peace by drawing out people from the [lower class](classes.md) into the middle and upper class.
+One of the benefits of a well-trained military is that it builds [habits](habits.md) into its members that empower more [success](results.md) in other endeavors. For that reason, even when there are *zero* [risks](safety.md) from opposing forces, a military can still serve a useful purpose in times of peace by drawing out people from the [lower class](classes.md) into the middle and upper class.
 
 ## Resolving
 
@@ -258,7 +258,7 @@ Typically, the [youth](maturity.md) will hear the [stories](stories.md) and take
 
 ## Application
 
-There is very little [justice](morality-justice.md) to any large-scale conflict. With the exception of preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](pedagogy.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
+There is very little [justice](morality-justice.md) to any large-scale conflict. With the exception of preventing [genocidal evil](morality-evil.md) (e.g., Nazis), there are very few good [reasons](purpose.md) for war. However, every attacker will [work to appear](image-distortion.md) [virtuous](morality.md) to gain support for their side. Even the [lessons](education.md) everyone learns could have just as easily (and less violently) been gained without the social revolution.
 
 [Legal](rules.md) battles operate under the authority of that government (e.g., [intellectual property](legal-ip.md)), but [reach](influence.md) *much* farther than the two groups or their conflict. The [laws](rules.md) their conflict establishes create [philosophical](philosophy.md) [boundaries](people-boundaries.md) for *every* pair of groups with a similar conflict in the future, and often across regional boundaries.
 

@@ -97,7 +97,7 @@ Audio recordings have different use cases, and the "lossiness" of the informatio
 - Lossy: Uses a discrete cosine transform
   - Many to choose from, with MP3 as the most popular format
 
-This isn't exclusive to audio, and many audio formats also combine [video](computers-screen.md) information as well, and often in parallel.
+This isn't exclusive to audio, and many audio formats also combine [video](engineering-screen.md) information as well, and often in parallel.
 
 The [drivers](computers-os.md) for managing audio are very difficult to work with. The only people qualified to even *explore* the concept need a healthy intermediate-level working knowledge of [C++](computers-languages.md) alongside quite a bit of [networking](networks-computer.md) experience.
 
@@ -122,7 +122,7 @@ The most common filter is an equalizer, which boosts or diminishes specified ran
 - 3-8 kHz - upper mid-range frequencies (e.g., high range of guitars, violins), can be annoying if not performed or mixed well
 - >8 kHz - most trebles, not popular to maximize because many people (especially the elderly) can't hear at that sound
 
-It's worth noting that the protocols for modifying [video](graphics.md) are effectively working alongside sound. Or, to put another way, a sound file is simply a video file minus the streaming video data. This simplicity streamlines a media player's ability to process it.
+It's worth noting that the protocols for modifying [video](engineering-graphics.md) are effectively working alongside sound. Or, to put another way, a sound file is simply a video file minus the streaming video data. This simplicity streamlines a media player's ability to process it.
 
 One of the most powerful software programs for converting *both* audio and video is FFmpeg, which stands for Fast-Forward-Moving-Picture-Experts-Group. It has the power to trim, cut, convert, adapt color, overlay an image, crop it, add more audio tracks, change the volume, add audio effects, and export to a wide variety of *both* audio and video file formats. It has been a corporate standard for a long time, is continuously updated, and is [open-source](legal-ip-floss.md), so it may live forever.
 

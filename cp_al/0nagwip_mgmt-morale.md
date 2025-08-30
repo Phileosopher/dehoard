@@ -1,17 +1,17 @@
 
 *Previous: [Communication](mgmt-5_communication.md)*
 
-Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](changes.md) can make-or-break an organization's morale.
+Unless you're aware of the likely consequences of your decision or the situation is legitimately unpleasant, absolutely *any* [changes](people-changes.md) can make-or-break an organization's morale.
 
 - Depending on how you came into the role and what the members [imagine](imagination.md) you'll do, your presence will both motivate *and* demotivate them.
 
 In practice, healthy member management is hands-off, a bit like [gardening](horticulture.md).
 
 - You can keep adjusting and tweaking small things, but anything dramatic will send at least some of the workers into a temporary state of shock.
-- Too many changes all at once will make them feel [uncomfortable](habits.md), and their [work](mind-creativity-results.md) will suffer.
+- Too many changes all at once will make them feel [uncomfortable](habits.md), and their [work](results.md) will suffer.
 - If you keep making changes after you've done too much, they'll leave.
 
-Informal [mentoring](pedagogy.md) is *far* more effective than formalized mentoring to create results.
+Informal [mentoring](education.md) is *far* more effective than formalized mentoring to create results.
 
 - *They* should be coming to *you* with questions, or you're likely lecturing them about something they either already know or don't care about, or they don't feel [safe](safety.md) talking with you.
 - If you have a tendency to give unsolicited input, encourage them to interrupt you if they don't want to hear it.
@@ -69,7 +69,7 @@ Workers are highly motivated by competence.
 
 It's impossible to fake it with anyone you'd *want* to manage.
 
-- Even if you're competent in a different area than your subordinates, your natural expertise and [continued education](pedagogy.md) will subliminally demonstrate itself.
+- Even if you're competent in a different area than your subordinates, your natural expertise and [continued education](education.md) will subliminally demonstrate itself.
 
 However, sometimes you'll *never* be competent enough with some people.
 

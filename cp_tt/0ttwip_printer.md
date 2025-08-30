@@ -1,5 +1,5 @@
 
-The printer is a much older output than the [computer screen](computers-screen.md), and was once much cheaper. Now, since screens can display a wide variety of information (and do it indefinitely), they're *far* cheaper to maintain than printers.
+The printer is a much older output than the [computer screen](engineering-screen.md), and was once much cheaper. Now, since screens can display a wide variety of information (and do it indefinitely), they're *far* cheaper to maintain than printers.
 
 Printer output uses nearly the same internal framework as screen output:
 
@@ -23,7 +23,7 @@ Most daily-use printers for receipts use a special heat-sensitive paper, with th
 
 Beyond imposing a black substance onto a paper medium, there are various other printer features:
 
-- Color printing allows color-based cartridges alongside black. Unlike the [screen](computers-screen.md), printers use reflected light instead of visible light. So, instead of combining emitted wavelengths with additive colors (red/blue/green), printers use subtractive primary colors instead to *reflect* wavelengths (cyan/magenta/yellow).
+- Color printing allows color-based cartridges alongside black. Unlike the [screen](engineering-screen.md), printers use reflected light instead of visible light. So, instead of combining emitted wavelengths with additive colors (red/blue/green), printers use subtractive primary colors instead to *reflect* wavelengths (cyan/magenta/yellow).
 - "Duplex printing" will print a page on both sides. This isn't *strictly* necessary, but can be a severe logistical headache if you're trying to print out a lot of content (e.g., print odd-numbered pages, then load up the pages again and print even-numbered pages).
 - [Network](networks-computer.md) printing allows a printer to connect with other computers on a network, and typically implies it's a wireless connection.
 - Secure printing allows a [password-protected](computers-cysec-authentication.md) print job, which may be important in a large office.

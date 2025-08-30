@@ -201,8 +201,8 @@ Since businesses want to make lots of money, there's an entire division of [mark
 2. Generate an XML site map and submit it on those consoles.
 3. Add an [SSL certificate](computers-cysec.md) and make sure it's sending secure information.
 4. Add links all over the site that link to other parts of the site (~3-4 links every 1500 words).
-5. Do absolutely *everything* you can to improve [web/app accessibility](design-uxui.md).
-   - Make sure your [UI](design-uxui.md) is properly color-matched.
+5. Do absolutely *everything* you can to improve [web/app accessibility](engineering-design.md).
+   - Make sure your [UI](engineering-design.md) is properly color-matched.
    - Verify the input fields match up (e.g., make the "phone number" box only work with numbers and have (xxx)xxx-xxxx in it).
    - Describe all images with the alt tags (the "alternate" tag if the photo doesn't show up).
    - Use short URLs that don't have dates in them and are never more than 2 [subfolders](computers-files.md) deep.
@@ -218,7 +218,7 @@ Obviously, some less-than-legitimately-motivated people have wanted to exploit t
 
 ## Web browser features
 
-Most typical users interact with the internet through a "web browser", which is software specifically designed to handle a wide variety of internet content including pictures, [videos](computers-screen.md), and [games](computers-software-gamedev.md).
+Most typical users interact with the internet through a "web browser", which is software specifically designed to handle a wide variety of internet content including pictures, [videos](engineering-screen.md), and [games](computers-software-gamedev.md).
 
 While some web browsers emphasize [cybersecurity](computers-cysec.md) and others emphasize speed, they almost always do just about the same thing: give a safe and fast web-browsing experience that also *doesn't* download bloated, broken or [malicious](computers-cysec-malware.md) code.
 
@@ -235,11 +235,11 @@ The Tor [protocol](standards-computers.md) and its browser adds layers of anonym
 
 ## Browser/page UX
 
-While the [user experience](design-uxui.md) of mobile devices often separates the experience of internet-browsing into a wide variety of "apps", most of those apps are simply various specialized web browsers inside the [operating system](computers-os.md) (e.g., Electron app).
+While the [user experience](engineering-design.md) of mobile devices often separates the experience of internet-browsing into a wide variety of "apps", most of those apps are simply various specialized web browsers inside the [operating system](computers-os.md) (e.g., Electron app).
 
-Differently sized screens and inputs are *not* trivial issues! The wide variety of [screen implementations](computers-screen.md) means the user could be using a [mouse](computers-mouse.md) and [keyboard](computers-keyboard.md) on an office machine, their cell phone or tablet with their fingers, or an interactive [VR headset](computers-vr.md). To make it simpler, developers sidestep the pixel measurement in lieu of a root em (or "rem") measurement based on a basic font size (typically 16 pixels).
+Differently sized screens and inputs are *not* trivial issues! The wide variety of [screen implementations](engineering-screen.md) means the user could be using a [mouse](computers-mouse.md) and [keyboard](computers-keyboard.md) on an office machine, their cell phone or tablet with their fingers, or an interactive [VR headset](computers-vr.md). To make it simpler, developers sidestep the pixel measurement in lieu of a root em (or "rem") measurement based on a basic font size (typically 16 pixels).
 
-At one time, near the year 2000, almost every internet-enabled computer was working on about a 1024×768 [screen](computers-screen.md). Now, they can range from 480×320 through to 3840×1080 (and growing), with all sorts of odd rectangular shapes (with [VR](computers-vr.md) and [driverless automotives](computers-autos.md) adding even more variety). This adds a layer of challenge to good web design, but has a few simple tricks:
+At one time, near the year 2000, almost every internet-enabled computer was working on about a 1024×768 [screen](engineering-screen.md). Now, they can range from 480×320 through to 3840×1080 (and growing), with all sorts of odd rectangular shapes (with [VR](computers-vr.md) and [driverless automotives](computers-autos.md) adding even more variety). This adds a layer of challenge to good web design, but has a few simple tricks:
 
 - Make elements move and resize relative to the screen edges, such as with a percentage or with a *float* command.
 - Use fluid grids to keep everything in place as things move around.
@@ -247,20 +247,20 @@ At one time, near the year 2000, almost every internet-enabled computer was work
 - Focus on mobile-first or desktop-first design (depending on what you're designing), then work toward filling it in on the other.
 - Program a "CSS reset", where the default design gets replaced by the developer's designs.
 
-To maintain a workable [UX](design-uxui.md) across the wide variety of screens a web browser may use, front-end web developers use "media queries", which are instructions to change or add/remove elements depending on the size of the screen. This is called "responsive web design", which you can see simply by going to a web page with media query code (like this one) and scrolling in and out (either by pinch-zooming or CTRL and +/-).
+To maintain a workable [UX](engineering-design.md) across the wide variety of screens a web browser may use, front-end web developers use "media queries", which are instructions to change or add/remove elements depending on the size of the screen. This is called "responsive web design", which you can see simply by going to a web page with media query code (like this one) and scrolling in and out (either by pinch-zooming or CTRL and +/-).
 
 ## Visual elements
 
-Visual web design is [an art form of its own](design-uxui.md). Besides all the conventions of [user experience](design-uxui.md), the site must be SEO-friendly (i.e., low-enough memory to quickly transfer across the internet). This means all aspects of programming [web graphics](graphics.md) is a Zen art: enough to get the point across with as little data transfer and distraction as possible.
+Visual web design is [an art form of its own](engineering-design.md). Besides all the conventions of [user experience](engineering-design.md), the site must be SEO-friendly (i.e., low-enough memory to quickly transfer across the internet). This means all aspects of programming [web graphics](engineering-graphics.md) is a Zen art: enough to get the point across with as little data transfer and distraction as possible.
 
-One of the easiest ways to design motion into websites is by using a CSS feature called "keyframes". Instead of getting in the weeds with [graphics](graphics.md), developers can indicate multiple states with percentages, then the language has enough logical power to deduce the shifts:
+One of the easiest ways to design motion into websites is by using a CSS feature called "keyframes". Instead of getting in the weeds with [graphics](engineering-graphics.md), developers can indicate multiple states with percentages, then the language has enough logical power to deduce the shifts:
 
 1. State A is 50 pixels wide and red at 0%.
 2. State B is 100 pixels wide and blue at 50%.
 3. State C is 300 pixels wide and green at 100%.
 4. The entire element will shift from red, double its size and shift to blue, triple its size and shift to green, then cycle back in reverse, over and over.
 
-It's worth noting that CSS is not the *only* way to design graphics. For certain use cases, other 2-dimensional graphical representations like Canvas are better options. And, for 3-dimensional graphics, [shaved-down game engines](graphics.md) like Unity and OpenGL work better.
+It's worth noting that CSS is not the *only* way to design graphics. For certain use cases, other 2-dimensional graphical representations like Canvas are better options. And, for 3-dimensional graphics, [shaved-down game engines](engineering-graphics.md) like Unity and OpenGL work better.
 
 While it's barely detectable to most people, web browser pages have a "favicon" logo sitting in the web browser tab (or in the Task Manager tray in the [operating system](computers-os.md)). This little square logo ranges from 16 to 64 pixels wide and shows up in a *lot* of places in a web browser including web searches, history, and dropdown menus.
 

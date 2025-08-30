@@ -16,7 +16,7 @@ Stay extremely paranoid about *any* dips in your financial situation.
 
 Above a specific level (or throughout the growth of a not-for-profit), your role will be subjected to the desires of a board of trustees.
 
-- Even if they don't exert their power, this board will have some level of [influence](power-influence.md) over *every* [decision](decisions.md) and [change](changes.md) within the organization.
+- Even if they don't exert their power, this board will have some level of [influence](power-influence.md) over *every* [decision](decisions.md) and [change](people-changes.md) within the organization.
 - If you have control over your board, pick people who match your values, *not* simply [who you're familiar with](people-4_friends.md).
 - Board selection, and any additions or removals, defines the future of the organization.
 
@@ -85,7 +85,7 @@ Each organization is affected by Thinkers, Builders, Improvers, and Producers:
   4. Eventually, as the tyranny of standardization expands, Improvers follow the Thinkers and Builders, with new Producers replacing them to create some semblance of order - PPPPPPPPPPPPPPPPPP
   5. The organization will dwindle and die from a lack of new ideas, or possibly [become necessary](mgmt-badsystems.md) by some form of [government legislation](rules.md).
 
-Each [change](changes.md) management system either tends to prioritize keeping people informed or keeping systems continuously running.
+Each [change](people-changes.md) management system either tends to prioritize keeping people informed or keeping systems continuously running.
 
 ADKAR Change Management Model:
 

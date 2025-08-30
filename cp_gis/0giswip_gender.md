@@ -37,7 +37,7 @@ And, finally, this means males and females possess *many* inherent differences b
 - Men tend to have simpler thoughts than women.
 - Men have more upper-body strength while women have more lower-body strength.
 - Men tend to not reconsider a thought after it was [decided](decisions.md) without new information or a [purpose](purpose.md), but women frequently revisit previously established concepts without much justification.
-- Men tend to preoccupy themselves with [results](mind-creativity-results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends.md).
+- Men tend to preoccupy themselves with [results](results.md) and [accomplishment](success-1_why.md), while women tend to preoccupy themselves with [decisions](decisions.md), [aesthetics](values-quality.md), and [relationships](people-friends.md).
 - Men will [understand](understanding.md) things as loosely connected modules, while women understand things as elaborate connections and [stories](stories.md) across many components.
 
 The added [confidence](understanding-certainty.md) of men creates a *far* broader statistical range than women, who usually value [interdependence](jobs-spcialization.md) and [social integration](people-boundaries.md) more. While the *average* of both genders is about the same, *every* aspect of men, from strength to intelligence to achievement, is far more extreme on both sides of the [bell curve](math.md) (e.g., the dumbest and smartest people in the world are men).
@@ -82,7 +82,7 @@ Even in a completely free society, males have more roles with heavy lifting and 
 With very few social exceptions, [society](jobs-spcialization.md) views men and women through [conventional roles](culture.md):
 
 - Men are usually seen as laborers, hunters, providers, and [establishers](socialrisk.md). They're usually more likely to steal from others and [overpower](power.md) others, and often will [rally groups](influence.md) for that purpose, but are also more likely to do the [disgusting, filthy, dangerous roles necessary for society](https://www.mikeroweworks.org/).
-- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries.md) well with others and find a harmonious [solution](mind-creativity-results.md).
+- Women are usually seen as caretakers, nurturers, [child-carers](people-family.md), and maintainers. They're usually more likely to betray and sabotage others, but more likely to [coexist](people-boundaries.md) well with others and find a harmonious [solution](results.md).
 
 This also expresses into how we respond to a gender-leaning name. People tend to see female-named things as safer and more affectionate than male-named things. Ironically, females are often more [dangerous](safety.md) when they're [empowered](power.md) in a [gender-equal](morality-justice.md) society because they have an harder time curbing their [feelings](mind-feelings.md).
 
@@ -98,7 +98,7 @@ These two attributes together can be risky. We can often find a bad match becaus
 
 In societies where the culture doesn't outright [condemn](morality-taboo.md) the practice, men have a tendency to abuse their [power](power.md) and collect wives as a *very* expensive materialist hobby. Over time, this has a tendency to concentrate the genetics under a smaller population, thereby weakening the people group across generations through [families](people-family.md) being more related.
 
-In modern societies, we still tend to lean into seeking [competence](mind-creativity-results.md) in males and [beauty](values-quality.md) in females, even among homosexuals. Even handsome men are often implied to be competent and [productive](success-4_routine.md) women are implied to be beautiful.
+In modern societies, we still tend to lean into seeking [competence](results.md) in males and [beauty](values-quality.md) in females, even among homosexuals. Even handsome men are often implied to be competent and [productive](success-4_routine.md) women are implied to be beautiful.
 
 While men may seek a useless, beautiful woman, women require men to bring some form of competence to their lives that they don't have already. Otherwise, women become bored or irritated with a man very quickly.
 
@@ -114,7 +114,7 @@ Gender differences create a [conflict](people-conflicts.md), mostly from women w
 
 A huge component of gender conflicts comes from our specific needs:
 
-- Men need respect, which revolves around what men [do](mind-creativity-results.md) and others [honoring](image.md) those actions.
+- Men need respect, which revolves around what men [do](results.md) and others [honoring](image.md) those actions.
 - Women need affection, which is about [communicating](language.md) [sentiment](mind-feelings.md) to them.
 
 Men often give respect to women who don't want it, and women often give affection to men who don't care for it. Each gender doesn't naturally communicate in the other's [language](language.md) and must learn it from them, which requires patience to [teach](understanding.md).
@@ -145,4 +145,4 @@ Marriage is *not* rational, but is necessary to find [meaning](meaning.md) becau
 
 Men pick younger women and tend to not live as long as women, which means that women are forced into a statistical likelihood of being alone when they're old, either by widowing or becoming a spinster (i.e., never marry).
 
-If men and women can figure out how to manage their differences, they can have [very meaningful relationships together](relationships-3_marriage.md). Women must simply learn to [respect](mind-creativity-results.md) men, and men must simply learn to [cherish](values-quality.md) women.
+If men and women can figure out how to manage their differences, they can have [very meaningful relationships together](relationships-3_marriage.md). Women must simply learn to [respect](results.md) men, and men must simply learn to [cherish](values-quality.md) women.

@@ -35,10 +35,10 @@ Legitimate friendships are grounded in [love](people-love.md) for one another's 
 The degree that each friend changes comes from their openness to the other friend's [points of view](image.md). [Stronger](power.md) people have stronger [convictions](understanding-certainty.md) and [understanding](understanding.md), and a weaker friend will *always* conform to the stronger one's standards (at least partially). This comes in three levels:
 
 1. Comrade - a shared [conflict](people-conflicts.md), but it only persists as long as the conflict is the same (e.g., most [workplace](jobs-1_why.md) friendships).
-2. Constituent/Partner - a shared [purpose](purpose.md), though the pursued [values](values.md) may be different, and only persists as long as there's [progress](mind-creativity-results.md) toward shared goals.
+2. Constituent/Partner - a shared [purpose](purpose.md), though the pursued [values](values.md) may be different, and only persists as long as there's [progress](results.md) toward shared goals.
 3. Confidant - Shared [understanding](understanding.md) that engages meaningful [human connection](humanity.md) with each other.
 
-As we [mature](maturity.md), our friendships transition from the pool of children we spent time with into the [specializations](jobs-spcialization.md) we've established for ourselves. It's not uncommon for adults to be so preoccupied with the requirements to [work](mind-creativity-results.md) that they have very few friends.
+As we [mature](maturity.md), our friendships transition from the pool of children we spent time with into the [specializations](jobs-spcialization.md) we've established for ourselves. It's not uncommon for adults to be so preoccupied with the requirements to [work](results.md) that they have very few friends.
 
 ## How
 
@@ -46,9 +46,9 @@ It takes about 34 minutes before we've [decided](decisions.md) if we want to be 
 
 We start a friendship when we've communicated a [value](values.md) the other person agrees with. The other person doesn't have to [identify](identity.md) with it, but they must [believe](understanding-certainty.md) it.
 
-We frequently form our beliefs from the [purposes](purpose.md) we've recently aspired to or [wish](imagination.md) to do soon, so we tend to find friends around our same state of [maturity](maturity.md) and [success](mind-creativity-results.md).
+We frequently form our beliefs from the [purposes](purpose.md) we've recently aspired to or [wish](imagination.md) to do soon, so we tend to find friends around our same state of [maturity](maturity.md) and [success](results.md).
 
-As we [change](changes.md), our friendships will change as well. Unless our friends are changing at the same speed as us, we'll slowly drift away from them. Either we'll leave them behind or they'll leave *us* behind. We can also sometimes cut down on our friendships simply because we got [bored](purpose.md) with them.
+As we [change](people-changes.md), our friendships will change as well. Unless our friends are changing at the same speed as us, we'll slowly drift away from them. Either we'll leave them behind or they'll leave *us* behind. We can also sometimes cut down on our friendships simply because we got [bored](purpose.md) with them.
 
 We tend to build [trust](trust.md) with our friends, which is often connected with the [groups](groups-member.md) we share with them. That trust creates a profound [influence](influence.md) that affects our large-scale beliefs in many unseen ways. Our [identity](identity.md) is frequently intertwined with our friendships.
 
@@ -79,7 +79,7 @@ We gain *massive* [understanding](understanding.md) from friendships because we'
 
 If there are two friends with an unequal [power](power.md) dynamic (wealth difference, [age](maturity.md) difference, difference of [religious](religion.md) beliefs, etc.) the friend with more power will [influence](influence.md) the weaker. It may take a few years, but that weaker person will start looking a lot like their stronger friend.
 
-We must be careful about how much we invest into each friendship we have. We tend to change to become like the people we're trying to [influence](influence.md), and the people we spend time with will naturally change as *we* [change](changes.md)!
+We must be careful about how much we invest into each friendship we have. We tend to change to become like the people we're trying to [influence](influence.md), and the people we spend time with will naturally change as *we* [change](people-changes.md)!
 
 People [group us](image.md) by the friends we make, so be careful who you associate with (and how much) if those people aren't representing traits you wish to see in yourself.
 

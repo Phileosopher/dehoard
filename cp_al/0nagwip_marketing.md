@@ -13,7 +13,7 @@ In practice, there are only 3 ways to make marketing increase an organization's 
 Marketing is a broad concept about the process of selling goods or services, starting with before the customer knows about it and through the business relationship:
 
 1. Research to learn what the public wants and invent a solution for them (market research).
-2. [Tailor the appearance](design-uxui.md) of something to show people it has value (product design).
+2. [Tailor the appearance](engineering-design.md) of something to show people it has value (product design).
 3. Show it as a [story](stories.md) to the public to make people aware of it (exposure).
 4. Make lists of people who might want it (lead generation).
 5. Inform or persuade leads that they should invest in the product (selling and closing the deal).
@@ -26,7 +26,7 @@ Product - what are you delivering? (not always tangible or sold for money)
 - Vague things (e.g., the feeling of goodwill) can be a product.
 - A [job hunter](jobs-1_why.md) is marketing skills, time, and energy.
 - A humanitarian request (call to action) advertises a transcendent purpose.
-- Anyone who wants to be a social media influencer is trying to use their [personality](personality.md)-based [performance](mind-creativity-results.md) to gain others' attention.
+- Anyone who wants to be a social media influencer is trying to use their [personality](personality.md)-based [performance](results.md) to gain others' attention.
 - [Religious evangelism](evangelism.md) is advancing a theological/philosophical perspective, with [religion](religion.md) itself being a passive marketing movement.
 
 Price - what does it cost?
@@ -63,7 +63,7 @@ The best thing is to assume people are selfish, lazy, uninformed, and impatient.
 - Uninformed - *you're* responsible to inform them.
 - Impatient - inform them with as few words and as little time as possible.
 
-The only way to find that meaning is to create a distinctly human connection through the [design](design-uxui.md) of marketing materials.
+The only way to find that meaning is to create a distinctly human connection through the [design](engineering-design.md) of marketing materials.
 
 - Simply making promises and keeping them is enough to start building a brand.
 - To create connection and avoid being boring, marketing professionals *must* [take risks](entrepreneur-1_why.md) to disrupt [established patterns](habits.md).
@@ -218,7 +218,7 @@ Customers observe many, many details about the product and its associated enviro
 
 The product itself:
 
-- Attributes/[design](design-uxui.md) of the product
+- Attributes/[design](engineering-design.md) of the product
 - [Emotional reaction](mind-feelings.md) from the product and its implications
 - Price and quality of the product compared to others
 - Where the company made the product (can make it cheaper or inspire loyalty)
@@ -228,7 +228,7 @@ The product itself:
 - Experience with the product
 - How the company distributes the product
 
-[Color](design-uxui.md), in particular, can make consumers [feel](mind-feelings.md) a company's implied message:
+[Color](engineering-design.md), in particular, can make consumers [feel](mind-feelings.md) a company's implied message:
 
 - 85% of buyers choose a product on color alone.
 - 93% of buyers care about a product's visual appearance.
@@ -332,7 +332,7 @@ B. Within that demographic, make as many XY grids as necessary to compare 2 vari
 - Experimental
 - Healthfulness
 
-C. Craft the design as a [story](stories.md) with a [designed user experience](design-uxui.md).
+C. Craft the design as a [story](stories.md) with a [designed user experience](engineering-design.md).
 
 - The story should make consuming the brand a memorable experience.
   1. Initiation - the customer's first impression upon hearing about the product
@@ -356,7 +356,7 @@ C. Craft the design as a [story](stories.md) with a [designed user experience](d
 
 D. Make something eye-catching and familiar to the target demographic.
 
-- Carefully consider your [design medium](design-uxui.md) to match what people of that [culture](culture.md) will [feel](mind-feelings.md).
+- Carefully consider your [design medium](engineering-design.md) to match what people of that [culture](culture.md) will [feel](mind-feelings.md).
   - Show the product in action.
   - Use current [social trends](trends.md).
   - Create interviews or testimonials from reputable or influential people.
@@ -563,7 +563,7 @@ Other advertising approaches are much more subtle than a blatant advertisement:
 - Distribute product catalogs.
 - Provide dealer and distributor incentives.
 
-To that end, most marketing requires maintaining various [designs](design-uxui.md):
+To that end, most marketing requires maintaining various [designs](engineering-design.md):
 
 - Logos, including favicons and avatars for websites
 - Cards and letterheads
@@ -829,7 +829,7 @@ The simplest ways to detect marketing abuse are by observing "glittering general
 Within a few years, people will detect *any* mass-marketing or [image manipulation](image-distortion.md) tactic and will learn to disregard it.
 
 - While subliminal messaging may appear to work, there's very little [scientific evidence](science.md) that indicates it does anything to influence consumers' [decisions](decisions.md).
-- Avoid [dark patterns and predatory design tactics](design-uxui.md) on your internet content.
+- Avoid [dark patterns and predatory design tactics](engineering-design.md) on your internet content.
 
 If you're not sure, well-designed traditional publications that effectively communicate what the product is and what it does are all you need.
 

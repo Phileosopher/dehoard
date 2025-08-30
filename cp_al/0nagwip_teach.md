@@ -1,6 +1,6 @@
 The act of teaching is the art of conveying information to others so they [understand](understanding.md).
 
-While the one-on-one experience of teaching is an intimate experience of guiding someone through trial-and error, [large-scale teachers](pedagogy.md) are effectively public speakers with some dialogue interspersed to clarify points to the audience.
+While the one-on-one experience of teaching is an intimate experience of guiding someone through trial-and error, [large-scale teachers](education.md) are effectively public speakers with some dialogue interspersed to clarify points to the audience.
 
 A public speech is simply a broad-reaching discourse with a clearly defined time limit:
 

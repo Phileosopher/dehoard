@@ -363,7 +363,7 @@ Even when it's nonfiction or an email, all written works travel through a [story
   - An interesting fact
   - A question
 - All the future sentences and paragraphs are expanding on that first sentence, wrapping up with the final sentence.
-- The events of the story are based on how the character (or reader) experiences a [conflict](people-5_conflicts.md), then [changes](changes.md) by making [meaningful](meaning.md) [decisions](decisions.md).
+- The events of the story are based on how the character (or reader) experiences a [conflict](people-5_conflicts.md), then [changes](people-changes.md) by making [meaningful](meaning.md) [decisions](decisions.md).
 
 Add clues to imply what will happen before it does (foreshadowing):
 
@@ -617,7 +617,7 @@ Every story revolves around a character's conflict:
   - The protagonist's desire vs. what the protagonist has
   - The protagonist's desire vs. others' expectations
   - The protagonist vs. themselves
-  - The protagonist's [inner goal](purpose.md) vs. the protagonist's [external goal](mind-creativity-results.md)
+  - The protagonist's [inner goal](purpose.md) vs. the protagonist's [external goal](results.md)
   - The protagonist's [fear](mind-feelings-fear.md) vs. the protagonist's goal (internal, external, or both)
   - The protagonist vs. the antagonist
   - The antagonist vs. mercy (or the [appearance](image-distortion.md) of it)

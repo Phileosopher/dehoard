@@ -87,7 +87,7 @@ At its core, a [church](church.md) is simply a gathering of believers ([Matthew 
 
 There are several ways to approach a new ministry venture:
 
-1. Scope out [an articulated plan](entrepreneur-3_plan.md), inspired directly from [secular not-for-profit organizations](mgmt-npo.md), then adapt as things [change](changes.md) (a typical approach for [wealthy cultures](https://theologos.site/the-west/)).
+1. Scope out [an articulated plan](entrepreneur-3_plan.md), inspired directly from [secular not-for-profit organizations](mgmt-npo.md), then adapt as things [change](people-changes.md) (a typical approach for [wealthy cultures](https://theologos.site/the-west/)).
 2. Trust God entirely for the experience and act directly on what the Holy Spirit says (a typical approach for [persecuted churches](hardship-persecution-church.md)).
 3. Attempt to rebuild everything from the ground up (typical for churches less concerned about engaging everyone in a community or with [trust issues](trust.md)).
 
@@ -121,7 +121,7 @@ Don't over-reach your [specialization](jobs-specialization.md).
   2. Brainstorm a [creative](mind-creativity-how.md) way around it (e.g., avoiding a [specific project](mgmt-2_projects.md) entirely that's not mission-critical).
   3. If nobody can help, ask Him directly to grant you the power to perform the tasks you're trying to accomplish ([1 Corinthians 14:1](https://biblehub.com/1_corinthians/14-1.htm)).
 
-Even when the [results](mind-creativity-results.md) fail your [expectations](imagination.md), trust He will provide an increase when you need it.
+Even when the [results](results.md) fail your [expectations](imagination.md), trust He will provide an increase when you need it.
 
 - Your entire reason for working a ministry is for Jesus to be at the center of it.
 - God wants your ministry to fit a *specific* group of people He planned out in advance, so don't concern yourself as much with results as what He wants.
@@ -181,7 +181,7 @@ Learn [effective communication](language-speaking.md).
 Any spiritual leadership role conveys the power of Scripture, so [keep reading it](bible-study.md).
 
 - Avoid jargon which alienates people from simple truths.
-- Stay focused on Christ and the Gospel, no matter how much your [education](pedagogy.md) and [culture](culture.md) tell you otherwise ([1 Corinthians 2:2](https://biblehub.com/1_corinthians/2-2.htm)).
+- Stay focused on Christ and the Gospel, no matter how much your [education](education.md) and [culture](culture.md) tell you otherwise ([1 Corinthians 2:2](https://biblehub.com/1_corinthians/2-2.htm)).
 
 Beyond teaching, you and your wife will be openly mentoring everyone in the [group](groups-large.md) while also fostering [a smaller "core" group](groups-small.md).
 
@@ -212,7 +212,7 @@ A. Wage earners constitute the majority of a ministry's strength.
   - Individually, they don't appear to be a significant portion of the ministry, but their contributions are most of the driving force of the ministry's projects.
 - Since vocational ministers live off donations, they have a cultural disconnect with wage earners:
   - They frequently overlook wage earners' [financial](money-1_why.md) and [career](jobs-1_why.md) needs.
-  - Their increased [education](pedagogy.md) in theological/ministry matters frequently provokes them to believe their position is more important.
+  - Their increased [education](education.md) in theological/ministry matters frequently provokes them to believe their position is more important.
   - They tend to [distrust](trust.md) when the wage earners want to be more involved in ministry operations beyond donations.
 - Ask them for funds without any pressure.
   - Tell them to ask God themselves about meeting the available needs.
@@ -234,7 +234,7 @@ B. Missionaries/ministers are financed, at least partly, by others' donations.
 
 C. The poor/needy will *always* be with us ([Matthew 26:11](https://biblehub.com/matthew/26-11.htm)).
 
-- Sometimes they're under [hardship](hardship.md) they couldn't have prevented, and other times they're suffering [consequences](mind-creativity-results.md) of their [decisions](decisions.md).
+- Sometimes they're under [hardship](hardship.md) they couldn't have prevented, and other times they're suffering [consequences](results.md) of their [decisions](decisions.md).
   - How you treat them shows your priorities ([Matthew 25:31-40](https://biblehub.com/matthew/25.htm)).
   - While helping the poor against your better judgment can be challenging, God will still honor it.
 - They need love and nurturing care, even if they brought the entire experience on themselves.
@@ -367,7 +367,7 @@ Ministries [scale](jobs-specialization.md) like any other [secular organization]
 Never try growing faster than [God has planned](god-will.md).
 
 - The easiest, and most [unethical](morality.md), way to grow is by [generating fake hype](marketing.md) to create a nucleus of sincere followers.
-- If you create many followers with a little [deception](image-distortion.md), it's not reasonable to assume He will be proud of your work, irrespective of the [results](mind-creativity-results.md) it created ([Matthew 25:1-23](https://biblehub.com/bsb/matthew/25.htm)).
+- If you create many followers with a little [deception](image-distortion.md), it's not reasonable to assume He will be proud of your work, irrespective of the [results](results.md) it created ([Matthew 25:1-23](https://biblehub.com/bsb/matthew/25.htm)).
 
 ### Social effects
 
@@ -481,7 +481,7 @@ It's far too common for members of a ministry community to fall into an unhealth
 2. They fail at whatever external workplace environment they were in.
 3. After a lapse in gainful employment, they find some sort of meaning out of a form of a religiousness.
 4. They eventually come to believe that their other failures are because God is calling them to professional ministry.
-5. They pursue a [Bible college degree](pedagogy.md), then become a sub-leader within a ministry capacity.
+5. They pursue a [Bible college degree](education.md), then become a sub-leader within a ministry capacity.
 6. When other believers depend on them, they won't have [integrated their shadow](personality.md) far enough to provide spiritual guidance to them.
    - On occasion, they'll build a [church plant](mgmt-church-plant.md), but it'll look the same as its parent church because they're simply following what other people did instead of legitimately consulting God for help.
 
@@ -506,7 +506,7 @@ For any leader, ask God what He wants you to do.
 
 Each leader needs plenty of [one-on-one time](spiritual-discipleship.md).
 
-- The complexities of [teaching](pedagogy.md) a new leader can't be scaled to a classroom.
+- The complexities of [teaching](education.md) a new leader can't be scaled to a classroom.
 - Without that personal time, most new leaders will learn to "fake it 'til you make it", which creates religiousness and harms the Body worse than if they hadn't been taught.
 
 ### Financial struggles
@@ -556,13 +556,13 @@ A ministry won't function if the leaders don't respect the congregation's talent
 Little or no teaching makes the ministry theologically vague:
 
 - The ministry will dismiss strong doctrine as unloving or no longer relevant.
-- Poor teachers won't give structure for members to [change](changes.md) and will foster complacency.
+- Poor teachers won't give structure for members to [change](people-changes.md) and will foster complacency.
 - Thoroughly study Scripture and provoke leaders to [study their Bible](bible-study.md) in-depth.
 
 Little or no prophecy/declaration shifts the focus to good feelings and happiness:
 
 - [Love](people-love.md) will only communicate as sentimental affection without considering others' long-term best interests.
-- The ministry will often [look](image.md) loving, but none of the members will [change](changes.md) much, even while they're increasing [understanding](understanding.md).
+- The ministry will often [look](image.md) loving, but none of the members will [change](people-changes.md) much, even while they're increasing [understanding](understanding.md).
 - While the Church will do good works, the community won't notice because it lacks Christ's boldness and audacity.
 - Invite more bold speakers to teach the congregation and discuss controversial issues.
 

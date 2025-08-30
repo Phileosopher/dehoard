@@ -1,7 +1,7 @@
 
 There's a distinct difference between front-end and back-end development, though it can sometimes blur:
 
-- "Front-end" development is making code to build out a [user experience](design-uxui.md), often on the [internet](computers-webdev.md).
+- "Front-end" development is making code to build out a [user experience](engineering-design.md), often on the [internet](computers-webdev.md).
 - "Back-end" development is working heavily with [databases](database.md) and [algorithms](programming-algorithms.md), typically with lots of [math](math-cs.md).
 
 ## Mindset
@@ -10,7 +10,7 @@ Anyone working with code must have a few specific skills:
 
 - Able to see a logical pattern from start to finish (which is largely trainable, especially with puzzle/coding games).
 - Understand [math concepts](math-cs.md) (mostly the basics, since code is *always* working with math).
-- [Creativity and imagination](mind-creativity-how.md) to see the product and [how the user will interact with it](design-uxui.md).
+- [Creativity and imagination](mind-creativity-how.md) to see the product and [how the user will interact with it](engineering-design.md).
 - The ability to mentally visualize the large-scale image of what their software will do.
 
 When designing code, there are several levels of thought that a programmer has to vacillate back-and-forth between:
@@ -47,7 +47,7 @@ In practice, every high-quality software will at least *somewhat* abide by the U
 
 No matter what someone is designing, they need to keep a few large-scale ideas in place:
 
-1. Because of Moore's Law (where technology doubles in capacity every 2-5 years), computers will be absurdly faster in a few years than they are right now. Thus, getting something with a few features on the market right now is better, and adding features and optimizations later will become progressively easier. There are only a few strange exceptions to this, such as [batteries](engineering.md).
+1. Because of Moore's Law (where technology doubles in capacity every 2-5 years), computers will be absurdly faster in a few years than they are right now. Thus, getting something with a few features on the market right now is better, and adding features and optimizations later will become progressively easier. There are only a few strange exceptions to this, such as [batteries](engineering-electrical.md).
 2. Take advantage of [abstractions](understanding.md). Instead of building everything from scratch, focus on the element you want to get out the door, and don't reinvent the wheel when you don't have to.
 3. Many cases are common, but there will always be "edge cases". It's tempting to work on edge cases, but you'll make a *very* high-quality system by optimizing the *heck* out of the common case and disregarding the edge cases.
 4. Optimize for parallel processing whenever possible. Treat a computer as [a Gantt Chart](https://en.wikipedia.org/wiki/Gantt_chart) on nanosecond-based projects instead of merely as a single task list: some things need to be performed in sequence, while others can be performed at the same time.

@@ -149,7 +149,7 @@ Even terrible products usually have other redeeming qualities:
 - A low-quality product is also extremely cheap.
 - A service that takes a long time to deliver often does an adequate job.
 - An overpriced product can still be high-quality.
-- Awful products frequently have [well-designed](design-uxui.md) packaging.
+- Awful products frequently have [well-designed](engineering-design.md) packaging.
 
 People who have experienced MLM *never* feel ambivalent about it.
 
@@ -290,7 +290,7 @@ Children's products
 - Barefoot Books - children's books
 - Usborne Publishing - children's books
 - Discovery Toys - educational toys
-- Southwestern Advantage (formerly Southwestern Company) - [educational](pedagogy.md) materials
+- Southwestern Advantage (formerly Southwestern Company) - [educational](education.md) materials
 
 Food-based products
 

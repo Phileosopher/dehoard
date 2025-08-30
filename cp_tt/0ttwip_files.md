@@ -23,7 +23,7 @@ Often, a file isn't exclusively one of the above:
 When you first [boot](computers-boot.md) any computer, a few files are already running:
 
 - Input file (stdin) - tracks what you're doing with the [keyboard](computers-keyboard.md) (and occasionally the [mouse](computers-mouse.md)).
-- Output file (stdout) - feeds information to the [screen](computers-screen.md)/[printer](computers-printers.md)/[speakers](computers-speakersmic.md).
+- Output file (stdout) - feeds information to the [screen](engineering-screen.md)/[printer](computers-printers.md)/[speakers](computers-speakersmic.md).
 - Error file (stderr) - a database of [errors](computers-software-redesign.md) with reference codes that specify how things broke.
 
 To make managing files easier at first glance, most files have a "header" with "metadata" about the file, such as the file type, file size, date last accessed, and date created.
@@ -124,7 +124,7 @@ Older file systems had a 4 GB limit, but newer ones have a 16 EB (1000 TB) limit
 
 As of the early 2020s the best general all-purpose cross-platform standard is exFAT, since it was made by and works well with Microsoft (as opposed to NTFS), but is cross-compatible with all other devices, though Linux's ext4 standard has value as well.
 
-Logical file systems fit squarely in the domain of [good UX](design-uxui.md), and getting rid of them to allow text-based entry and output is why [CLI](computers-cli.md) is still fashionable for tech-savvy users.
+Logical file systems fit squarely in the domain of [good UX](engineering-design.md), and getting rid of them to allow text-based entry and output is why [CLI](computers-cli.md) is still fashionable for tech-savvy users.
 
 ## Hierarchical files
 
@@ -136,7 +136,7 @@ To accommodate this, the most popular way to group files is with a "hierarchical
 
 There are various hierarchical file systems ("exFat, ext2/3/4, jfs, gpfs etc.) which are each designed with different purposes in mind. The file system rules (and where to start the operating system's first programs) are stored in the [boot sector](computers-boot.md).
 
-Another convenience of a hierarchical file system is that "moving" a file on the same disk is simply renaming the file path, which may mean changing a few [memory references](computers-memory.md) depending on the design of the hardware. This is why a drag-and-drop transfer can sometimes be instant. This, however, creates a [UX hangup](design-uxui.md) when moving across disks, since lots of data will take a while to transfer.
+Another convenience of a hierarchical file system is that "moving" a file on the same disk is simply renaming the file path, which may mean changing a few [memory references](computers-memory.md) depending on the design of the hardware. This is why a drag-and-drop transfer can sometimes be instant. This, however, creates a [UX hangup](engineering-design.md) when moving across disks, since lots of data will take a while to transfer.
 
 It's worth being aware of what a file is doing when you're copying, moving, and deleting:
 

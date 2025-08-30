@@ -86,7 +86,7 @@ The simplest expression of humor comes through a formalized [public speech](lang
 - Exaggerating typical nuisances of life, frequently with the manic intensity of a string of stories (e.g., Gabriel Iglesias, Jeff Foxworthy).
 - Anger rant, with the punch line directed at the comedian by stating petty observations about tiny, frustrating things mixed with extreme, cold truths that are often [political](groups-large.md) (e.g., George Carlin, Denis Leary).
 
-Humor isn't merely jokes and comedians. We find humor frequently throughout life in [communicating](people-conversation.md) and [action](mind-creativity-results.md), but usually when reflecting on [patterns](trends.md) from the past. [Writing](language.md) allows for a slow buildup of various ideas together to form a highly complex funny idea.
+Humor isn't merely jokes and comedians. We find humor frequently throughout life in [communicating](people-conversation.md) and [action](results.md), but usually when reflecting on [patterns](trends.md) from the past. [Writing](language.md) allows for a slow buildup of various ideas together to form a highly complex funny idea.
 
 Generally, the more painful *and* unique an experience is, the more humor we'll draw from it later once we get over the [trauma](hardship-ptsd.md) from it. We won't find humor in the present-tense if we're [afraid](mind-feelings-fear.md) of anything.
 

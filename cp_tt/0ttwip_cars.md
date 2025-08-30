@@ -46,7 +46,7 @@ Further, most cars are also equipped with EDRs (electronic data recorders), so t
 
 Electric vehicles (EVs) are unrelated to autonomous vehicles, but they're often discussed at the same time because they're [new technology](trends.md).
 
-Unlike ICE (Internal Combustion Engine), EVs are functionally a massive battery with an electric motor. Hybrid vehicles combine the benefits of both ICE *and* [batteries](engineering.md).
+Unlike ICE (Internal Combustion Engine), EVs are functionally a massive battery with an electric motor. Hybrid vehicles combine the benefits of both ICE *and* [batteries](engineering-electrical.md).
 
 EV motors are almost guaranteed to have less torque than ICEs, so they're manufactured out of aluminum instead of steel (meaning they're less durable). However, they *also* frequently have safety-enhancing Level 2 features to mitigate more severe accidents, and their lighter frame makes dodging or diminishing a severe accident easier.
 

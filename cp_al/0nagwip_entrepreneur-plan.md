@@ -101,7 +101,7 @@ Describe in detail the demographics of each product's customers.
 - For each type of customer, create a demographic profile:
   - Age and [gender](gender.md)
   - Geographic location and regional lifestyle elements
-  - [Income level](money-1_why.md), [social class](classes.md), [occupation](jobs-specialization.md), and [education](pedagogy.md)
+  - [Income level](money-1_why.md), [social class](classes.md), [occupation](jobs-specialization.md), and [education](education.md)
 - If the customers are businesses, they'll have a different demographic profile:
   - Industries involved, or the portions of involved industries
   - Geographic location
@@ -132,7 +132,7 @@ Share the product from the customers' point of view.
 - You may think the product is perfect, but your clients won't.
   - Your opinion is too [biased](mind-bias.md) to have much value.
   - Pay close attention to user feedback.
-- Stay focused on the product's core [purpose](purpose.md), and constrain its [design](design-uxui.md) to it.
+- Stay focused on the product's core [purpose](purpose.md), and constrain its [design](engineering-design.md) to it.
 
 Indicate any additional post-sale products and services.
 
@@ -165,7 +165,7 @@ You don't need a vast marketing plan, and can start simple with a simple list of
 You're trying to tailor your product to your customer, so consider how the product *has* been marketed:
 
 - Traditional marketing approaches can *very* frequently work for traditional products.
-- If it's a new type of product, however, every bit of [design](design-uxui.md) can dramatically improve your impact.
+- If it's a new type of product, however, every bit of [design](engineering-design.md) can dramatically improve your impact.
 - Unless you're *trying* to make a living in marketing, pay close attention to how much marketing you're doing relative to the product you're actually producing and selling.
   - If you *like* marketing itself, consider dropping the product altogether and working in a marketing role instead.
 
@@ -260,11 +260,11 @@ Explain how you'll [promote](marketing.md) the product:
   - Sometimes, you can use second-degree connections to [influence](power-influence.md) others (e.g., that person's [spouse](relationships-3_marriage.md), their professional networks).
 - Are there any low-cost advertising methods you can take advantage of?
 - What image do you want to project and how do you want customers to see you?
-- What are your plans for maintaining brand management with [graphic images](design-uxui.md)?
+- What are your plans for maintaining brand management with [graphic images](engineering-design.md)?
 - What promotional budget do you have?
   - You'll have an initial cost, and then ongoing costs afterward.
 
-It typically makes sense to go back and [redesign](design-uxui.md) the product to reflect the marketing strategy.
+It typically makes sense to go back and [redesign](engineering-design.md) the product to reflect the marketing strategy.
 
 - Good marketing will reflect back *into* the product itself.
 - Display the product's most interesting qualities openly.

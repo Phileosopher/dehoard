@@ -28,7 +28,7 @@ Unless it's a legitimate emergency, never make it a first principle to tell peop
 
 Make double-sure you're not misunderstood.
 
-- Like with [teaching](pedagogy.md), management requires over-communication, which means lots of repeating and rephrasing.
+- Like with [teaching](education.md), management requires over-communication, which means lots of repeating and rephrasing.
 - When in-person, point at each thing as you talk about it.
 - Give very specific goals, with clear indicators:
   - How you'll measure performance
@@ -466,7 +466,7 @@ Making procedures themselves is an ongoing process:
     - If people are [accustomed to the old way of doing things](habits.md), and it isn't creating adverse consequences, let them deep doing it.
     - If people don't like the change, clearly and candidly ask them why.
 11. Draw extra attention for at least the next few months to divergences from the reviewed tasks from that meeting.
-    - Typically, small [changes](changes.md) can ripple outward to directly inspiring *other* changes and creating large-scale effects.
+    - Typically, small [changes](people-changes.md) can ripple outward to directly inspiring *other* changes and creating large-scale effects.
 
 ## Work-from-home
 

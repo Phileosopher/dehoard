@@ -37,7 +37,7 @@ We're *surrounded* by lies:
 Further, we often lie to ourselves:
 
 - Typically, we'll listen to false statements from others, then believe them over clearly true things we can observe.
-- Many times, we'll avoid confronting lies from the risk that it may force us to [change ourselves or change our environment](changes.md).
+- Many times, we'll avoid confronting lies from the risk that it may force us to [change ourselves or change our environment](people-changes.md).
 
 Frequently, when we endure [childhood trauma](hardship-ptsd.md), we [lie to *ourselves* so much that we believe it](hardship-worthlessness.md)!
 

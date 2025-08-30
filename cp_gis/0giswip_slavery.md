@@ -1,5 +1,5 @@
 
-Slavery is when someone has [power](power.md) over someone against their [will](purpose.md). A slave's master will be able to control what someone [says or does](mind-creativity-results.md).
+Slavery is when someone has [power](power.md) over someone against their [will](purpose.md). A slave's master will be able to control what someone [says or does](results.md).
 
 Most references to slavery have historically been the concept of owning people, with most instances being:
 

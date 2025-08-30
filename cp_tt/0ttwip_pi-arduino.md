@@ -24,7 +24,7 @@ With that in mind, the "[latest and greatest](trends.md)" is a *very* fleeting [
 
 Computers provide [*many* career options](jobs-2_goals-cs.md), and some organizations decided to do something different with them. Instead of selling top-dollar computers, they shaved down as many features as possible to create the cheapest possible computer.
 
-Even though they originally designed these low-spec computers for [teaching](pedagogy.md) purposes, they created a *very* affordable general-purpose computer for anyone to use:
+Even though they originally designed these low-spec computers for [teaching](education.md) purposes, they created a *very* affordable general-purpose computer for anyone to use:
 
 - The Raspberry Pi Foundation not-for-profit aims their Raspberry Pi at young people.
   - [The Raspberry Pi](https://www.raspberrypi.org) comes in a variety of forms, but are almost all designed to be as easily accessible as possible.Prices for basic Pis are $35-70, though there are much smaller ones now that run for $4.With respect to hardware, a Raspberry Pi simply needs peripherals (keyboard and screen).
@@ -71,7 +71,7 @@ Make a self-sufficient, fully-functioning [personal computer](computers-hardware
 Hobbies:
 
 - Practice [PenTesting](computers-cysec-pentest.md).
-- Record and stream [video](computers-screen.md).
+- Record and stream [video](engineering-screen.md).
 - Use and manage your entire media library in a media server.
 - Create a smart TV.
 - Play [electronic games](computers-software-gamedev.md).

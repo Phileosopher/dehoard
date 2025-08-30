@@ -9,7 +9,8 @@ Source http://groovy-almanac.org/list-the-methods-of-a-groovy-class/
 # Print all object properties
 
 ## Method 1 ([src](https://gist.github.com/HopefulLlama/edecc82e9e6145544f34))
-```
+
+```groovy
 println object.properties.sort{it.key}
 .collect{it}
 .findAll{!['class', 'active'].contains(it.key)}

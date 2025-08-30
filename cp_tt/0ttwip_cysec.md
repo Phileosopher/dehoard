@@ -61,7 +61,7 @@ If there's a legitimate system update, install it immediately. If you're worried
 
 ### Browsing
 
-Assume that [Big Tech](faang.md) is collecting data on you. They often can create a profile of you based on your computer or IP address, even if you don't have an account with them. Simple information like your IP address, uploaded photos, time spent on your website, and device's [screen resolution](computers-screen.md) can be useful to cross-reference other details.
+Assume that [Big Tech](faang.md) is collecting data on you. They often can create a profile of you based on your computer or IP address, even if you don't have an account with them. Simple information like your IP address, uploaded photos, time spent on your website, and device's [screen resolution](engineering-screen.md) can be useful to cross-reference other details.
 
 Pay very, *very* close attention to the address bar, since that's the easiest way people get [hacked](hacking.md). `https://facebook.com` is legitimate, but `http://facbook.com` or `http://faceebook.net` is an impostor site. You'll also notice that it won't have a current SSL certificate (and your browser will often display an indicator of it).
 

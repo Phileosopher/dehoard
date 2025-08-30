@@ -3,7 +3,7 @@ Inside, a robot is mostly the same concept as any other computer-based design:
 
 - It always requires an input with sensors that detect something that physically changes. This input is often a [camera](camera.md) or [microphone](computers-speakersmic.md), and often includes sensors along with it. If it's a simple-enough robot, it simply needs sensors.
 - The [operating system](computers-os.md) is relatively similar to any other computer, though interacting in the "real world" is *absurdly* complex compared to working strictly with raw information.
-- The [processor](computers-cpu.md) eventually operates an output that physically does something. It may use a [screen](computers-screen.md), but almost always uses a mechanical arm, and typically has lots of driver "middleware" to accommodate the extra mechanical hardware.
+- The [processor](computers-cpu.md) eventually operates an output that physically does something. It may use a [screen](engineering-screen.md), but almost always uses a mechanical arm, and typically has lots of driver "middleware" to accommodate the extra mechanical hardware.
 
 Externally, though, a robot is the ultimate "implementation" of a computer in the physical world. All other computer aspects are mostly confined to the realm of [the mind and ideas](values.md), but robots have the means to legitimately [*do* things](purpose.md).
 

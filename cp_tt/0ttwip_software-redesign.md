@@ -16,9 +16,9 @@ Thus, computers make incredibly fast, incredibly accurate mistakes. These are ca
 
 **Runtime errors** are errors that *[feel](mind-feelings.md)* logical, but aren't. They tend to crash the program, website, or computer because the computer has instructions that will *never* stop the functioning of the program. In the old days, the entire computer's operating system would freeze when it ran out of [memory](computers-memory.md), but these days the operating system will detect the "stack overflow" and shut down the program before the situation becomes too extreme.
 
-**Logic errors** are when the computer did everything correctly, but the human didn't. For whatever reason, the [information output](computers-screen.md) doesn't match what *should* happen. These are frustrating because it *should* work fine, but the engineer successfully created something useless for their [purposes](purpose.md).
+**Logic errors** are when the computer did everything correctly, but the human didn't. For whatever reason, the [information output](engineering-screen.md) doesn't match what *should* happen. These are frustrating because it *should* work fine, but the engineer successfully created something useless for their [purposes](purpose.md).
 
-Often, logic errors earlier in the code's execution will create runtime errors later. This is *extremely* common in complicated computer activities, such as [operating systems](computers-os.md) or [high-graphics](graphics.md) [games](computers-software-gamedev.md). Shrewd developers hide the error messages while the brilliant ones fix them.
+Often, logic errors earlier in the code's execution will create runtime errors later. This is *extremely* common in complicated computer activities, such as [operating systems](computers-os.md) or [high-graphics](engineering-graphics.md) [games](computers-software-gamedev.md). Shrewd developers hide the error messages while the brilliant ones fix them.
 
 Another easy way to avoid logic errors is to practice [good coding habits](programming-habits.md).
 

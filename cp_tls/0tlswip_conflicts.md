@@ -153,7 +153,7 @@ Many Christians, especially new ones, ask whether God permits something specific
 - Because of God's grace, a Christian *can* technically do anything when they first convert and for a short time afterward ([Ephesians 2:8-9](https://www.bible.com/bible/206/eph.2)).
 - However, new believers will slowly discover at least some of their habits are sinful (e.g, [substance abuse](addiction.md), bad language, sexual immorality/porn, occult themes).
 - *Everything* is permissible because of Christ's sacrifice, but not everything is beneficial ([1 Corinthians 6:12](https://biblehub.com/1_corinthians/6-12.htm),[10:23](https://biblehub.com/1_corinthians/10-23.htm)).
-- The more important detail is how every [action](mind-creativity-results.md) and [habit](habits.md) you do around people could cause *them* to [sin](morality-sins.md) ([Romans 14](https://www.bible.com/bible/206/rom.14)).
+- The more important detail is how every [action](results.md) and [habit](habits.md) you do around people could cause *them* to [sin](morality-sins.md) ([Romans 14](https://www.bible.com/bible/206/rom.14)).
   - Don't use your freedom to sabotage others' spiritual journey ([1 Corinthians 8](https://biblehub.com/bsb/1_corinthians/8.htm), [1 Corinthians 10:24](https://biblehub.com/1_corinthians/10-24.htm)).
 - Loving and enduring others' weaknesses is especially critical when you don't know where they stand:
   - Specific controversial [media](creations.md) (e.g., horror movies, rock music, role-playing games, fantasy literature)
@@ -194,7 +194,7 @@ How long God's "days" were to create the universe in [Genesis 1](https://biblehu
   - They must explain how a man names all the animals, gets lonely, falls asleep, and meets a woman after waking up in one day ([Genesis 2:4-25](https://biblehub.com/bsb/genesis/2.htm)).
   - Their values also must go against atheistic science (indicated near the bottom of this page).
 - Old Earth Creationism/Theistic Evolution - God used evolution across millions of years to [design](creations.md) nature.
-  - A middle point between creationism and [evolutionary theory](science.md): God still created everything, but over a period of time reflecting science cults' [projections](imagination.md) (see below).
+  - A middle point between creationism and [evolutionary theory](science-life.md): God still created everything, but over a period of time reflecting science cults' [projections](imagination.md) (see below).
   - Indicating that God can instantly create something out of nothing, then constraining it to require millions or billions of years is a bit silly (e.g., [Omphalos Hypothesis](paradoxes.md)).
   - "Gap theory" is an in-between compromise, where God created everything as-is, but that the earth is still millions of years old after that creation.
 - One simple compromise is "day-age creationism", where the days were symbolically longer periods of time (up to millions of years), similar to how [prophecies](jesus-returns.md) are interpreted.
@@ -567,7 +567,7 @@ Heresies about human nature:
 
 - Their choice of words are often the same as the rest of Christianity, but carry an entirely different (and typically more complex) [meaning](symbols.md).
 - Most [understanding](understanding.md) of specific concepts are hidden behind dense jargon and long explanations.
-  - [Good educators](pedagogy.md) can simplify vastly complex ideas, but cults practically forbid that form of brevity.
+  - [Good educators](education.md) can simplify vastly complex ideas, but cults practically forbid that form of brevity.
 
 Cults often borrow directly from the Bible.
 

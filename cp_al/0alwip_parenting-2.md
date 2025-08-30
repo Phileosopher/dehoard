@@ -38,7 +38,7 @@ The quality of a child's upbringing starts with the quality of their parent's lo
 - Your child will model you constantly, even when you don't think they're watching you.
 - They'll inherit your [habits](habits.md), character traits, beliefs, hypocrisies, [social norms](people-rules.md), and lifestyle.
 - Children don't have any context except what they perceive, so you'll probably notice them performing many unacceptable things that are simply imitating *you*.
-- Your ability to [change](changes.md) directly determines how well your children will grow.
+- Your ability to [change](people-changes.md) directly determines how well your children will grow.
 - Even a child's *imaginary friends* teach them to socialize.
 
 Your success as a parent comes from [your success in everything else](success-1_why.md):
@@ -394,7 +394,7 @@ If you educate them correctly, they'll use school to build their skills:
 - They must understand that school is a means to a better future.
 - A child will learn the most in an educational environment where' they're having [fun](fun.md).
 - Choose their school by deciding who you trust most to teach what they need to know:
-  - If you trust yourself the most, [homeschool](pedagogy-homeschool.md).
+  - If you trust yourself the most, [homeschool](education-homeschool.md).
   - If you trust the government, send them to public school.
   - If you trust a private organization, and [can afford it](money-3_budget.md), use a private school.
   - Just remember that *you* care the most about their future and are their final authority until they're teenagers.

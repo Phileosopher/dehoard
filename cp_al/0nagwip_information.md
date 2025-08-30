@@ -24,7 +24,7 @@ Most trends have a historic precedent, where something gets done faster and bett
 
 Multiple information technologies across history have gotten us here, but the [Information Age](history-eras.md) has very little precedent. Each technology has magnified our information availability and increased its flow:
 
-1. Writing gave people the means to share and send information. Philosophers bemoaned what it did to everyone's memory, but it allowed anyone to be [educated](pedagogy.md) by long-deceased people if they knew how to read and had access to a library.
+1. Writing gave people the means to share and send information. Philosophers bemoaned what it did to everyone's memory, but it allowed anyone to be [educated](education.md) by long-deceased people if they knew how to read and had access to a library.
 2. The printing press magnified writing, and the only constraint to permitting *many* people to read was money.
 3. Photographs allowed us to send slices of time across the world, meaning we could see farther alongside [understanding](understanding.md).
 4. The telegraph made the entire exchange *instant* with small bits of that information, allowing us to act faster.
@@ -253,7 +253,7 @@ Instead, we must all be slower in our speech in small ways:
 
 If you're recommending media to others, your journey will *not* be theirs:
 
-- You'll do a better job by [distilling the best parts for them](pedagogy.md), since people often don't have time or desire for reading or watching self-help, philosophy, or textbooks.
+- You'll do a better job by [distilling the best parts for them](education.md), since people often don't have time or desire for reading or watching self-help, philosophy, or textbooks.
 - Keep your list very, very short and have a hidden extended list for the 2% who would care.
 
 *All* of this requires a specific type of humility: that [nothing is truly new](trends.md). You're not that important; nobody across the billions of people here has truly gone beyond what others ([or even God](religion.md)) have thought before.
@@ -313,7 +313,7 @@ Clearly demarcating exclusive categories (where it can *only* be one or the othe
 - Any "sporks" or "miscellaneous" elements must become new categories or sub-categories, even if not explicitly stated.
 - If the "truth" perspective starts becoming unreasonable, the entire system requires re-analysis, with the possibility of rebuilding all or part of the entire system.
 
-[Language](language.md) codifies how we [understand](understanding.md), and high-quality language builds information into as few words as reasonably possible, where the [meaning](mind-creativity-results.md) we've built directly corresponds with our [intuition](mind-feelings.md).
+[Language](language.md) codifies how we [understand](understanding.md), and high-quality language builds information into as few words as reasonably possible, where the [meaning](results.md) we've built directly corresponds with our [intuition](mind-feelings.md).
 
 Once something seeps into our subconscious, we start developing [principles](rules.md), which slowly form rules for how we should live. Over time, a type of "[mental automation](habits.md)" frees us up to better work with information.
 
@@ -556,7 +556,7 @@ Don't read things that bore you, since there's likely someone else who made a mo
 
 Practice speed-reading.
 
-- Speed-reading is easily trainable with practice, and absolutely *critical* in an [academic environment](pedagogy.md):
+- Speed-reading is easily trainable with practice, and absolutely *critical* in an [academic environment](education.md):
   - The average university student will read 6,000,000 words in 4 years, which at 250 words/min becomes 400 hours.
   - At merely 300 words/min, that reading time drops to 333.33 hours.
 - Stop mentally reading each word out loud as if you were saying it.
@@ -639,7 +639,7 @@ Most people addicted to social media are more drawn to the chance at social inte
 Most people can't reliably penetrate heavily made content because their thoughts are too busy arguing with the author to purely [understand](philosophy.md) what that person has tried to say.
 
 - Every writer, regardless of who and no matter how smart, has a distinct and specific [problem](purpose.md) they're trying to solve, which is critical to understand why they spent their time addressing a topic.
-- Often, the [cultures](culture.md) of the past can make ideas *very* impractical, though also often very [educational](pedagogy.md) about [human nature](humanity-universals.md).
+- Often, the [cultures](culture.md) of the past can make ideas *very* impractical, though also often very [educational](education.md) about [human nature](humanity-universals.md).
 
 A specialized author is generally writing for their field of expertise.
 

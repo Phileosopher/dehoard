@@ -1,7 +1,7 @@
 
 "Linux" is a broad catch-all term to represent a variety of distributions ("distros"). Officially, the term is GNU/Linux because the Linux kernel mixes with GNU.
 
-However, the demarcation between Linux/Windows/Apple isn't precise. Each operating system borrows *heavily* from the others, especially in the domain of [UX](design-uxui.md). In particular, GNU's system expands far into the realm of Windows-based operating systems, so it's not really an exclusive concept as much as [a FLOSS ideal](legal-ip-floss.md).
+However, the demarcation between Linux/Windows/Apple isn't precise. Each operating system borrows *heavily* from the others, especially in the domain of [UX](engineering-design.md). In particular, GNU's system expands far into the realm of Windows-based operating systems, so it's not really an exclusive concept as much as [a FLOSS ideal](legal-ip-floss.md).
 
 ## History
 
@@ -11,7 +11,7 @@ Later, once AT&T spun off Bell Labs, Bell was free to sell a proprietary license
 
 In 1983, Richard Stallman created the GNU Project, which aimed to create an entire Unix-compatible software system made of nothing but [free software](legal-ip-floss.md). GNU stands for "GNU is Not Unix", which is a [programmer joke](humor-cs.md) about [recursions](programming-basics.md), and he wrote [the GNU Manifesto](https://www.gnu.org/gnu/manifesto) to rally support for a completely free operating system.
 
-Many of the programs for a fully-functioning Unix "clone" were completed by the early 1990s ([libraries](programming-basics.md), [compilers](computers-compilers.md), [text editors](computers-software-ide.md), a [command-line shell](computers-cli.md), and a [windowing system](graphics.md)). However, the lower-level elements like device drivers, daemons, and the kernel were incomplete.
+Many of the programs for a fully-functioning Unix "clone" were completed by the early 1990s ([libraries](programming-basics.md), [compilers](computers-compilers.md), [text editors](computers-software-ide.md), a [command-line shell](computers-cli.md), and a [windowing system](engineering-graphics.md)). However, the lower-level elements like device drivers, daemons, and the kernel were incomplete.
 
 In 1991, Linus Torvalds decided to make a free version of that kernel, then released it publicly on his university's internet forum. It ended up taking off *way* more than he expected, and it quickly outpaced adoption compared to *everything* else Unix-related.
 
@@ -148,7 +148,7 @@ It's a wasted effort to cover all the inspirations for each distro, since they b
 
 ## Unix-likes
 
-OS frameworks that originated from Unix all have a similar-enough experience to make the user [feel at home](design-uxui.md) when swapping back-and-forth between them, including using many of the same [commands](computers-cli.md). To that end, the broad catchall term is "Unix-likes".
+OS frameworks that originated from Unix all have a similar-enough experience to make the user [feel at home](engineering-design.md) when swapping back-and-forth between them, including using many of the same [commands](computers-cli.md). To that end, the broad catchall term is "Unix-likes".
 
 Apple also uses a Unix framework, for both MacOS and iOS, but its key difference is that it's a hybrid of a ["monolithic kernel" and "microkernel"](computers-os.md), while Linux is *strictly* a monolithic kernel.
 
@@ -164,7 +164,7 @@ Linux is lightweight, so it's excellent for low-profile computers, and is even c
 
 However, unlike [Windows](computers-os-windows.md), Linux has *also* become more consistently reliable.
 
-The largest failure within Linux is tied to its [UX](design-uxui.md). For the most part, its [GUI](graphics.md) commands convert to [console commands](computers-cli.md), meaning any sufficient experience with Linux often requires accessing a terminal. This creates [a learning curve beyond the aptitude of some people](computers.md).
+The largest failure within Linux is tied to its [UX](engineering-design.md). For the most part, its [GUI](engineering-graphics.md) commands convert to [console commands](computers-cli.md), meaning any sufficient experience with Linux often requires accessing a terminal. This creates [a learning curve beyond the aptitude of some people](computers.md).
 
 ## Additional reading
 

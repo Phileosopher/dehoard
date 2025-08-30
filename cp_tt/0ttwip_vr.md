@@ -3,13 +3,13 @@ As a concept, "virtual reality" (VR) is highly contextual to the culture that in
 
 - Augmented reality is essentially reality, but with adaptations to it (e.g., an overlay on top of what you see).
 - Mixed reality is still reality, but a hybrid of reality and simulation (e.g., a sculpture that has virtual elements).
-- Spatial computing is the domain of computing, but with *much* more space involved (i.e., the functions of a 3-dimensional [screen](computers-screen.md)).
+- Spatial computing is the domain of computing, but with *much* more space involved (i.e., the functions of a 3-dimensional [screen](engineering-screen.md)).
 - Virtual worlds are built around the idea of *completely* removing someone entirely from reality.
 
 VR depends on multiple other technologies to reproduce reality:
 
-1. A [screen](computers-screen.md) to clearly display something that looks like reality.
-   - This has been reproduced fully and precisely, and the [graphics](graphics.md) will always keep improving.
+1. A [screen](engineering-screen.md) to clearly display something that looks like reality.
+   - This has been reproduced fully and precisely, and the [graphics](engineering-graphics.md) will always keep improving.
 2. Binaural [audio](computers-speakersmic.md) that clearly and accurately indicates direction.
    - This is pitch-perfect to reality, and there's not much necessary to develop in this domain.
 3. A means for the user to smell what they're experiencing.
@@ -69,7 +69,7 @@ AR uses several approaches to track reality:
 
 One of the most common uses of VR is "virtual try-ON" (VTON), which allows someone to test how a product will look before purchasing it.
 
-One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-4_health.md) and [education](pedagogy.md).
+One very interesting reality about VR is that it triggers the same space-based theta waves [in the brain](science-neurology.md) as if the person were actually present somewhere. Someone who [becomes familiarized](understanding.md) with the technology can effectively [imagine](imagination.md) the experience so heavily that their mind creates the illusion that they're actually there. This can have tremendous implications for [therapeutic healthcare](body-4_health.md) and [education](education.md).
 
 VR also can serve as an effective [exercise aide](body-3_exercise.md), especially for people who otherwise would *not* exercise.
 
@@ -79,7 +79,7 @@ As close as we've come to imitating reality, there are issues with VR.
 
 Firstly, the hardware has issues:
 
-- The screen on a standard HMD is 120 FPS, and it's right in the person's face. This can create *awful* consequences for anyone susceptible to motion sickness from high-frame rate [screens](computers-screen.md).
+- The screen on a standard HMD is 120 FPS, and it's right in the person's face. This can create *awful* consequences for anyone susceptible to motion sickness from high-frame rate [screens](engineering-screen.md).
 - For people who wear glasses, VR headsets are awkward and uncomfortable to work with, though you can get prescription glasses *for* the headset directly.
 - The hardware is often very finicky, and all the cameras and screen lenses *must* be regularly wiped to prevent dust and oil interfering with the inputs.
 - HMDs can get very heavy after keeping it on your face for a few hours, and it can cause chronic strain.
@@ -87,15 +87,15 @@ Firstly, the hardware has issues:
 The software is often poorly designed as well:
 
 - Most VR designers have competing ideas on how to approach the concept, and each variation of the product requires a new [learning curve](understanding.md) to adapt to it.
-- Since they're frequently accompanied by new input devices as well, most of them haven't adopted decent-quality [UX](design-uxui.md) for navigation.
+- Since they're frequently accompanied by new input devices as well, most of them haven't adopted decent-quality [UX](engineering-design.md) for navigation.
 - Many of them don't have critical features like built-in focus-adjustment or the means to use a [keyboard](computers-keyboard.md) and [mouse](computers-mouse.md).
-- Most of the software is *not* backwards-compatible with a [conventional screen](computers-screen.md), which can severely limit the user's options if they wish to display something.
+- Most of the software is *not* backwards-compatible with a [conventional screen](engineering-screen.md), which can severely limit the user's options if they wish to display something.
 
 The hype around VR is overblown as well. Like other [trendy tech things](trends.md), it may be really *neat*, but it doesn't necessarily fulfill a clear *need*. It doesn't help that the market is small enough that the [marketing](marketing.md) never distinguishes clear product lines that focus on specific needs:
 
 - Gamers want *extremely* reliable feedback and *complete* immersion, which means the experiences should rival or overshadow what reality can provide.
 - Business professionals don't care much about immersion, but want it to be *very* reliable, since they need to know it'll work for their collaborative needs.
-- Artists and creatives want something that can make them more efficient, don't care as much about reliability, and would prefer high-quality [UX](design-uxui.md).
+- Artists and creatives want something that can make them more efficient, don't care as much about reliability, and would prefer high-quality [UX](engineering-design.md).
 - Engineers and programmers want feedback *much* more than immersion, since they're designing highly technical things and want to know if something goes wrong. Most of them, as well, aren't as obsessed with reliability.
 
 Given that VR headsets collect a *lot* more data than a typical computer, any [data collection abuse](faang.md) issues by large organizations can be exponentially worse.

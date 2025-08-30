@@ -102,7 +102,7 @@ As of this writing, Windows still dominates the majority of the market. Here are
 
 - If there's any stock software the OS came with (such as a [file manager](computers-files.md) or software-based [keyboard](computers-keyboard.md)), *do not uninstall it*. If you want something new, simply install the new one and use it.
 - Don't bother trying to run a common Windows-based software (e.g., Microsoft Office). You *can* use the Windows emulator (called "Wine"), but you'll have a better time finding a Linux-based alternative.
-- Most of the Linux-based [UI](design-uxui.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
+- Most of the Linux-based [UI](engineering-design.md) lacks polish, but does the job relatively well. You'll find much more satisfaction if you observe the features those things have that proprietary software *doesn't* have.
 - Websearch frequently what you don't know. Your lack of knowledge isn't new, and there's usually an answer somewhere about it.
 
 Most "original equipment manufacturers" (OEMs) that come with [Windows](computers-os-windows.md) do *not* consider that you'd want to install Linux or dual-boot. Usually, you'll first need to find a way into the BIOS, then boot from a USB drive. If you're dual-booting, you may need to select the boot menu *every time*.

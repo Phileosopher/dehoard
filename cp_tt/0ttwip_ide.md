@@ -38,7 +38,7 @@ However, it also had a very important detail: it was built primarily around exte
 
 [Sublime Text](https://www.sublimetext.com/), released in 2008, was "cross-platform" and could run on [Linux](computers-os-unix.md) and [Windows](computers-os-windows.md) instead of simply MacOS. However, it cleaned up TextMate's limits:
 
-- [Linters](computers-software-redesign.md) with [GUI](graphics.md) components - allowed programmers to visually see what they're failing at before runtime.
+- [Linters](computers-software-redesign.md) with [GUI](engineering-graphics.md) components - allowed programmers to visually see what they're failing at before runtime.
 - Package control - made it straightforward to browse, install, and update extensions, which *every* IDE afterward would adopt.
 
 However, Sublime Text didn't have package control built-in, and some GUI elements weren't very optimized (because they used custom calls in [Python](computers-languages.md), which isn't very scalable).

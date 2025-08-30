@@ -245,7 +245,7 @@ Respond to the world's attacks with Christ-like behavior:
 12. Anticipate that the world will hate, [misrepresent](image.md), [misunderstand](understanding.md), misquote, and alienate you.
     - Let your good conduct and works testify for you ([1 Peter 2:12](https://biblehub.com/1_peter/2-12.htm)).
     - Let the Holy Spirit say what He wants to say in that hour ([John 14:26](https://biblehub.com/john/14-26.htm)).
-    - You can't [change their minds](changes.md) any more than they want.
+    - You can't [change their minds](people-changes.md) any more than they want.
 
 The *specifics* on how believers can stand against authority depends heavily on [personality](personality.md) and skill, but falls under a few general themes.
 
@@ -324,7 +324,7 @@ Beware of the "moment of crisis":
 - At that moment, the Holy Spirit is with us, as well as other believers in spirit ([Romans 8:38-39](https://biblehub.com/bsb/romans/8.htm)).
 - Never forget that our spiritual inheritance is stored in heaven, so a breakdown of faith doesn't necessarily mean we lose our salvation ([1 Peter 1:4](https://biblehub.com/1_peter/1-4.htm)).
 - If we can get past that moment of crisis, our faith will be *dramatically* refined!
-- Once that happens, the torturer will give up or kill us, since they now know they can't [change](changes.md) us anymore.
+- Once that happens, the torturer will give up or kill us, since they now know they can't [change](people-changes.md) us anymore.
 
 ## Persecution is standard
 

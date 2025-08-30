@@ -39,7 +39,7 @@ Most people want a life partner, but it comes with many risks:
 
 Your ideal mate will *always* have certain characteristics:
 
-- They're willing to [change](changes.md), regardless of risks.
+- They're willing to [change](people-changes.md), regardless of risks.
 - They openly [communicate](language-speaking.md) their [issues](people-5_conflicts.md) and concerns with you.
 - You can trust them, with proven stories of their loyalty.
 - You share a natural intimacy with them ("chemistry").

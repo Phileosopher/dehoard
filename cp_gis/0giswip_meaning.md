@@ -8,13 +8,13 @@ Our indirect sense of meaning comes through relationships. It can be [God](relig
 The direct sense of meaning we have control over is derived from [purposes](purpose.md) through a sense of responsibility. Broadly, responsibility is a series of elements:
 
 1. Having the capacity to make [decisions](decisions.md)...
-2. ...which create [actions](mind-creativity-results.md), which may simply be thoughts...
+2. ...which create [actions](results.md), which may simply be thoughts...
 3. ...which accomplish a [purpose](purpose.md) directed toward an object.
 4. We've [predicted](imagination.md) the purpose will create [value](values.md) for a living thing, either directly or indirectly.
-5. We [believe](understanding-certainty.md) our decision changed the [consequence](mind-creativity-results.md).
+5. We [believe](understanding-certainty.md) our decision changed the [consequence](results.md).
 6. The decision we made should have either prevented a potential [loss](mind-feelings-fear.md) or suffering or increased [satisfaction](https:/adequate.life/happiness-1/).
 
-The word "responsible", as used here, is referring specifically to the above. There is often a *different* meaning for the word that means "worthy of blame", and is a matter of [consequences](mind-creativity-results.md) (which we can never be entirely responsible for).
+The word "responsible", as used here, is referring specifically to the above. There is often a *different* meaning for the word that means "worthy of blame", and is a matter of [consequences](results.md) (which we can never be entirely responsible for).
 
 Responsibility-based meaning doesn't necessarily come from legitimately changing [reality](reality.md), but instead from the *[appearance](image.md)* of having changed reality. We measure it by whether we [feel](mind-feelings.md) accomplishment.
 
@@ -36,7 +36,7 @@ Every second, our responsibility-based meaning is subject to change. It can shif
 
 The problem with responsibility is that there are *always* [risks](socialrisk.md), which can be [scary](mind-feelings-fear.md). Taking risks is difficult to start, so it's not unnatural for people to run away from it.
 
-Most people run from risks, at least up to a point. When pushed enough by exposure to enough [evil](morality-evil.md) or [hardship](hardship.md), a small percentage of people will oppose the abdication of responsibility and push back. If those people, at that moment, are driven by a [principle](values.md) or the [results](mind-creativity-results.md), they will find more meaning than the rest of the population.
+Most people run from risks, at least up to a point. When pushed enough by exposure to enough [evil](morality-evil.md) or [hardship](hardship.md), a small percentage of people will oppose the abdication of responsibility and push back. If those people, at that moment, are driven by a [principle](values.md) or the [results](results.md), they will find more meaning than the rest of the population.
 
 Even without that provocation, anyone will turn around and pursue the difficult things when they realize that we find meaning out of the challenge itself. Except for cats, animals prefer to hunt their food than have it given to them.
 
@@ -46,7 +46,7 @@ We're not [morally obligated](morality.md) to find happiness, but we *are* respo
 
 When people run from risks long enough to make it a [habit](habits.md), they lose control of themselves. At this point, it's straightforward for them to [feel](mind-feelings.md) they're a victim. In some ways, they're correct, especially if their [family of origin](people-family.md) hadn't taught them how to be responsible.
 
-The one benefit to being a victim is that there's no need to personally [change](changes.md). Unfortunately, it leads to a life of existential misery, and typically leads to even more [hardship](hardship.md), since a person will feel more loss from their bad [decisions](decisions.md) over the same experience coming by outside [coercion](power.md).
+The one benefit to being a victim is that there's no need to personally [change](people-changes.md). Unfortunately, it leads to a life of existential misery, and typically leads to even more [hardship](hardship.md), since a person will feel more loss from their bad [decisions](decisions.md) over the same experience coming by outside [coercion](power.md).
 
 The only way to get out of an unpleasant situation is to claim responsibility of what we should have done and still have control over. This can express as performing [basic housekeeping](home-housekeeping.md) or finding something that makes us [happy](mind-feelings-happiness.md).
 
@@ -56,13 +56,13 @@ Some people imagine a broadened scope of existence (e.g., a million years) makes
 
 We don't find much meaning in the fulfillment of the things we want. Generally, shortly after we celebrate [attaining those things](success-1_why.md), we look immediately for something else to fulfill us. However, we anticipate that we will find *spectacular* meaning in things we do as we [imagine](imagination.md) it in the future.
 
-The pathway to fulfilling a [purpose](purpose.md) is *far* more [influential](influence.md) to our sense of meaning than actually getting there. The only requirement is that we [feel](mind-feelings.md) we're making progress toward it, which is usually possible as long as we [hope](understanding-certainty.md) it [can happen](mind-creativity-results.md), and it's much easier to maintain hope when we can't [measure](math.md) our goals.
+The pathway to fulfilling a [purpose](purpose.md) is *far* more [influential](influence.md) to our sense of meaning than actually getting there. The only requirement is that we [feel](mind-feelings.md) we're making progress toward it, which is usually possible as long as we [hope](understanding-certainty.md) it [can happen](results.md), and it's much easier to maintain hope when we can't [measure](math.md) our goals.
 
 Once we've attained something, we're guaranteed to get bored. The only way we'll ever find purpose that provides meaning *after* building something is to find new [purposes](purpose.md) to attain.
 
 Ironically, we can find meaning through mindless [habits](habits.md) of hope in things that do *not* contribute whatsoever to a better existence. This distorts the [good life](goodlife.md), since there's only marginal [love](people-love.md) for oneself without producing any tangible benefit to anyone.
 
-Too much [specialization](jobs-spcialization.md) (which often creates the greatest [consequences](mind-creativity-results.md) for a purpose) can also lead to feelings of meaninglessness.
+Too much [specialization](jobs-spcialization.md) (which often creates the greatest [consequences](results.md) for a purpose) can also lead to feelings of meaninglessness.
 
 To clarify, though, the greatest meaning comes through genuine, heartfelt, purely selfless [love](people-love.md) shared with others.
 
@@ -78,11 +78,11 @@ To find meaning, start with what you can control, then [link it together](mind-c
 
 Just because we have meaning right now, or have had it for a long time, does *not* mean we'll have it in the future. It requires constantly observing our sense of dissatisfaction to observe that shift, but we'll also detect it when we start doing things with less enthusiasm.
 
-We typically find meaning in something, then forget to continue adding meaning. This creates challenges as we [change](changes.md) and convert those meaningful tasks into [habits](habits.md), frequently culminating in a spark of awareness (e.g., a midlife crisis).
+We typically find meaning in something, then forget to continue adding meaning. This creates challenges as we [change](people-changes.md) and convert those meaningful tasks into [habits](habits.md), frequently culminating in a spark of awareness (e.g., a midlife crisis).
 
-Enjoyment in something isn't in the attainment, but the effort and [expected results](mind-creativity-results.md). For that reason, accomplishing challenging and relatively unnoticed things that help others is far more rewarding than simply acquiring or achieving more.
+Enjoyment in something isn't in the attainment, but the effort and [expected results](results.md). For that reason, accomplishing challenging and relatively unnoticed things that help others is far more rewarding than simply acquiring or achieving more.
 
-Video games give the [appearance](image.md) of creating results from actions, so they can still provide a sense of meaning even when there aren't any legitimate [results](mind-creativity-results.md).
+Video games give the [appearance](image.md) of creating results from actions, so they can still provide a sense of meaning even when there aren't any legitimate [results](results.md).
 
 It's perfectly possible (and not uncommon) to become wildly [successful](success-1_why.md) and feel absolutely dead inside. It comes through a distinct absence of [love](people-love.md) for others.
 

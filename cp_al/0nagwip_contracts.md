@@ -34,7 +34,7 @@ The durability of a contract comes from how much both sides view it as fair. If 
 
 ## Methods
 
-One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](reality.md)*, *[actions](mind-creativity-results.md)*, and *[ideas](values.md)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](rules.md).
+One significant distinction of a contract is that it doesn't exist as a document. Any legal document to indicate a contract is a "negotiable instrument" that simply states what's happening, and the actual *[things](reality.md)*, *[actions](results.md)*, and *[ideas](values.md)* are the contract itself. All of this is framed under the "legal instruments" of a [nation's laws](rules.md).
 
 When most people think of contracts, they're usually thinking of "standard" contracts, where one party has set all the terms and conditions, and the other party has agreed and signed it with very little negotiation or review. Standard contracts can represent *many* domains of a typical person's life:
 
@@ -315,7 +315,7 @@ While lawyers don't concern themselves as much with the [economics](economics.md
 4. Expertise fee, which covers the specialized skills they wouldn't be able to perform.
 5. Black market or legal fee, which comes through scarcity from [legal constraints](legal-safety.md).
 
-By implication, most contracts are performed in "good faith", where there's [mutual trust](trust.md) that the other party will try to create advantageous [results](mind-creativity-results.md) for the other. Without that trust, there's no contract.
+By implication, most contracts are performed in "good faith", where there's [mutual trust](trust.md) that the other party will try to create advantageous [results](results.md) for the other. Without that trust, there's no contract.
 
 Unfortunately, clarifying whether someone was consenting freely without undue influence or misrepresented facts can be *very* difficult later, which is another major duty for lawyers to wrestle with it.
 

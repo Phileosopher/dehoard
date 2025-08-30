@@ -1,7 +1,7 @@
 
 The electronic gaming industry is *huge*. It's been pulling in more money than movies for some time now, and as technological implementations like ever-increasing [processing power](computers-cpu.md) and [VR](computers-vr.md) become more affordable, it's only a matter of time before games become the primary medium of electronic entertainment.
 
-Once technology opens up AR (augmented reality) interfaces, game design directly corresponds to real-world implementations. Further, the technology that feeds into games (e.g., [graphics](graphics.md) software) often feeds into other more practical outputs, such as [3D printing](computers-printers.md) and [general-purpose AI](computers-ai.md).
+Once technology opens up AR (augmented reality) interfaces, game design directly corresponds to real-world implementations. Further, the technology that feeds into games (e.g., [graphics](engineering-graphics.md) software) often feeds into other more practical outputs, such as [3D printing](computers-printers.md) and [general-purpose AI](computers-ai.md).
 
 * * * * *
 
@@ -16,7 +16,7 @@ While it wasn't distributed commercially for a few years, *technically* the firs
 - Video games were more interactive and had a lightweight learning curve (e.g., Combat, Space Invaders, Adventure).
 - Computer games were more challenging to master and required more reading (e.g., Zork).
 
-The 1970s represented some pioneering ideas in gaming, mostly dominated by Atari. However, processor limitations left the UX somewhat lacking, and the most timeless experiences from that era came through [vector graphics](graphics.md) (e.g., Missile Command, Asteroids, Battlezone).
+The 1970s represented some pioneering ideas in gaming, mostly dominated by Atari. However, processor limitations left the UX somewhat lacking, and the most timeless experiences from that era came through [vector graphics](engineering-graphics.md) (e.g., Missile Command, Asteroids, Battlezone).
 
 In the early 1980's, the graphics *heavily* improved, meaning that the visual elements started looking a bit more like what they were supposed to represent:
 
@@ -216,7 +216,7 @@ For a long time, PC titles were lagging behind video games' graphics. Mostly, th
 
 Now, PC gaming has effectively taken over the dedicated graphical experience of video games, for multiple reasons:
 
-- [Graphics](graphics.md) technology has largely slowed down now that it's reached a hard limit. More cores is possible, but ~3.8 GHz is a core's electrical limit before the heat sink is no longer economically feasible. This makes the technology generally more homogenous for developers to build.
+- [Graphics](engineering-graphics.md) technology has largely slowed down now that it's reached a hard limit. More cores is possible, but ~3.8 GHz is a core's electrical limit before the heat sink is no longer economically feasible. This makes the technology generally more homogenous for developers to build.
 - PCs have certain advantages over consoles including personal freedom in choice of gaming peripheral, the multi-use nature of a PC versus dedicated gaming hardware, online download services like [Steam's](http://store.steampowered.com/), [GOG's](http://gog.com/), and [Epic Games'](http://epicgames.com/) that give a wider variety of playable titles than a console could provide, and even the freedom to [emulate](computers-distsys-vm.md) game consoles directly.
 - The power of typical graphics cards peripherals for PCs are more-or-less the same price/power ratio as many game consoles.
 - All the developers use mostly the same tools for different platforms, so console-exclusive titles are slowly becoming a fading trend from the lost profits that could have come from porting to PC, though Nintendo has still been holding out as of 2023.
@@ -227,8 +227,8 @@ Now, PC gaming has effectively taken over the dedicated graphical experience of 
 
 Game development is all effective aspects of [software development](computers-software-design.md), but requires *many* [specialized](jobs-specialization.md) roles that would otherwise be optional or unnecessary in most other software domains:
 
-- Direct game designers, which can branch out into gameplay, levels, monetization, [usability/UI](design-uxui.md), cinematic cutscenes, [narrative](stories.md), [writing](language-writing.md), and [missions/quests](purpose.md).
-- Programming roles that branch out into all standard software development, including [graphics](graphics.md), [animation](art.md), [AI](computers-ai.md), [servers](computers-distsys.md), physics, pipeline engineers, build engineers, testing, visual effects, databases, [language-specific](computers-languages.md) roles, and roles specific to game engines.
+- Direct game designers, which can branch out into gameplay, levels, monetization, [usability/UI](engineering-design.md), cinematic cutscenes, [narrative](stories.md), [writing](language-writing.md), and [missions/quests](purpose.md).
+- Programming roles that branch out into all standard software development, including [graphics](engineering-graphics.md), [animation](art.md), [AI](computers-ai.md), [servers](computers-distsys.md), physics, pipeline engineers, build engineers, testing, visual effects, databases, [language-specific](computers-languages.md) roles, and roles specific to game engines.
 - A wide variety of [art](art.md) roles including 2D and 3D versions of environments, animation, rigging, motion capture, textures, lighting, 2D characters, 2D concept art, 3D camera, storyboarding, and both UI *and* UX.
 - [Quality assurance](computers-software-redesign.md) roles, especially play testing.
 - All aspects of [management](mgmt-1_why.md), for *everyone*, with subdivisions for product management and studio administration.
@@ -240,13 +240,13 @@ To that end, most game development takes a *lot* of money and time, often by a f
 
 Gaming computers are the most expensive consumer-grade computers on the market, and why they tend to push hardware to their limits. This is because game development is the pinnacle of high-quality software development, for several reasons:
 
-1. The [visual elements](design-uxui.md) are usually far more [vast](graphics.md), and the designers need to worry about both animation *and* static elements.
+1. The [visual elements](engineering-design.md) are usually far more [vast](engineering-graphics.md), and the designers need to worry about both animation *and* static elements.
 2. The [audio](computers-speakersmic.md) must be synchronized to the visual experience, so it has to be correctly designed, from the sound effects to the soundtrack.
 3. Games require *immediate* feedback from the input peripherals (such as the [keyboard](computers-keyboard.md) or [mouse](computers-mouse.md), and now [VR](computers-vr.md)). While people can endure a 1-second delay in many other programs, 0.1 seconds is enough to make a janky game.
 4. For many games, you need an elaborate [mathematical framework](programming-algorithms.md) to keep all the visual and audio elements working in tandem. This is *much* more than most other programs.
-5. Across the internet, the demand for rapid-response [networking](networks-computer.md) in many genres is a perpetual need, for *both* player input and [visual output](computers-screen.md).
+5. Across the internet, the demand for rapid-response [networking](networks-computer.md) in many genres is a perpetual need, for *both* player input and [visual output](engineering-screen.md).
 6. In multiplayer games that need computer players (e.g., a 2v2 game with 3 humans), the [AI](computers-ai.md) has to have enough logic to permit the player to feel like the "bot" is human-like.
-7. [Graphics](graphics.md) technology is often driven by large-scale game developers, who build incredibly elaborate designs for their games that need ever-increasing [processing power](computers-cpu.md). This ranges from the character designs all the way to expansive and beautiful "skyboxes" and long-distance rendering to recreate extremely large worlds.
+7. [Graphics](engineering-graphics.md) technology is often driven by large-scale game developers, who build incredibly elaborate designs for their games that need ever-increasing [processing power](computers-cpu.md). This ranges from the character designs all the way to expansive and beautiful "skyboxes" and long-distance rendering to recreate extremely large worlds.
 
 This means you need *lots* of processing power to make sure it stays above 30-60 FPS (frames per second). Most modern games require a dedicated GPU (i.e., a CPU that only processes graphics) strictly for this reason.
 
@@ -266,7 +266,7 @@ Instead of using a server that holds the information, games on computers can syn
 
 But, networks are still slow, relatively speaking. So, there's still a delay in the "netcode". There are two ways to deal with this.
 
-Delay-based netcode will intentionally slow down the input from registering on the frame it was used. Instead, it'll update a few frames later (each frame represents [~1/60 of a second](computers-screen.md)). While a few people well-trained in games may notice the delay, clever game design and the delay staying consistent make delay-based netcode work fine. Unfortunately, networks are rarely consistent: any slowdown in the network will slow the game down, even with plenty of tricks that predict network behavior, and physical distance will have a profound impact on gameplay.
+Delay-based netcode will intentionally slow down the input from registering on the frame it was used. Instead, it'll update a few frames later (each frame represents [~1/60 of a second](engineering-screen.md)). While a few people well-trained in games may notice the delay, clever game design and the delay staying consistent make delay-based netcode work fine. Unfortunately, networks are rarely consistent: any slowdown in the network will slow the game down, even with plenty of tricks that predict network behavior, and physical distance will have a profound impact on gameplay.
 
 Rollback netcode is designed to uniquely deal with network uncertainty:
 
@@ -299,7 +299,7 @@ Games are a unique medium compared to books, audio, and movies because it's the 
 
 - The only exception to this is specific game genres (e.g., visual novels, some [VR experiences](computers-vr.md)), but advancing the interface doesn't define as a "game" (i.e., there should be a capacity for [making decisions](decisions.md)).
 
-Game [UX](design-uxui.md) should be non-intrusive, where the user will feel or observe what they should do *without* explicit instruction. To avoid text boxes with instructions or written signage, there are several tools to guide the player:
+Game [UX](engineering-design.md) should be non-intrusive, where the user will feel or observe what they should do *without* explicit instruction. To avoid text boxes with instructions or written signage, there are several tools to guide the player:
 
 1. Place desirable items to direct the player where they should go (e.g., a healing potion located near the next important passageway).
 2. Use "non-diegetic" lighting to indicate what the player should interact with (e.g., a lever has a flashing effect on it).
@@ -379,7 +379,7 @@ To advance the game's events, there's an invisible box in the game world called 
 
 ## Industry competition
 
-Designing a good game requires [graphics development](graphics.md), both in 2D and 3D, as well as tons of [programming](programming-basics.md), but much of it is automated. It once required direct programming for just about everything, meaning it used to be *far* more challenging.
+Designing a good game requires [graphics development](engineering-graphics.md), both in 2D and 3D, as well as tons of [programming](programming-basics.md), but much of it is automated. It once required direct programming for just about everything, meaning it used to be *far* more challenging.
 
 Today's game development has many drag-and-drop interfaces that turn game programming into far more of a dynamic moving visual art than simply a highly-involved domain of [software development](computers-software-design.md).
 
@@ -408,9 +408,9 @@ The electronic games industry has gone through many [trends](trends.md) that no 
 
 To change difficulty or configurations in the early 1980s, Atari games had simple toggle switches before starting a game that required [documentation](language-writing-documentation-cs.md) to decipher. By the 1990s, this difficulty switch eventually dissolved to an Easy/Medium/Hard selection when starting a game, and became an obscure feature hidden in the settings by the 2010s or simply nonexistent.
 
-For some time in the mid-1990s, game installers took advantage of multimedia graphics, and started the [UX](design-uxui.md) into the game as soon as someone inserted a disc. The Command & Conquer: Red Alert game may have been the most interesting one, with [full animations of a rocket going through stages of loading for getting fired as the installation progressed](https://www.youtube.com/watch?v=Ri-VlJVxc-g).
+For some time in the mid-1990s, game installers took advantage of multimedia graphics, and started the [UX](engineering-design.md) into the game as soon as someone inserted a disc. The Command & Conquer: Red Alert game may have been the most interesting one, with [full animations of a rocket going through stages of loading for getting fired as the installation progressed](https://www.youtube.com/watch?v=Ri-VlJVxc-g).
 
-In the mid-1990s, game CDs had a then-staggering memory capacity, so full-motion [video](graphics.md) could fit on it (though it was pretty lame at first). One form of game was called QuickTime events, named after Apple's then-new QuickTime protocol. The idea was that a full video would play, and the player would have to press a button when prompted. The pinnacle games of this were Dragon's Lair and Night Trap that were literally *nothing* but QuickTime events. They weren't particularly fun to play, but were novel enough to draw attention.
+In the mid-1990s, game CDs had a then-staggering memory capacity, so full-motion [video](engineering-graphics.md) could fit on it (though it was pretty lame at first). One form of game was called QuickTime events, named after Apple's then-new QuickTime protocol. The idea was that a full video would play, and the player would have to press a button when prompted. The pinnacle games of this were Dragon's Lair and Night Trap that were literally *nothing* but QuickTime events. They weren't particularly fun to play, but were novel enough to draw attention.
 
 [Memory](computers-memory.md) constraints limited most games in the early and mid 1980s, so they all had some relatively similar features. Later games (especially after the 2010s) would imitate them for nostalgic/artistic effect:
 
@@ -424,7 +424,7 @@ Shortly after the grungy, disgusting trend, games pivoted hard into the other en
 
 Online games tend to use "leaderboards", online high score systems that track *everyone* who played the game. Since this number can be thousands or a few hundred thousand players, it's not particularly enjoyable for most players, and most leaderboards eventually devolve into [hackers](hacking.md) who exploited the game to achieve an inhumanly high score.
 
-Since the late-2000's, most [graphics](graphics.md) trends have moved toward trying to reproduce the constraints and artifacts from video [cameras](camera.md). This trend hasn't stopped yet as of 2023, and has even gone as far as reproducing grit and water spots on the screen, which destroys the immersion of controlling a proxy character.
+Since the late-2000's, most [graphics](engineering-graphics.md) trends have moved toward trying to reproduce the constraints and artifacts from video [cameras](camera.md). This trend hasn't stopped yet as of 2023, and has even gone as far as reproducing grit and water spots on the screen, which destroys the immersion of controlling a proxy character.
 
 One trend that started around the time Fortnite became popular in the late-2010's is to release the multiplayer game for free, then charge for the single-player experience. This allows the developer to collect user data, both to [reconfigure](computers-software-redesign.md) the software to make it more addicting or to [sell the data outright](faang.md).
 

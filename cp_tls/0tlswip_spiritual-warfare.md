@@ -66,7 +66,7 @@ Before anything else, the Satan traps people with their sins and idols:
 
 The Satan tries to interest people in self-glorifying religion:
 
-- Outside their [fruits](mind-creativity-results.md), self-worship is difficult to distinguish from people who love God:
+- Outside their [fruits](results.md), self-worship is difficult to distinguish from people who love God:
   - They declare their belief in Jesus ([James 2:19](https://biblehub.com/james/2-19.htm)).
   - They act in the name of Jesus ([Matthew 7:21-23](https://biblehub.com/bsb/matthew/7.htm)).
   - If they [teach](spiritual-discipleship.md), they'll mislead people from the truth ([Matthew 24:10-11](https://biblehub.com/bsb/matthew/24.htm)).

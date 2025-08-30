@@ -1,5 +1,5 @@
 
-We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](mind-creativity-results.md) of [decisions](decisions.md).
+We're all born free, at least somewhat. Most of the restrictions we must abide by are imposed by the people around us, starting with our [guardians](people-family.md). This freedom includes the ability to [create](creations.md) and reap [consequences](results.md) of [decisions](decisions.md).
 
 People with authority can only grant freedom, but can't impose it. Freedom is a mentality that someone has the ability to explore their [purposes](purpose.md), so it needs both someone's authority to bestow it and the recipient to use it. However, authorities *can* impose justice.
 
@@ -20,7 +20,7 @@ Authorities reserve the [moral](morality.md) use of justice to give or take away
 
 Authorities' judgments will never be [compassionate](people-love.md), at least not in how they're delivered. The most well-behaved of humanity is often abused by the worst-behaving, so fair judicial systems deliver equal retribution for their behavior. The only way to make it fairer is to verify exactly *what* people were thinking as they acted, but [it won't give the victims any closure either way](hardship-ptsd.md).
 
-There are only a few forms of delivering justice, and it's based on desired [consequences](mind-creativity-results.md) for the aggressor:
+There are only a few forms of delivering justice, and it's based on desired [consequences](results.md) for the aggressor:
 
 - Restorative justice focuses on providing healing and recovery for the victims of a crime. The result will be relatively weak punishments designed to direct resources to the people who were harmed.
 - Retributive justice focuses on delivering punishment for the crime itself. The result will be harsher punishments designed to deter others from ever considering doing the same action (i.e., "deterrence principle").
@@ -38,7 +38,7 @@ Court [decisions](decisions.md) often become [laws](rules.md), which impact *way
 
 While [morality](morality.md) in a courtroom is grounded in a unique [story](stories.md) with a prosecutor and defendant, [laws](rules.md) must remove those stories to stay fair to all instances.
 
-Thus, *[how](logic.md)* a ruling was decided is just as important as *[what](mind-creativity-results.md)* the ruling was in the first place.
+Thus, *[how](logic.md)* a ruling was decided is just as important as *[what](results.md)* the ruling was in the first place.
 
 This becomes complicated to track when skillful lawyers use those rules to navigate the [best interests](purpose.md) of their clients, irrespective of [morality](morality.md) altogether.
 
@@ -75,7 +75,7 @@ One mistake many people make is to confuse helplessness with innocence, especial
 Society's definition of "fair" or "equality" is often unclear:
 
 - Equal [value](values.md) means each person is regarded as inherently valuable, but never addresses their needs.
-- Equal [opportunity](power.md) means everyone can create [results](mind-creativity-results.md) they [imagine](imagination.md), but it won't be equal [status](image.md) at the end.
+- Equal [opportunity](power.md) means everyone can create [results](results.md) they [imagine](imagination.md), but it won't be equal [status](image.md) at the end.
 - Equal [status](image.md) means anyone achieving a [purpose](purpose.md) to gain [power](power.md), for any [reason](purpose.md), will be thwarted to maintain that status.
 - Equal retribution means "eye for an eye", but doesn't consider how anyone could [feel](mind-feelings.md) with the arrangement.
 

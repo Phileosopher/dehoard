@@ -17,7 +17,7 @@ Most people who [highly value](understanding-certainty.md) math have a difficult
 
 Math is incredibly useful for us to find [patterns](symbols.md) in the world around us. It's the ultimate means of attaining [order](unknown.md).
 
-Numerical values are useful to achieve and [track outward results](mind-creativity-results.md). We always form a *non*-numeric [purpose](purpose.md) before we start using numbers:
+Numerical values are useful to achieve and [track outward results](results.md). We always form a *non*-numeric [purpose](purpose.md) before we start using numbers:
 
 - Someone desires to lose weight and be thin (mostly non-numeric), so they measure the 10 kg they want to lose (numeric).
 - A scientist wishes to [understand](understanding.md) how black holes interact with space (non-numeric), so they measure light bending from surrounding stars (numeric).
@@ -33,7 +33,7 @@ In any meaningful situation, the ultimate goal of a numerical measurement will b
 
 There are many classes of math, and far too many to easily specify, but they all start with the primitives of [arithmetic and algebra](math.md).
 
-There are too many to specify, but the branches of math naturally expand proportional to the needs of the people calculating with them. This means that math (and its [pedagogy](pedagogy.md)) branch off into many, *many* [specializations](jobs-spcialization.md).
+There are too many to specify, but the branches of math naturally expand proportional to the needs of the people calculating with them. This means that math (and its [pedagogy](education.md)) branch off into many, *many* [specializations](jobs-spcialization.md).
 
 However, on a highly advanced level, math has two broad purposes of analysis:
 

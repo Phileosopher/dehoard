@@ -44,7 +44,7 @@ system-ui,
 
 Sample meta tags with preconnects
 
-```
+```html
         <link rel="icon" type="image/png" href="/temporal-icon.png" />
         <meta name="theme-color" content="#317EFB"/>
         <meta property="title" content="Temporal.io: Build Invincible Apps" />

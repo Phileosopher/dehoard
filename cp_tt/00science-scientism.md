@@ -58,7 +58,7 @@ Therefore, there are *other* factors at work to demarcate truths that disregard 
 
 Science itself can never answer many domains, and there are valid [philosophical assertions](philosophy.md) that oppose scientism:
 
-1. Common-sense experiences prove correlation, and therefore have authority toward their [results](mind-creativity-results.md). This means causation can only serve to make the information more efficient to [solve a problem](purpose.md).
+1. Common-sense experiences prove correlation, and therefore have authority toward their [results](results.md). This means causation can only serve to make the information more efficient to [solve a problem](purpose.md).
 2. [Meaning](meaning.md) is derived through our interpretation of the [quality of things](values-quality.md), so measuring things [mathematically](math.md) must serve that end.
 3. Nature itself is holistic, so mechanical observation of nature is most effective at [fixing things](https://adequate.life/fix/), but not in studying it.
 4. All "how" questions are subordinate to "why" questions, meaning all science is subordinate to the philosophies that drive the purpose for science in the first place.

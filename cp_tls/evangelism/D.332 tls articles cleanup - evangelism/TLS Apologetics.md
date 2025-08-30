@@ -98,12 +98,10 @@ ive also found some on "https://www.patheos.com/blogs/crossexamined/2018/10/top-
 
 I will also need explanation on these things(basically an ELI5/Explain Like I'm 5):
 
-```
-The trinity(like how the son isnt the father but both are god and so on so forth)
-Is the old testament still valid if its in the Bible?
-When was the new testament compiled?
-What's the right sect?
-```
+- The trinity(like how the son isnt the father but both are god and so on so forth)
+- Is the old testament still valid if its in the Bible?
+- When was the new testament compiled?
+- What's the right sect?
 
 ---
 

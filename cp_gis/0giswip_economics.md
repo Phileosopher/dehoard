@@ -138,7 +138,7 @@ Since unskilled workers don't have a specialization, they have a difficult time 
 - Most entry-level jobs are *very* low-wage, and usually impossible to subsist on.
 - Minimum wage laws temporarily raise low-wage jobs' pay but force employers to hire fewer people. This prevents unskilled workers from building their human capital through work experience.
 - Raising the minimum wage also creates a more difficult environment for smaller organizations to compete in the marketplace, meaning more [monopolies](mgmt-badsystems.md) can take control.
-- Eventually, when *everyone* has more money (due to inflation), its collective value goes down. This means a minimum wage's [consequences](mind-creativity-results.md) are merely temporary.
+- Eventually, when *everyone* has more money (due to inflation), its collective value goes down. This means a minimum wage's [consequences](results.md) are merely temporary.
 
 ## Supply vs. demand
 
@@ -176,7 +176,7 @@ Human capital is the added total of someone's non-material assets:
 
 Unlike money, human capital is *very* difficult to measure. Most economists don't consider the [culture](culture.md) of a people group in their projections, and ambitious cultures who value wealth are often compared with relaxed cultures who find [meaning](meaning.md) without money, with an *extreme* discrepancy between the measurement and reality.
 
-[Education](pedagogy.md) is the most powerful human capital [when with other people](influence.md). With it, people can easily avoid or overcome most hardships and losses.
+[Education](education.md) is the most powerful human capital [when with other people](influence.md). With it, people can easily avoid or overcome most hardships and losses.
 
 ## Illegal
 
@@ -300,7 +300,7 @@ It's worth noting that the entire realm of macroeconomics becomes a matter of co
 
 Authorities can directly control supply, but can't *fully* [influence](influence.md) demand. This is because it's impossible to fully manage others' desires without removing [free will](humanity.md). The closest thing they can do is provoke [fear](mind-feelings-fear.md) to deter [purposes](purpose.md).
 
-One popular form of [social engineering](rules-methods.md) in the world of economics is to employ large-scale [design patterns](design-uxui.md) to steer people toward decisions that they "ought" to do ("libertarian paternalism") to influence behavior and send wealth from whoever a government deems unworthy to whoever is deemed worthy.
+One popular form of [social engineering](rules-methods.md) in the world of economics is to employ large-scale [design patterns](engineering-design.md) to steer people toward decisions that they "ought" to do ("libertarian paternalism") to influence behavior and send wealth from whoever a government deems unworthy to whoever is deemed worthy.
 
 ### Taxes
 
@@ -339,7 +339,7 @@ Many governments try to create costs for unrelated third parties who suffer from
 
 [Authorities](groups-large.md) often attempt to prevent negative externalities with [rules](rules.md) that come with fines and penalties, but they'll also frequently [make things worse](mgmt-badsystems.md):
 
-- [Innovators](trends.md) often create [brilliant](mind-creativity.md), [better](mind-creativity-results.md) solutions that violate the spirit of the [regulations](rules.md) even worse.
+- [Innovators](trends.md) often create [brilliant](mind-creativity.md), [better](results.md) solutions that violate the spirit of the [regulations](rules.md) even worse.
 - Many times, delays from controlling measures will force waste from non-consumption.
 - Undesirable [social trends](trends.md) can often exploit a well-intended thing for bad purposes.
 
@@ -347,7 +347,7 @@ Even when they don't outright ban things, governments often set price limits on 
 
 ### Spending
 
-While the public sector (e.g., government, [academia](pedagogy.md)) creates various public goods, they're often [trend](trends.md)-resistant, and often poorly made.
+While the public sector (e.g., government, [academia](education.md)) creates various public goods, they're often [trend](trends.md)-resistant, and often poorly made.
 
 The private sector, on the other hand, *requires* [risk](socialrisk.md) to function, which means they'll make [decisions](decisions.md) that'll often yield more rewards. All the [value](values-quality.md) and [innovation](mind-creativity.md) of society comes through private [creations](creations.md), even when public money funded it (e.g., [intellectual properties](legal-ip.md)).
 
@@ -419,7 +419,7 @@ Even when a group is collectively producing more than exporting, they may operat
 
 Over time, as long as people continue to trade, savvy [traders](money-investing.md) will edge out less savvy ones. In a [culturally](culture.md) well-ordered system, the gap between the [wealthiest and poorest](classes.md) will grow more dramatically from trading skills than in a poorly ordered one. Irrespective, enough time with *any* social system guarantees a partially [unfair](morality-justice.md) redistribution of wealth, whether by [war](people-conflicts-war.md) or [bureaucratic incompetence](mgmt-badsystems.md).
 
-A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](mind-creativity-results.md) later.
+A country can import more than they're exporting. When that happens, they're sending more of *their* money out and are operating at a "trade deficit". On the other hand, a country can *acquire* more money by exporting more than they're importing and run a "trade surplus". A trade surplus is a nation's means of gaining more economic power long-term by owning the means of getting people to [do things](results.md) later.
 
 These discrepancies can make it difficult to measure. To that end, economists try to use a universal standard. For a while, they used the Big Mac Index, which measured the cost for for a Big Mac at a McDonald's restaurant (since the sandwich was all across the world). This worked because most of the ingredients had to be locally sourced.
 
@@ -439,7 +439,7 @@ As long as people can privately own things, legally or illegally, they'll try to
 
 The stunning reality of capitalism is that it *constantly* plays out in society at large, even harming [everyone's equal treatment](classes.md) or [political fashions that try to redirect it](leftism.md). No matter how badly a [government](rules.md) can [break everything](mgmt-badsystems.md) or how much [hardship](hardship.md) everyone can endure, people form the [natural order](unknown.md) of free markets [no matter what](humanity-universals.md).
 
-Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](image.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](mind-creativity-results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
+Capitalism only concerns itself with self-interest from others, so it's oblivious to [discrimination](image.md). In fact, it often *hurts* bigots who discriminate. The contested [political issues](politics-conservativeliberal.md) around capitalism tie more closely to unequal [power](power.md) distribution among [large groups](groups-large.md). The elements that shape capitalism arise from net win/win from its [consequences](results.md). Even with its [inequalities](classes.md) and [injustices](morality-justice.md), capitalism will persist as long as [human nature](humanity.md) has selfish elements.
 
 The idea of a universal basic income sounds fine in theory, except that money is a completely relative value that's interpreted as having an absolute value based on what it can do for people, which means giving everyone at least a certain amount of money will make every amount of money above that amount proportionally less (i.e., if everyone instantly had at least $10,000, the people with $20,000 would only have twice that instead of the relationship between that money and the cost of living). The better solution is to simply give universal basic goods and services directly through the government.
 
@@ -453,7 +453,7 @@ Markets are chaotic, so economists make statistical correlations, which [don't n
 
 Because we consider the price of things compared to what other people would pay, the easiest form of reflecting uninhibited demand would be a [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction), where everyone privately [communicates](people-conversation.md) their price to the seller and the winner pays the *second*-highest price.
 
-By hiking the price on something, consumers won't change up to where they start [changing](changes.md) their [motivation](purpose.md) about buying that thing. In fact, extra income for a business often gives more opportunities to make risky and potentially value-adding [risks](socialrisk.md) elsewhere, so increased prices are a net benefit to society if that group hasn't become [dysfunctional](mgmt-badsystems.md).
+By hiking the price on something, consumers won't change up to where they start [changing](people-changes.md) their [motivation](purpose.md) about buying that thing. In fact, extra income for a business often gives more opportunities to make risky and potentially value-adding [risks](socialrisk.md) elsewhere, so increased prices are a net benefit to society if that group hasn't become [dysfunctional](mgmt-badsystems.md).
 
 Value is very relative to [utility](purpose.md). For that reason, more of something (e.g., from [technology](technology.md)) makes life easier in general but decreases the unit value of each of those things. In the process, creating more of something slowly decreases its [meaningfulness](meaning.md) as more of it exists.
 

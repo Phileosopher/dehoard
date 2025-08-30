@@ -74,7 +74,7 @@ Never let each team surpass 4-8 people.
   - [Communicating](mgmt-5_communication.md) to everyone at once becomes complex and time-consuming.
   - People won't feel like their contribution means much, so some members won't do much.
   - There will be unavoidable [personality](personality.md) [conflicts](people-5_conflicts.md), *especially* when trying to achieve group consensus.
-  - The [corporate culture](groups-small.md) of large groups tends to generate enough [peer pressure](power-influence.md) that everyone will be more likely to resist [change](changes.md).
+  - The [corporate culture](groups-small.md) of large groups tends to generate enough [peer pressure](power-influence.md) that everyone will be more likely to resist [change](people-changes.md).
 - If you expect your team needs more than 8 people, break apart the tasks into more explicitly-defined specializations.
   - You can make as many teams as you want, as long as your team *leads* communicate with each other.
   - However, the upper threshold of lead-to-lead interaction becomes its own limits: only have meetings with up to 4-8 team leads.
@@ -235,7 +235,7 @@ Once you've hired them, only drop a few tasks on them at first.
 If possible, avoid on-the-job training.
 
 - The intuition is that someone is getting paid while they're also learning.
-- However, in practice someone is simply getting paid to learn, but with a *very* distracted [teacher](pedagogy.md).
+- However, in practice someone is simply getting paid to learn, but with a *very* distracted [teacher](education.md).
 - Save examples of what finished work typically looks like (both good and bad) or record videos of typical tasks (both good and bad), then use *that* as a teaching aide for the trainer.
 
 If you only want workers to make long-term commitments, pay them for the training and then pay a bonus for them to quit.
@@ -308,7 +308,7 @@ Do *not* simply fire someone on an impulse.
 - If that worker has a [family](people-family.md), your termination will impact those people as well.
 - Unless that person is completely unproductive, firing and rehiring for the role is typically more resource-intensive than [giving that person more motivation to work](mgmt-6_morale.md).
 
-Barring truly awful human behavior, you should *never* [want](purpose.md) for them to quit, but instead for them to [change](changes.md).
+Barring truly awful human behavior, you should *never* [want](purpose.md) for them to quit, but instead for them to [change](people-changes.md).
 
 - Before firing them, try to motivate them to do better.
 - Set reasonable and accommodating standards that apply to everyone equally.

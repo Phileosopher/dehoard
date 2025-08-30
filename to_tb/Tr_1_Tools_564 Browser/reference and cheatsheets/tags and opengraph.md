@@ -1,7 +1,7 @@
 
 Ideas of things you can include based on my own site.
 
-```
+```html
   <link rel="icon" type="image/png" href="/favicon.png" />
   <link rel="webmention" href="<https://webmention.io/www.swyx.io/webmention>" />
   <link rel="pingback" href="<https://webmention.io/www.swyx.io/xmlrpc>" />

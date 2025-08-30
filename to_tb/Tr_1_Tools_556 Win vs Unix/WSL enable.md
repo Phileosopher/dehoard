@@ -8,7 +8,7 @@
   * https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
   * https://gallery.technet.microsoft.com/scriptcenter/Enable-developer-mode-27008e86
 
-```
+```registry
 $registryUpdates = @{
     "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock\AllowDevelopmentWithoutDevLicense" = 1
 }

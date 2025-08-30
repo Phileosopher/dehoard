@@ -211,7 +211,7 @@ Four major reports are *very* commonplace.
 
 The **Income Statement** shows financial performance over time.
 
-- They're the most important because they most significantly reflect [performance](mind-creativity-results.md).
+- They're the most important because they most significantly reflect [performance](results.md).
 - At the beginning of the period, the Income Statement balance is zero.
   - Every cycle, the books close and set the balance back to zero.
 - Revenue - Expenses = Income (i.e., Profit or Loss)
@@ -885,7 +885,7 @@ Though it's sometimes more complex, other write-offs and write-downs can offset 
 The US income tax code is configured to [socially engineer](rules.md) a specific set of lifestyles:
 
 - [Employees](jobs-1_why.md) > [Entrepreneurs](entrepreneur-1_why.md)
-- [Teachers](pedagogy.md) > other [careers](jobs-specialization.md)
+- [Teachers](education.md) > other [careers](jobs-specialization.md)
 - Going to [college](jobs-college.md) > skilled trade
 - Maxing out [retirement account](money-investing.md) contributions
 - [Parents](parenting-1_babies.md) of 2-3 children who stay home and go to college

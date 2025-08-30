@@ -13,11 +13,11 @@ One *very* heated philosophical debate worth considering is whether the good lif
 
 ## Reinforcement
 
-Living well requires *constant* [change](changes.md) and pushing against the [resistance](meaning.md) we experience around us. This requires a type of "comfort" in unpleasant things that serve us well in the long term.
+Living well requires *constant* [change](people-changes.md) and pushing against the [resistance](meaning.md) we experience around us. This requires a type of "comfort" in unpleasant things that serve us well in the long term.
 
 We must associate with others who share our values, whether it's in finding [friendship](people-friends.md) or associating with (and sometimes [leading](groups-small.md)) [groups](groups-member.md). This should express as a [love](people-love.md) for oneself and others, not merely for the sake of gaining [power](power.md).
 
-We must also be authentic with what we say and do. Honesty with ourselves is critical to keeping ourselves connected closely to [reality](reality.md), and is critical to simplifying reality to permit our [intuitions](mind-feelings.md) to develop a strong [understanding](understanding.md) of what we [learn](pedagogy.md).
+We must also be authentic with what we say and do. Honesty with ourselves is critical to keeping ourselves connected closely to [reality](reality.md), and is critical to simplifying reality to permit our [intuitions](mind-feelings.md) to develop a strong [understanding](understanding.md) of what we [learn](education.md).
 
 ## Humor
 
@@ -29,9 +29,9 @@ However, the good life *may* have room for obsession, depending on someone's [pe
 
 ## Growth
 
-Over the course of a lifetime, a good life will have a progressive upward [cycle](trends.md) that merges a person's [identity](identity.md) with their [actions](mind-creativity-results.md). This requires associating closely to what we do, but shifting with limits to avoid [addictions](addiction.md) as diminishing return takes hold.
+Over the course of a lifetime, a good life will have a progressive upward [cycle](trends.md) that merges a person's [identity](identity.md) with their [actions](results.md). This requires associating closely to what we do, but shifting with limits to avoid [addictions](addiction.md) as diminishing return takes hold.
 
-The [quality](values-quality.md) of a person could probably be most clearly [measured](math.md) by how much they change to conform to their [understanding](understanding.md) of the good life. This could be expanded to include how much they improve their understanding when [reality](reality.md) demonstrates its [results](mind-creativity-results.md) to their [decisions](decisions.md).
+The [quality](values-quality.md) of a person could probably be most clearly [measured](math.md) by how much they change to conform to their [understanding](understanding.md) of the good life. This could be expanded to include how much they improve their understanding when [reality](reality.md) demonstrates its [results](results.md) to their [decisions](decisions.md).
 
 The good life has a broader application than merely attaining comfort. Our [decisions](decisions.md) are only responses to our environment, so an environment filled with extremes will most likely yield the best possible life:
 
@@ -46,11 +46,11 @@ Of course, those stories should probably have happy endings. Unfortunately, deat
 
 ## How
 
-We *could* live a good life without extremes, but our lives are short enough that we won't experience life fast enough to attain it without having a proper [upbringing](people-family.md) and [training](pedagogy.md) in it. Thus, to gain the greatest [understanding](understanding.md) of the right way to live, we must overshoot it in every possible direction that it may arrive.
+We *could* live a good life without extremes, but our lives are short enough that we won't experience life fast enough to attain it without having a proper [upbringing](people-family.md) and [training](education.md) in it. Thus, to gain the greatest [understanding](understanding.md) of the right way to live, we must overshoot it in every possible direction that it may arrive.
 
 The entire idea of "moderation in all things" is a bit oversimplified since we must define "moderate", but it represents a few combined concepts:
 
-1. All [actions](mind-creativity-results.md) and [ideas](values.md) have their time and place.
+1. All [actions](results.md) and [ideas](values.md) have their time and place.
 2. We can't live with [addictions](addiction.md) or excess.
 3. There's never a universal solution to our wide variety of [purposes](purpose.md).
 
@@ -86,7 +86,7 @@ To discern the [quality](values-quality.md) of what a person really is, don't lo
 
 Having sophistication can give us a broader understanding of [society](culture.md), but it's not necessary to live well because it may go against how we wish to [identify](identity.md). We would do better to [integrate our shadow](personality.md) than pretend we don't have one.
 
-Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](image.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](mind-creativity-results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](image.md).
+Often, if we've changed from one thing to another, it's difficult for us to change back if we discover the original was better. We'll typically feel we've wasted our life with the second thing and feel tremendous [shame](image.md) from it. However, it was a necessary [journey](maturity.md) because we *needed* to [fail](results.md) with the second thing to [understand](understanding.md) the benefits of the first. But, many people simply [reprogram](understanding.md) their [beliefs](understanding-certainty.md) to accommodate their [shame](image.md).
 
 At certain times, every person must be the following:
 
@@ -95,7 +95,7 @@ At certain times, every person must be the following:
 3. A philosopher who seeks to [understand](understanding.md) something.
 4. A laborer who [builds](creations.md) something.
 
-Transforming ourselves is far more important, and longer-lasting, than transforming society. After all, transforming society is simply [transforming other people](influence.md), and people mostly [learn](pedagogy.md) by example.
+Transforming ourselves is far more important, and longer-lasting, than transforming society. After all, transforming society is simply [transforming other people](influence.md), and people mostly [learn](education.md) by example.
 
 There's not much value in following a cynical person, but we can learn plenty about what *is* good by what that cynic was still [optimistic](trust.md) or [certain](understanding-certainty.md) about.
 

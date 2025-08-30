@@ -33,13 +33,13 @@ Some things are *never* beauty, and we have an easier time detecting them than b
 
 ## Relative
 
-Most people like to imagine that beauty is relative, and a large portion is. [Cultures](culture.md) define beauty in vastly different ways, and people are frequently [influenced](influence.md) by others to [change their minds](changes.md) on their opinion of beauty.
+Most people like to imagine that beauty is relative, and a large portion is. [Cultures](culture.md) define beauty in vastly different ways, and people are frequently [influenced](influence.md) by others to [change their minds](people-changes.md) on their opinion of beauty.
 
 All art references [nature](reality.md), so poorly made [media](creations.md) can *still* draw [feelings](mind-feelings.md) that remind people of experiencing the original thing. When people use media in that fashion, the [creation](creations.md) itself doesn't need any beauty of its own.
 
 But, if a person is valuing the beauty of the thing itself, irrespective of what it references, that's a universal beauty that likely could exist in the essence of the thing itself. For those things, they are worth [consuming](image.md) over and over, especially across different [stages of life](maturity.md).
 
-Not all attributes of a thing are inherently beautiful. Often, something can be beautiful in part but not in its whole. For example, a film with dubious [moral](morality.md) qualities and a disturbingly [evil](morality-evil.md) source reference may have artistry that expertly captures the intrinsic art of acting, videography, lighting, and so on. Its parts are beautiful by themselves as strictly a reference to the respective [crafts](mind-creativity-results.md) that made it, even if it's a bad creation in its entirety.
+Not all attributes of a thing are inherently beautiful. Often, something can be beautiful in part but not in its whole. For example, a film with dubious [moral](morality.md) qualities and a disturbingly [evil](morality-evil.md) source reference may have artistry that expertly captures the intrinsic art of acting, videography, lighting, and so on. Its parts are beautiful by themselves as strictly a reference to the respective [crafts](results.md) that made it, even if it's a bad creation in its entirety.
 
 The realm of [understanding](understanding.md) various varieties of beauty is known as "taste". Our tastes are flavored by [moral disposition](morality.md), [personality](humanity.md), and [prior experience](understanding.md), so each person's taste will differentiate wildly.
 

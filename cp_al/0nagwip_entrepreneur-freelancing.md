@@ -78,7 +78,7 @@ High-demand certifications:
 
 - [Tax preparation](accounting.md)
 - Notary public
-- Become a [teacher](pedagogy.md)
+- Become a [teacher](education.md)
   - Teach high-demand trade skills
   - Do private tutoring, which typically avoids most [legal requirements](legal-safety.md)
   - Teach English in another country
@@ -94,7 +94,7 @@ Artistic and [creative](mind-creativity.md) skills:
   - If you're performing publicly, keep at least a few dollars in your jar/case and store the rest.
 - Create and sell drawings, designs, and crafts
 - Sell stock photography
-- [Teach](pedagogy.md) with web videos, podcast or blog.
+- [Teach](education.md) with web videos, podcast or blog.
 - Sell a subscription service for paying members.
 - [Build an app](computers-webdev.md).
 

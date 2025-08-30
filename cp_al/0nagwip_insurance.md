@@ -726,7 +726,7 @@ The best way to save on insurance is to carry a [reputation](image.md) within yo
 - Generally, shopping around can save 20-40%, but the most affordable insurance will often include a decrease in quality (and possibly claim payout) when you need to file a claim.
   - The [project management](mgmt-2_projects.md) triangle still applies, but insurance can instead be between quality, cost, or maintaining known risks.
 - Make lifestyle decisions that enhance your insurance score:
-  - Good GPA in school or staying in the [educational system](pedagogy.md)
+  - Good GPA in school or staying in the [educational system](education.md)
   - Clean driving record
   - Good [credit score](money-2_debt.md)
   - Low-mileage vehicle (i.e., don't drive it around much)

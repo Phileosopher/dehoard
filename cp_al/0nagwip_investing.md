@@ -20,7 +20,7 @@ Barring dividends, all investing is a [zero-sum game](math-gametheory.md).
 
 While anyone *can* make investing a full-time lifestyle (and many people are greedy enough to try), great investors have 4 key elements:
 
-1. A legitimate interest and [desire to learn](pedagogy.md) about the intricacies of investing.
+1. A legitimate interest and [desire to learn](education.md) about the intricacies of investing.
 2. Plenty of math skill, specifically regarding [statistics](math-stat.md).
 3. A firm grasp of [economic](economics.md) history, including as far back as the Great Depression and South Sea Bubble.
 4. [Emotional](mind-feelings.md) discipline and [stubbornness](purpose.md) to stick with what they know to be true.
@@ -342,7 +342,7 @@ Wise and reasonable investing, more than anything else, protects against *most* 
 
 Don't look at any isolated loss or gain.
 
-- Each loss and gain is connected to part of a broader whole, and often a [learning experience](pedagogy.md).
+- Each loss and gain is connected to part of a broader whole, and often a [learning experience](education.md).
 - Losses can easily become part of a [success story](success-1_why.md).
   - Most of the time, people who lose learn more than people who win, and their long-term portfolio will look significantly better.
 
@@ -777,7 +777,7 @@ When compared to other investments, each individual investment has four possible
 
 All investment returns only come from 3 possible sources:
 
-1. Dividends - you own something, then receive proceeds that originally came from someone else's [labor](mind-creativity-results.md)
+1. Dividends - you own something, then receive proceeds that originally came from someone else's [labor](results.md)
 2. Price appreciation - the market value of something you own moves upward
 3. Lending with [interest](money-2_debt.md) or rent - payment to use something
 4. Flipping - providing dividends, price appreciation, or interest/rent to others by using their money
@@ -886,7 +886,7 @@ Mutual funds - multiple investors combine their money, then a fund manager buys 
   - Becky ETF - tracks white American teenage girls' consumer habits.
   - The Inverse Cramer ETF (SJIM) and The Long Cramer ETF (LJIM) - tracks everything *against* Jim Cramer's Mad Money TV show recommendations.
 - Investing for returns across the market is much easier than obsessing over it:
-  - You don't have to pay attention to financial media or mountains of [conflicting information](information.md) from [self-proclaimed experts](pedagogy.md).
+  - You don't have to pay attention to financial media or mountains of [conflicting information](information.md) from [self-proclaimed experts](education.md).
   - The fees are less expensive and the results are dramatically superior.
   - You won't need an advisor or broker, and it takes 90 minutes or so per year to work directly with brand-name mutual fund families.
 - For tax reasons, be careful with mutual funds.

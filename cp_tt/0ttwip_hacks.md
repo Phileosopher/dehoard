@@ -188,7 +188,7 @@ The code for making a .reg file (auto-executing registry script) is relatively e
 1. Make a text file, but change the extension to .reg.
 2. Use the following syntax:
 
-```
+```registry
 Windows Registry Editor Version 5.00
 
 [PUT THE PATH YOU WANT HERE]

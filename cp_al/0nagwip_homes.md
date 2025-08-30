@@ -407,7 +407,7 @@ To avoid extra stress, try to arrange a home sale contingency if you already hav
 
 If you haven't found another house by the time you're considering selling, find a rental property with a short-term lease as a backup or in-between instead of backing out of the deal entirely.
 
-- You've already come this far, so [moving out](home-moving.md) to a new place is an ideal way to embrace a new [chapter](changes.md) of your life.
+- You've already come this far, so [moving out](home-moving.md) to a new place is an ideal way to embrace a new [chapter](people-changes.md) of your life.
 
 ### D. >1 month before listing
 

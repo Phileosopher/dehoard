@@ -8,7 +8,7 @@ We tend to make [calculated decisions](decisions.md) and assessment about what w
 - How [likely](understanding-certainty.md) they may want it
 - How much we're willing to sacrifice, in light of all the above
 
-We end up either trusting that we'll yield [meaningful](meaning.md) [results](mind-creativity-results.md), or we don't bother starting it.
+We end up either trusting that we'll yield [meaningful](meaning.md) [results](results.md), or we don't bother starting it.
 
 Unfortunately, people often don't have the same [values](values.md) or [purposes](purpose.md) as us. This can be the source of many [conflicts](people-conflicts.md) and can discourage us from future endeavors.
 
@@ -25,7 +25,7 @@ Some people, though, consider their situation closely. They start asking what th
 These people will then make sacrifices toward finding an interest that fulfills multiple criteria at once:
 
 1. They like it enough that they can [obsess about it](addiction.md) for at least a few years.
-2. Other people like it, but it's not fulfilled by existing [solutions](mind-creativity-results.md).
+2. Other people like it, but it's not fulfilled by existing [solutions](results.md).
 3. Other people are willing to give [power](power.md) to them for it, especially in the [form](power-types.md) of money.
 
 ## Idea
@@ -48,7 +48,7 @@ The engagement with complete strangers will test the creator's general [trust in
 
 Finding and exploring a specific [purpose](purpose.md) can be challenging, so most people searching for an elusive need will obsess with fulfilling it. It may be driven by [love](people-love.md), [virtue](morality.md), or [vice](addiction.md) but will *always* lead to them caring much more about their work than their peers, often to the point of a single-minded and near-[religious](religion.md) fanaticism.
 
-Ordinarily, a creator will be competing with large-scale organizations. To simply fight it, they'll obsess with [trimming inefficiencies](mind-creativity-results.md), [learning](understanding.md) constantly from other risk-takers, doing things that a large system *can't* do, and seeking new [technologies](technology.md) that could magnify their labor.
+Ordinarily, a creator will be competing with large-scale organizations. To simply fight it, they'll obsess with [trimming inefficiencies](results.md), [learning](understanding.md) constantly from other risk-takers, doing things that a large system *can't* do, and seeking new [technologies](technology.md) that could magnify their labor.
 
 People often attribute this entire experience to [entrepreneurship](entrepreneur-1_why.md), but it encompasses *many* realms that require [marketing](marketing.md) with strangers:
 
@@ -130,7 +130,7 @@ Unfortunately, no reliable system can "make" risk-takers. Risk-taking is an [att
 
 What a large group *can* do, though, is permit those ideas to incubate. By letting that person loosely associate with other people who share their [passion](mind-feelings.md), they're more likely to ally with [groups](groups-small.md) that are part of a larger unit.
 
-Time is a risk-taker's most significant resource. By giving them the time to [learn](pedagogy.md), explore, tinker, and gain [understanding](understanding.md), that person can branch out on their own when they're ready.
+Time is a risk-taker's most significant resource. By giving them the time to [learn](education.md), explore, tinker, and gain [understanding](understanding.md), that person can branch out on their own when they're ready.
 
 * * * * *
 

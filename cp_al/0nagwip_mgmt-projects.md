@@ -16,7 +16,7 @@ The second, however, can be used universally.
 
 - All you need is a vision, even if it's not possible.
 - When the situation proves the project impossible to achieve, you *will* need to move the project goals.
-- Moving project goals requires both [mental flexibility to change](changes.md) and the social skills to [influence others](people-3_boundaries.md) to new truths.
+- Moving project goals requires both [mental flexibility to change](people-changes.md) and the social skills to [influence others](people-3_boundaries.md) to new truths.
 
 ## A. Have a vision
 

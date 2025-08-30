@@ -9,7 +9,7 @@ Every person who [freelances](entrepreneur-4_freelancing.md), even slightly, is 
 - However, many of those domains are an entire discipline of their own.
 - In the course of their work, an [**entrepreneur**](entrepreneur-1_why.md) will perform *all* the skills in some capacity, and eventually must delegate [if they scale](entrepreneur-6_scaling.md).
 
-While the only constant in business is [change](changes.md), the abstractions express the same way.
+While the only constant in business is [change](people-changes.md), the abstractions express the same way.
 
 ## Core components
 

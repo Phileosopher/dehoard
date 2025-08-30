@@ -11,11 +11,11 @@ We gain experiences as we grow older. These experiences shape us to create accur
 
 Maturity is mostly [intuition](mind-feelings.md). Like with all other intuition, maturity has multiple aspects that tend to scale with age. But, it scales more directly with [wisdom](understanding.md).
 
-One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](awareness.md) of the [consequences](mind-creativity-results.md) they bring on themselves and claim title to all [decisions](decisions.md) they have made.
+One of the clearest indicators of maturity is that the person takes personal responsibility for what they do. They've become [aware](awareness.md) of the [consequences](results.md) they bring on themselves and claim title to all [decisions](decisions.md) they have made.
 
 As people mature, they become increasingly unaffected by their environment because they experience less [novelty](image.md) from their experiences. If they've gained enough wisdom, they won't react to how they [feel](mind-feelings.md) as much as to what they [know](understanding.md). Their increased [understanding](understanding.md) will mean most of their "soft skills" are usually better. They'll be more decisive with words, speak more intentionally, walk more elegantly, and manipulate objects more precisely.
 
-While we may still control our decisions, we *don't* control 99.999% of our [environment](mind-creativity-results.md), and there's a type of [humility](morality.md) that always comes with the understanding of how little we really know or have control over.
+While we may still control our decisions, we *don't* control 99.999% of our [environment](results.md), and there's a type of [humility](morality.md) that always comes with the understanding of how little we really know or have control over.
 
 A product of that humility is a form of gratitude. With enough [understanding](understanding.md), people slowly come to realize how much other people established [order](unknown.md) in the past to permit people to currently confront chaotic things. Young people haven't experienced life before [technology](technology.md) or certain [liberties](morality-justice.md), so the simple fact that their inexperience impedes their ability to fully [understand](understanding.md) the effort it takes to simply maintain everything.
 
@@ -53,7 +53,7 @@ Can I make it in the world of people and things? (~5-12 years old)
 - Concerned with school, teachers, friends, and neighborhood with the need to achieve and accomplish.
 - If loved, we [feel competent](success-1_why.md) and naturally make [methods](habits.md) from our actions.
 - When neglected, we either create a narrow sense of [virtue](morality.md) or maintain [mindless inertia](addiction.md) toward tasks.
-- Most of how we approach [work and play](mind-creativity-results.md) comes from this stage.
+- Most of how we approach [work and play](results.md) comes from this stage.
 
 Who am I, and what can I be? (~13-19 years old)
 
@@ -64,7 +64,7 @@ Who am I, and what can I be? (~13-19 years old)
 
 Can I love? (~20-39 years old)
 
-- Concerned with [lovers](gender.md), [friends](people-friends.md), and [work](jobs-spcialization.md) connections to find intimate relationships, make a [work](mind-creativity-results.md) life, have a social life, and balance everything.
+- Concerned with [lovers](gender.md), [friends](people-friends.md), and [work](jobs-spcialization.md) connections to find intimate relationships, make a [work](results.md) life, have a social life, and balance everything.
 - Our physical peak usually takes place around our late 20s.
 - If loved, we learn the true [meaning of love](people-love.md) and affiliate ourselves with healthy social connections.
 - When neglected, we either become sexually or emotionally promiscuous or exclude everyone and become antisocial.
@@ -73,7 +73,7 @@ Can I love? (~20-39 years old)
 Can I make my life count? (~40-64 years old)
 
 - Concerned with our [children](people-family.md) and [the surrounding community](groups-member.md) with "giving back" to society, [helping others](success-1_why.md), and making others well.
-- If we're successful, we learn to [be more caring](morality.md) and produce meaningful [results](mind-creativity-results.md).
+- If we're successful, we learn to [be more caring](morality.md) and produce meaningful [results](results.md).
 - Our mental peak typically takes place around our early 50s.
 - If we fail, we either overextend with our tasks or reject others and their needs.
 - Most of our legitimate [ability to influence](influence.md) comes from this stage.
@@ -103,9 +103,9 @@ The largest standard of maturity comes through a group granting status to a [mem
 
 While it varies by [culture](culture.md), a rite of passage is a transition from childhood to adulthood, and [represents](symbols.md) several things simultaneously:
 
-- That person had a [desire](purpose.md) to prove themselves and asserted their [actions](mind-creativity-results.md) to that end by doing (probably) stupid things, and they've realized their limits upon the world at large.
+- That person had a [desire](purpose.md) to prove themselves and asserted their [actions](results.md) to that end by doing (probably) stupid things, and they've realized their limits upon the world at large.
 - That person has come to understand what they *can't* do and the right things to [trust](trust.md) for handling the situation.
-- Their [group](groups-member.md) believes from that person's experience that they've [changed](changes.md) enough that they're now a junior member of society instead of a dependent child.
+- Their [group](groups-member.md) believes from that person's experience that they've [changed](people-changes.md) enough that they're now a junior member of society instead of a dependent child.
 
 Children are often destructive, needy, and have a poor [understanding](understanding.md) of [how to thrive](goodlife.md). They hit critical learning periods where they absorb specific information, and their "child" place in society must be preserved [for their benefit](people-family.md). A distinctive rite of passage empowers a child to find [meaning](meaning.md) in [creating](mind-creativity.md) their [self-identity](identity.md) through contrasting their [decisions](decisions.md) against how they were raised.
 
@@ -118,7 +118,7 @@ During the transition, and irrespective of the culture, a child will do a few th
 
 This rite of passage is necessary for social harmony because it demarcates between "adult" leaders and "child" followers, as well as carving out a person's [identity](identity.md) in light of that distinction. Because of the risks of choosing wrongly, every single rite of passage will exclude at least some people who don't fulfill it, from both aspects of laziness and incompetence.
 
-The people who never fulfill a rite of passage will always represent a lower status in a [culture's](culture.md) hierarchy. They'll typically exist as inferior in that group until they [change](changes.md) their [habits](habits.md) to find a new social group (which is a *separate* rite of passage) or accomplish something that proves their worth to their community.
+The people who never fulfill a rite of passage will always represent a lower status in a [culture's](culture.md) hierarchy. They'll typically exist as inferior in that group until they [change](people-changes.md) their [habits](habits.md) to find a new social group (which is a *separate* rite of passage) or accomplish something that proves their worth to their community.
 
 In the absence of a clear rite of passage, most children end up persisting in a dead-end lifestyle until they find their path:
 
@@ -135,7 +135,7 @@ Often, marriage can mix with a rite of passage, though the [culture](culture.md)
 
 As a person gains more life experiences, their [decisions](decisions.md) start developing clear patterns. Over time, the best measure of a person will frequently be expressed through the series of changes they engage in. They will endure more rites of passage through their life stages, which will slowly form into an ever-adapting, slowly solidifying [story](stories.md).
 
-As someone keeps experiencing life and starts finding their ideal approach, they stop being as [malleable](changes.md) as when they were younger. This is a sign someone's experiences have conformed them to a distinct [personality](personality.md) and [expression](image.md), but anyone significantly younger will see them as more an "institution" than a changing and dynamic individual.
+As someone keeps experiencing life and starts finding their ideal approach, they stop being as [malleable](people-changes.md) as when they were younger. This is a sign someone's experiences have conformed them to a distinct [personality](personality.md) and [expression](image.md), but anyone significantly younger will see them as more an "institution" than a changing and dynamic individual.
 
 As a person gains experience, they will typically start fading in strength. By the time someone is middle-aged, they're still growing in wisdom but are fading from their peak ability to perform, and growing old means *all* aptitude will start to fade.
 

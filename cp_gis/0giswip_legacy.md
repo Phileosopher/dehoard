@@ -35,7 +35,7 @@ To start, most of what we do will be forgotten immediately. Only the top 5% of o
 
 No matter what we pursue, we will eventually be *completely* forgotten. Either our posthumous [influence](influence.md) will dilute through blending into everyone else's, or we'll be lost to time through [history's endless revisions](stories-storytellers.md). The only hope someone has is to advance a mythological set of [symbols](symbols.md) to assist a future group in discovering [meaning](meaning.md) through [interpreting](image.md) what they've found.
 
-[Human nature](humanity.md) also magnifies any naturally occurring effects of things lost to time. Young people tend to believe old people don't know what they're talking about, so they disregard their elders' admonitions until they [learn](pedagogy.md) the hard way. By that time, *they're* the old people, and the new young people think they don't know what they're talking about. This means that not much *ever* changes, even across thousands of years with wildly different [cultures](culture.md) and [technologies](technology.md).
+[Human nature](humanity.md) also magnifies any naturally occurring effects of things lost to time. Young people tend to believe old people don't know what they're talking about, so they disregard their elders' admonitions until they [learn](education.md) the hard way. By that time, *they're* the old people, and the new young people think they don't know what they're talking about. This means that not much *ever* changes, even across thousands of years with wildly different [cultures](culture.md) and [technologies](technology.md).
 
 Even if we could theoretically add something [meaningful](meaning.md) to the universe, it would need an observer. If humanity doesn't die from the sun failing, it'll be the collapse of all the stars or the heat death of the universe. No matter what, if you go far enough, the death of all things, including the shadow of it, still waits for us.
 
@@ -49,11 +49,11 @@ Otherwise, without any true [certainty](understanding-certainty.md) about the do
 
 ## Application
 
-By the time most people start looking to creating [meaning](meaning.md) beyond themselves, they've become a [caricature or parody](humor.md) of what they once were. This generally yields *awful* [results](mind-creativity-results.md) as they try to lead groups toward something beyond self-interest.
+By the time most people start looking to creating [meaning](meaning.md) beyond themselves, they've become a [caricature or parody](humor.md) of what they once were. This generally yields *awful* [results](results.md) as they try to lead groups toward something beyond self-interest.
 
-People who are particularly intelligent can create [meaningful](meaning.md) [results](mind-creativity-results.md) earlier (around age 30) rather than later (around age 45). This extra length of time developing [habits](habits.md) can create a *profound* difference in their social impact, but [results](mind-creativity-results.md) aren't guaranteed.
+People who are particularly intelligent can create [meaningful](meaning.md) [results](results.md) earlier (around age 30) rather than later (around age 45). This extra length of time developing [habits](habits.md) can create a *profound* difference in their social impact, but [results](results.md) aren't guaranteed.
 
-If people lived only a few short decades longer (e.g., to age 150), they'd accomplish about 10 times the [results](mind-creativity-results.md). If there's any truth to [ancient religious texts](religion.md) implying that people lived hundreds of years, they'd have needed dramatically less time to accomplish *anything*.
+If people lived only a few short decades longer (e.g., to age 150), they'd accomplish about 10 times the [results](results.md). If there's any truth to [ancient religious texts](religion.md) implying that people lived hundreds of years, they'd have needed dramatically less time to accomplish *anything*.
 
 Living for the far future is a waste of effort. We can't prolong our life beyond managing our [health](body-4_health.md) and [stress](mind-feelings-happiness-stress.md), and making anything of value that we can't enjoy in this life is a waste of time. No matter [what happens after we die](religion.md), we're the greatest consumers of our self-made [works](creations.md).
 

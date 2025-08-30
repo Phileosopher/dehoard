@@ -70,14 +70,14 @@ However, the simplest way to individually take action is to inform yourself and 
   - Move from YouTube to something else like [PeerTube](https://joinpeertube.org/), [Bitchute](https://www.bitchute.com/), [Odysee](https://odysee.com/), or [Vimeo](https://vimeo.com/).
   - Move from corporation-owned social media sites [like Facebook](https://web.archive.org/web/20220203001740/http://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/) and into the fediverse, which allows anyone with a powerful computer to run a node in that network.
 - OS/hardware:
-  - Avoid Apple/Microsoft products and switch to [Linux-based](computers-os-unix.md) (especially Manjaro or Zorin OS if you love the [UI](design-uxui.md)), though this may be difficult with [Microsoft Windows](computers-os-windows.md) depending on the software that supports your lifestyle.
+  - Avoid Apple/Microsoft products and switch to [Linux-based](computers-os-unix.md) (especially Manjaro or Zorin OS if you love the [UI](engineering-design.md)), though this may be difficult with [Microsoft Windows](computers-os-windows.md) depending on the software that supports your lifestyle.
   - Avoid Android OS and switch to independently developed phones like Librem and PinePhone.
     - Unlike other [operating systems](computers-os.md), Android OS intimately uses GSF (Google Services Framework) and won't run without it. There's not a great [open-source](legal-ip-floss.md) alternative: [MicroG](https://microg.org/) is a decent workaround, but [OpenGapps](https://opengapps.org/) still sends *tons* of telemetry.
 - Don't shop on Amazon, buy Amazon products, or work for Amazon.
 - If you're an organization that *uses* Big Tech, opt out of most Amazon advertising and Google search enhancement (e.g., AMP), since [they aren't doing much to help you](https://archive.is/20220826213152/https://kurtgessler.medium.com/what-happened-when-we-disabled-google-amp-at-tribune-publishing-2fa65a2f2a40).
 - Get "dumb" technology to serve your purposes:
   - Avoid using Big Tech [speaker/microphone](computers-speakersmic.md) combo interfaces (e.g., Alexa, Siri, Cortana) or anything else that can track your data (e.g., Oculus).
-  - Instead of getting a "smart" TV, get a computer screen, since [it's basically the same thing](computers-screen.md) with more tracking.
+  - Instead of getting a "smart" TV, get a computer screen, since [it's basically the same thing](engineering-screen.md) with more tracking.
 - Try to avoid *anything* from China, especially computer hardware and networking equipment manufactured there.
 
 If you *do* work in the tech sector, you have additional things you can do.
@@ -170,7 +170,7 @@ Many elements are complex enough that it's worth researching and discussing more
 
 If you have the skill for it, learn to [hack](hacking.md) DRM, work outside the mainstream, and generally become more tech-savvy.
 
-- Don't buy TVs anymore (which track more data), but instead buy monitors, since there's now practically no difference in [screen technology](computers-screen.md) between the two.
+- Don't buy TVs anymore (which track more data), but instead buy monitors, since there's now practically no difference in [screen technology](engineering-screen.md) between the two.
 - Jailbreak/root every one of your devices so that you actually *own* them (rather than being held hostage by the proprietary [OS](computers-os.md)).
 - Ideally, [self-host](computers-webdev.md) your emails and websites and [explore other protocols like Gopher, Tor, and ZeroNet](https://web.archive.org/web/20220206154044/https://cheapskatesguide.org/articles/old-internet-coming-back.html).
 - When distributing information, use [torrents](computers-distsys-torrent.md) and P2P solutions.

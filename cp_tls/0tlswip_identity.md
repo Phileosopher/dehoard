@@ -35,7 +35,7 @@ We will slowly bear more [spiritual fruits](morality.md) over time ([Galatians 5
 - More [loving](people-love.md), kinder, gentler, humbler and more patient ([Colossians 3:12](https://biblehub.com/colossians/3-12.htm)).
 - More [joyful](mind-feelings-happiness.md) and good.
 - More [faithful](understanding-certainty.md).
-- More self-controlled, [disciplined](mind-creativity-results.md), and at peace.
+- More self-controlled, [disciplined](results.md), and at peace.
 - An increased [state of humility](https://theologos.site/devotion-chaos/) ([Philippians 2:3](https://biblehub.com/philippians/2-3.htm)).
 - More forgiving ([Colossians 3:13](https://biblehub.com/colossians/3-13.htm)).
 
@@ -68,7 +68,7 @@ Our [social support network](groups-large.md) will be in [the Body of Christ](ch
 God will typically frame our [hardships](hardship.md) to confront the defects of our [personalities](personality.md):
 
 - High openness to experience: He will give a monotonous life for a season.
-- Low openness to experience: He will give more major life [changes](changes.md).
+- Low openness to experience: He will give more major life [changes](people-changes.md).
 - High conscientiousness: He'll bring around more [disorganized](organization.md), messy people.
 - Low conscientiousness: He'll give more [duties and obligations](success-4_routine.md) where you must honor your [promises](language.md).
 - High extraversion: He'll isolate you and require you to spend more time alone in [meditation](awareness.md).
@@ -86,7 +86,7 @@ All of it is to develop you into the perfection Jesus has planned for you:
 - Agreeable and gracious with others, except regarding [immorality](morality-sins.md).
 - A well-disciplined [soul](humanity-christian.md) that manages [emotional](mind-feelings.md) flare-ups and devotes it to a framing of mysticism more than anxiety.
 
-However, this requires us to be sincerely honest with ourselves, so we must integrate our shadow personas with ourselves to prevent a double-minded approach from all the [changes](changes.md) He requires of us.
+However, this requires us to be sincerely honest with ourselves, so we must integrate our shadow personas with ourselves to prevent a double-minded approach from all the [changes](people-changes.md) He requires of us.
 
 ## However, some things are *not* true
 

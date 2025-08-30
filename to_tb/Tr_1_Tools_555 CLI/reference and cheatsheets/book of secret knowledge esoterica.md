@@ -169,7 +169,7 @@ In Firefox's address bar, you can limit results by typing special characters bef
 
 IP addresses can be shortened by dropping the zeroes:
 
-```
+```ip
 http://1.0.0.1 → http://1.1
 http://127.0.0.1 → http://127.1
 http://192.168.0.1 → http://192.168.1
@@ -219,11 +219,12 @@ Tool
 ###### Close shell keeping all subprocess running
 
 ###### Exit without saving shell history
-```
 
+```bash
 kill -9 $$
 unset HISTFILE && exit
 ```
+
 ###### Perform a branching conditional
 
 true && echo success
@@ -851,7 +852,7 @@ __EOF__
 
 Other values in `[ dn ]`:
 
-```
+```conf
 countryName            = "DE"                     # C=
 stateOrProvinceName    = "Hessen"                 # ST=
 localityName           = "Keller"                 # L=
@@ -866,7 +867,7 @@ emailAddress           = "webmaster@example.com"  # CN/emailAddress=
 
 Example of `oids` (you'll probably also have to make OpenSSL know about the new fields required for EV by adding the following under `[new_oids]`):
 
-```
+```conf
 [req]
 ...
 oid_section         = new_oids
@@ -1250,7 +1251,7 @@ Tool: [ssh](https://www.openssh.com/)
 
 ###### Escape Sequence
 
-```
+```bash
 # Supported escape sequences:
 ~.  terminate connection (and any multiplexed sessions)
 ~B  send a BREAK to the remote system

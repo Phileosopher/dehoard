@@ -52,7 +52,7 @@ List the files in the directory:
 
 Count all files by type in a directory and recursively to subdirectories (Linux):
 
-```
+```bash
 find . -type f | sed -n 's/..*\.//p' | sort | uniq -c
 ```
 

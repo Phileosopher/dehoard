@@ -25,7 +25,7 @@ Even though the people who marry are most [influenced](influence.md) by a [weddi
 While both genders play a part in the formation of a child, the female has a more clear role in the formation of a family:
 
 - While men have to find all sense of [meaning](meaning.md) in the establishment of a family, a woman has the inherent biological qualities of producing and nurturing children in their formative years.
-- The quality of a woman's [education](pedagogy.md) has the most impact on a family, since it she imparts more of it to her children than a man who has to work a [career](jobs-spcialization.md) elsewhere.
+- The quality of a woman's [education](education.md) has the most impact on a family, since it she imparts more of it to her children than a man who has to work a [career](jobs-spcialization.md) elsewhere.
 
 ## Parent switch
 
@@ -52,7 +52,7 @@ We end up always representing two roles in our minds: a father and a mother. The
 
 Children have their own initial [culture](culture.md), [preferences](humanity.md) and [self-interest](morality-evil.md) mixed into their [decisions](decisions.md) that did *not* originate from their role models. A child's culture starts relatively simple, but is often unpleasant to coexist around:
 
-- Conflict Style: They confront every issue directly and need [guidance](pedagogy.md) on how to be more subtle and [tactful](people-rules.md).
+- Conflict Style: They confront every issue directly and need [guidance](education.md) on how to be more subtle and [tactful](people-rules.md).
 - Context: Completely low-context and absolutely oblivious to any implications until they [learn](understanding.md).
 - Individualism/Collectivism: living entirely for themselves, since they're not even *[aware](awareness.md)* of others.
 - Masculinity/Femininity: Focused strictly on their [purposes](purpose.md), which is implicitly *very* masculine.
@@ -60,13 +60,13 @@ Children have their own initial [culture](culture.md), [preferences](humanity.md
 - Time Flexibility: Insistent on *every* deadline for themselves, immediately, but considers everyone else's deadlines unimportant.
 - Time Orientation: Extreme focus on the present moment.
 - Thought Mode: A complete focus on applications, with little to no ability to understand [principles](values.md).
-- Uncertainty Avoidance: Complete uncertainty avoidance, where they want to know something irrespective of the [consequences](mind-creativity-results.md) if they don't know.
+- Uncertainty Avoidance: Complete uncertainty avoidance, where they want to know something irrespective of the [consequences](results.md) if they don't know.
 
 With respect to [human universals](humanity-universals.md), children are the same as their parents with a few notable exceptions:
 
 1. Children are very preoccupied with their parents' approval, so they don't need [friends](people-friends.md) *nearly* as much as they need reliable and [loving](people-love.md) authority figures.
-2. Children have very little context to [self-learn](pedagogy.md), so they need more clarification than any adult would to [understand](understanding.md) anything. But, they also have an *insane* rate of learning, so they don't need as much repetition as an adult.
-3. Children have an "invisible authority" in their minds, which is a [reproduction](image.md) of how they [envision](imagination.md) their parents will [respond](mind-creativity-results.md). Later, they'll remix that role with other authority figures of various types to form their own self-discipline.
+2. Children have very little context to [self-learn](education.md), so they need more clarification than any adult would to [understand](understanding.md) anything. But, they also have an *insane* rate of learning, so they don't need as much repetition as an adult.
+3. Children have an "invisible authority" in their minds, which is a [reproduction](image.md) of how they [envision](imagination.md) their parents will [respond](results.md). Later, they'll remix that role with other authority figures of various types to form their own self-discipline.
 
 Most of the challenges regarding parenting aren't because the tasks are particularly [vague](unknown.md) or [difficult](purpose.md), but more because the experience is [emotionally](mind-feelings.md) extreme. We're [influenced](influence.md) by others' feelings to the degree we [love](people-love.md) them, and a child will express an emotional range between anxiety, fear, and elation within mere minutes. Since our experience intensifies as our love intensifies, the experience does as well. The only way to stay sane is to live by [virtue](morality.md).
 
@@ -82,7 +82,7 @@ Maintaining a [baby](parenting-1_babies.md), then a [child](parenting-2_children
 
 Parents often inaccurately [communicate](people-conversation.md) expectations to their children. Often, a parent will merely [prefer](humanity.md) something from their child, but the child will [believe](understanding-certainty.md) the parent insists on it. Other times, the child won't even get the hint at all!
 
-In the absence of a sufficient parent, children tend to find their parental roles in other places. In early childhood, it'll be other authority figures (e.g., [teachers](pedagogy.md), police). Starting in adolescence, they'll look for it in peers (e.g., gangs, clubs). On occasion, highly intelligent or antisocial children can find it in [principles](values.md).
+In the absence of a sufficient parent, children tend to find their parental roles in other places. In early childhood, it'll be other authority figures (e.g., [teachers](education.md), police). Starting in adolescence, they'll look for it in peers (e.g., gangs, clubs). On occasion, highly intelligent or antisocial children can find it in [principles](values.md).
 
 Once a child reaches adulthood, the balance of how they prioritized their role models determines how they'll start adulthood.
 
@@ -100,7 +100,7 @@ A people group made of one set of genetics will have a certain [cultural](cultur
 
 ## Classes
 
-Unless they have *amazing* parents, a child raised by a [powerful](power.md) family is at an unusual disadvantage. By having their power from birth (as opposed to [building it](creations.md)), the child has no legitimate [aptitude](mind-creativity-results.md) with what they [wield](purpose.md) and can only learn to grow from that position onward. If their family name ever loses power (which they often can't control), they will likely never recover if they drop down a [social class](classes.md).
+Unless they have *amazing* parents, a child raised by a [powerful](power.md) family is at an unusual disadvantage. By having their power from birth (as opposed to [building it](creations.md)), the child has no legitimate [aptitude](results.md) with what they [wield](purpose.md) and can only learn to grow from that position onward. If their family name ever loses power (which they often can't control), they will likely never recover if they drop down a [social class](classes.md).
 
 On the other hand, a child who came from a low-ranking family has an unspoken advantage within their domain. If their parents taught them well, they'll be able to weather more hardship from having grown up without much privilege. While it's more difficult than it sounds, if they can [hide their shoddy background](image.md), they will often be a class above *any* of their peers.
 
@@ -108,12 +108,12 @@ Unfortunately, the [love](people-love.md) of a parent means they will be willing
 
 ## Failing
 
-Some parents fail from not caring, but because of the animal impulses in ourselves it's *far* more common for parents to fail through bad [methods](mind-creativity-results.md) instead of bad [motives](purpose.md).
+Some parents fail from not caring, but because of the animal impulses in ourselves it's *far* more common for parents to fail through bad [methods](results.md) instead of bad [motives](purpose.md).
 
 Parental failures express through a few possible modes:
 
 - The parents neglect to [educate](understanding.md) their children.
-- The parents severely underestimate their child's [aptitude](mind-creativity-results.md) and [motivations](purpose.md).
+- The parents severely underestimate their child's [aptitude](results.md) and [motivations](purpose.md).
 - The parents give [the wrong example](groups-small.md) or [reward bad behavior](habits.md).
 - The children don't [perceive](image.md) they're [loved](people-love.md).
 
@@ -132,7 +132,7 @@ Most parents don't want to admit failure, so they tend to blame other things for
 - Police officers or [government officials](groups-large.md)
 - Their child's [friends](people-friends.md)
 
-Often, parents will realize they can't [change](changes.md) their child, so they'll try to get rid of them to avoid being blamed. To avoid public shame, they'll wait until their child attains adulthood, then will exile them.
+Often, parents will realize they can't [change](people-changes.md) their child, so they'll try to get rid of them to avoid being blamed. To avoid public shame, they'll wait until their child attains adulthood, then will exile them.
 
 Other times, the *child* will want to leave as soon as physically possible. This is why many kids go to [college](jobs-college.md) on the opposite side of the country.
 
@@ -150,7 +150,7 @@ Due to the general increased burden of responsibility upon males, the destructio
 
 Most motivations to protect a child's [understanding](understanding.md) are through [fear](mind-feelings-fear.md). While those fears often move around, it's usually to maintain [peace](people-conflicts.md) or protect their [innocence](morality-justice.md).
 
-Many parents will use small [lies](people-lying.md) to [rebuild](pedagogy.md) the child's version of [reality](reality.md) to an [ideal](image-distortion.md). By doing this, children will still be [motivated](purpose.md) to do [moral](morality.md) things. This expresses most clearly when they use elaborate [myths](stories-myths.md) to explain a fact they don't want their children to know.
+Many parents will use small [lies](people-lying.md) to [rebuild](education.md) the child's version of [reality](reality.md) to an [ideal](image-distortion.md). By doing this, children will still be [motivated](purpose.md) to do [moral](morality.md) things. This expresses most clearly when they use elaborate [myths](stories-myths.md) to explain a fact they don't want their children to know.
 
 While it may seem harmless, it becomes egregious when they try to sidestep [evil](morality-evil.md) and its consequences:
 
@@ -169,9 +169,9 @@ Naturally, their [trust](trust.md) with their parents will be eroded, which affe
 
 ### Underestimation
 
-Unless a parent is making conscious [decisions](decisions.md) as they experience life with their children, [habitual](habits.md) patterns will emerge that don't [change](changes.md) with the children. For example, parents perceive [babies](parenting-1_babies.md) as incapable of doing [wrong](morality.md) but don't accommodate the scope of [immoral actions](morality-evil.md) [toddlers](parenting-2_children.md) are capable of performing.
+Unless a parent is making conscious [decisions](decisions.md) as they experience life with their children, [habitual](habits.md) patterns will emerge that don't [change](people-changes.md) with the children. For example, parents perceive [babies](parenting-1_babies.md) as incapable of doing [wrong](morality.md) but don't accommodate the scope of [immoral actions](morality-evil.md) [toddlers](parenting-2_children.md) are capable of performing.
 
-As a child ages, they very quickly learn to bend those fixed patterns to their [advantage](purpose.md). For example, they'll endure a five-minute lecture to get out of doing chores. The fulfillment of a subversive purpose is far more [rewarding](meaning.md) to them than [results](mind-creativity-results.md) from the task itself.
+As a child ages, they very quickly learn to bend those fixed patterns to their [advantage](purpose.md). For example, they'll endure a five-minute lecture to get out of doing chores. The fulfillment of a subversive purpose is far more [rewarding](meaning.md) to them than [results](results.md) from the task itself.
 
 Most parents won't realize their [creativity](mind-creativity.md) and will assume the child is merely defying them. Parents are typically [unaware](awareness.md) of what children are thinking, since they remember a point where the child *was* unaware and find no harm [imagining](imagination.md) they'll stay that way.
 

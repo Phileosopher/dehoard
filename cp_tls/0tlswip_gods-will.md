@@ -30,7 +30,7 @@ An entirely submissive Christian wants to do anything God wants:
 
 We seek God's will for a few key reasons:
 
-1. Anxiety or fear of perceived [consequences](mind-creativity-results.md) ([Philippians 4:6-7](https://biblehub.com/bsb/philippians/4.htm)).
+1. Anxiety or fear of perceived [consequences](results.md) ([Philippians 4:6-7](https://biblehub.com/bsb/philippians/4.htm)).
 2. [Fear](mind-feelings-fear.md) that we'll be held [responsible](meaning.md) for our [choices](decisions.md) ([Galatians 6:7-8](https://biblehub.com/bsb/galatians/6.htm)).
 3. Our [desires](purpose.md) are split between personal fulfillment and following God ([Revelation 3:16](https://biblehub.com/revelation/3-16.htm)).
 4. We sincerely desire to please Him (i.e., "The Lord is leading" instead of "God told me to").
@@ -97,7 +97,7 @@ D. Stay humble with everyone:
 
 E. Suffer righteously:
 
-1. God permits difficulty and [hardship](hardship.md) to [educate](pedagogy.md) us ([1 Peter 4:19](https://biblehub.com/1_peter/4-19.htm)).
+1. God permits difficulty and [hardship](hardship.md) to [educate](education.md) us ([1 Peter 4:19](https://biblehub.com/1_peter/4-19.htm)).
 2. We endure the trials long enough to learn the lesson, with progressively worse situations until we accept it.
 3. Once we've learned, He gives us rest to recover from the struggle.
 4. Repeat with a different lesson.
@@ -117,7 +117,7 @@ G. Thank Him for His availability and your situation:
 God *never* permits sinful lifestyles:
 
 - He despises [sin](morality-sins.md) with a fierce passion ([Isaiah 59:2](https://biblehub.com/isaiah/59-2.htm))
-- Many people will blame God or others for the [consequences](mind-creativity-results.md) of their actions.
+- Many people will blame God or others for the [consequences](results.md) of their actions.
 - Each Christian must take control of their own [decisions](decisions.md) before God gives them anything else.
 - God's will doesn't give complete license to do whatever we want.
 

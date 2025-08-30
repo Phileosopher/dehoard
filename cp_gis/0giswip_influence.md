@@ -11,8 +11,8 @@ Influence is trying to change the [story](stories.md) someone already has about 
 
 Every influential action someone takes has a [purpose](purpose.md) behind it:
 
-- We wish to improve our [sense of self](identity.md) by [converting](changes.md) others to our [ideas](values.md).
-- We may be [fearful](mind-feelings-fear.md) of [consequences](mind-creativity-results.md) if we *don't* [convert](changes.md) others to an idea (e.g., many [religious](religion.md) conversions).
+- We wish to improve our [sense of self](identity.md) by [converting](people-changes.md) others to our [ideas](values.md).
+- We may be [fearful](mind-feelings-fear.md) of [consequences](results.md) if we *don't* [convert](people-changes.md) others to an idea (e.g., many [religious](religion.md) conversions).
 - Many times, people simply want more [power](power.md).
 - We will sometimes do it out of [love](people-love.md) for others.
 
@@ -30,7 +30,7 @@ Broadly, every influential thing has 5 components:
 
 1. Simple enough to evoke base [feelings](mind-feelings.md), which will hit a [human universal](humanity-universals.md).
 2. [Unexpected](imagination.md), which varies by intellect, [creativity](mind-creativity.md), and [experience](understanding.md).
-3. Practical, which solidifies in something that [appears real](mind-creativity-results.md).
+3. Practical, which solidifies in something that [appears real](results.md).
 4. Sentimental, which tend to push feelings into the realms of [humor](humor.md), [love](people-love.md), or [fear](mind-feelings-fear.md).
 5. Composed as a [story](stories.md).
 
@@ -61,14 +61,14 @@ People pay *close* attention to the messenger:
   - A similar [cultural](culture.md) association to the audience in [attributes](habits.md), [preference](humanity.md), or [social group](groups-member.md).
   - Sharing some key detail with the person, such as last name, appearance, or social connections.
   - Reflecting the recipient's behaviors and mannerisms.
-  - Appearing to be less [intelligent](understanding.md) or [educated](pedagogy.md) than the audience, even when they're *very* [capable](purpose.md).
+  - Appearing to be less [intelligent](understanding.md) or [educated](education.md) than the audience, even when they're *very* [capable](purpose.md).
   - Even with nothing else, a messenger can frequently create a bond by giving something to the audience without asking for anything in return.
 - The messenger must be charming:
   - Consistently draw attention to themselves and associate with [trends](trends.md) to *constantly* surround themselves with others (and may even become a trend [value](values.md) of their own if others [believe](understanding-certainty.md) in them).
   - Physically attractive, or at least decent-looking and [well-kept](people-2_image.md).
   - Gives [affirmations](people-3_boundaries.md) to the audience to make them feel important, even when those affirmations are complete [lies](people-lying.md).
   - Keeps a [mystery](unknown.md) around them by omitting or hiding information, making themselves relatively scarce by comparison to others, and evoking a small amount of [fear](mind-feelings-fear.md).
-  - When confronted about wrongdoing or failings, [changes](changes.md) (or at least [appears to](image-distortion.md)) enough to imply a [trend](trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](mind-creativity-results.md)* anything [questionable](rules.md).
+  - When confronted about wrongdoing or failings, [changes](people-changes.md) (or at least [appears to](image-distortion.md)) enough to imply a [trend](trends.md) but not enough to generate [unease](morality-taboo.md), and is never seen *[doing](results.md)* anything [questionable](rules.md).
 
 That story will reach into the audience's existing [habits](habits.md):
 
@@ -86,8 +86,8 @@ Typically, the story will allude to a [mystery](unknown.md) the audience already
 
 The [story](stories.md) must give a clear [purpose](purpose.md) at the end:
 
-- In effect, the audience must feel that the [changes](changes.md) required for that purpose are worth it.
-- The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](mind-creativity-results.md) of the audience's [decision](decisions.md).
+- In effect, the audience must feel that the [changes](people-changes.md) required for that purpose are worth it.
+- The purpose must resonate with a clear, easily [understood](understanding.md) [value](values.md) with a [logical](logic.md) [consequence](results.md) of the audience's [decision](decisions.md).
 - That value must aspire to an element of [virtue](morality.md). Even to people who only care about [image](image.md) or [power](power.md), they still want to *[feel](mind-feelings.md)* or look as if they were virtuous!
 - Have the audience physically interact or experience the item to [feel](mind-feelings.md) its impact.
 - If the story is tied to the messenger *at all*, the messenger will express their current (or potentially [future](imagination.md)) state as the end of their story.
@@ -99,7 +99,7 @@ Persuasion is the long-term effort of influence, and expresses the same regardle
 2. Communicate [uncertainty](unknown.md) about what they currently know.
    - Deepen the intricacies of the belief by adding [understanding](understanding.md) of multiple [perspectives](image.md), with refutations for each one of them.
    - It may simply come through asking many "why?" questions to test what that person [understands](understanding.md).
-3. Give a clue into the correct answer, but do *not* answer it all the way for the audience (which makes them find [meaning](meaning.md) in [learning](pedagogy.md) it themselves).
+3. Give a clue into the correct answer, but do *not* answer it all the way for the audience (which makes them find [meaning](meaning.md) in [learning](education.md) it themselves).
 4. [Show](image.md) the person there's a [good](morality.md) reason to change from whatever they had already [purposed](purpose.md) or [believed](values.md).
    - They need additional information to verify that their [values calculus](decisions.md) matches the impression of the trend.
    - This is usually through demonstrating a consequence of living according to that [value](values.md).
@@ -108,7 +108,7 @@ Persuasion is the long-term effort of influence, and expresses the same regardle
 
 ## Influencers
 
-The ability to guide [thoughts](logic.md) and [feelings](mind-feelings.md) gives *much* more [power](power.md) than merely guiding [actions](mind-creativity-results.md), which is why people who pursue [leadership roles](groups-small.md) give plenty of [value](purpose.md) to influence.
+The ability to guide [thoughts](logic.md) and [feelings](mind-feelings.md) gives *much* more [power](power.md) than merely guiding [actions](results.md), which is why people who pursue [leadership roles](groups-small.md) give plenty of [value](purpose.md) to influence.
 
 We call influential people "leaders", but we *all* constantly swap from leading to following, moment by moment:
 
@@ -161,7 +161,7 @@ When provoking people to give resources, our bias constructs a specific procedur
 
 Many influencers want to maintain the social connections that maintain their [power](power.md). For that reason, influential people will continue to influence *long* after their [season](trends.md) has passed.
 
-Usually, they will apply their skills toward a perverse end, including [distorting image](image-distortion.md) and abusing the [power](power-types.md) they still wield. Often, they'll treat abuse other people when they know they can exploit their [power](power-types.md) without any adverse [consequences](mind-creativity-results.md).
+Usually, they will apply their skills toward a perverse end, including [distorting image](image-distortion.md) and abusing the [power](power-types.md) they still wield. Often, they'll treat abuse other people when they know they can exploit their [power](power-types.md) without any adverse [consequences](results.md).
 
 If they're an important part of a [social group](groups-small.md), they'll likely destroy the group with their efforts. But, if that group is [large enough](groups-large.md), that group will become [dysfunctional](mgmt-badsystems.md) if they don't quickly eject that person from it.
 
