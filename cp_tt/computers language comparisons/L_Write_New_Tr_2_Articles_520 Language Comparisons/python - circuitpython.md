@@ -1,2 +1,0 @@
-
-[CircuitPython](https://circuitpython.org/)

@@ -1,2 +1,0 @@
-
-[mobiReady](https://ready.mobi/)

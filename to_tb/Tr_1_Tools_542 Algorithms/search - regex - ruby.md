@@ -1,2 +1,0 @@
-
-[Rubular](https://rubular.com/)
