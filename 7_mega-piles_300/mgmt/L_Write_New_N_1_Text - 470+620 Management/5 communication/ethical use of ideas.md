@@ -1,0 +1,7 @@
+
+Now let's talk about ideas and who owns what. If someone comes to see you with an idea you're already considering or working on, no matter how loose the connection, then stop them abruptly and tell them the situation. That's only fair. Ideas, by the way, can not be owned by anyone. You can not trademark or patent or copyright any idea. You can only protect the execution of an idea, and trademark the name. This is an important thing to know in any business, and is often misunderstood by people who come to you with an idea. Such people often request you sign an NDA, and I'm usually happy to do so.
+- their [intellectual property] may give you some more money, but it could be their chance at becoming truly great (recollecting David w/ prophet Samuel story)
+
+What if they come up with an idea which the company then develops then proves to be a huge success - who owns it? The company does. You do, if you are the owner of the company, and your employee put forth the idea.
+
+If someone came to you with an idea. How far has she gone towards executing this idea? She should not have come to you without protecting that idea very very carefully indeed. However, if she brought out a sample which does not work well, but worked to some degree, the case is altered. She has executed her idea, however badly. If you wish to invest in the idea, you would almost certainly have to come to a legal agreement with the inventor.

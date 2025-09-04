@@ -1,0 +1,2 @@
+
+In April 2008, Vermont became the first U.S. state to allow a new type of business called the "low-profit limited liability corporation." Dubbed an L3C, this entity is a corporation - but not as we typically think of it. L3C operate like a for-profit business generating at least modest profits, but its primary aim is to offer significant social benefits. Three other U.S. states have followed Vermont's lead.

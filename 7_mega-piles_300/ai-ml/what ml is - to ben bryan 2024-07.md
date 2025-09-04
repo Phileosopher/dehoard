@@ -1,0 +1,22 @@
+
+D. AI - You're very, very correct about machine learning becoming a vastly powerful tool. I remember hearing in my accounting discipline that the 1980s had people speculating that the spreadsheet would replace the accountant. It certainly did: on the most boring parts of the job! But, it didn't replace two complexities: interpreting complicated legal code and finding out how to legally prevent the government from taking as much money as possible (tax), and skimming through a paper trail of documents to make sure there was sufficient evidence that things were recorded properly (audit).
+
+Machine learning itself is simple: it's an algorithm that makes its own rules. So, you can pass through 10,000 photos of pens, or 8,000 movie scripts, or 65,000 photos of smiling people, and it'll form common logical elements that hold the whole thing together.
+
+The downside, though, is that ML is also still a dumb computer. I remember an anecdote where visible skin diseases weren't getting diagnosed correctly, until they found out the algo correlated that you had a skin disease if you had a ruler next to your arm. The training data picked up that secondary thing that human perception would logically rule out.
+
+This alludes to a point that I'm frustrated can't be sequentially expressed (but I'm emailing you instead of writing an essay so I'll stop kicking myself and get to the point). Machine learning is a logic-based computer that has been programmed to create a type of "intuition". Human perception, by contrast, is the primitives of our brain stem's emotions, configured to create a type of "logic/reasoning" sitting on top of it. However, I know you've read enough philosophy to know that a logically true statement will be easily interfered with by common sense (All Cars are Hats, so some Hats are Cars, right?).
+
+The reason this won't float in the tech community, at least until they throw a few more billion on top of the 60+ billion sunk cost they've assembled, is due to their defective philosophy of humanity. Secular humanism (especially among the tech world) usually consists of naturalists, with the most dramatic version of the idea being that "soul", "brain", "mind", and "psyche" are all semantically the same thing. To the believer in any form of God (and, more particularly, the existence of humanity beyond bodily existence), that's absurd.
+
+The irony is that we have logical evidence of there being something else: Mary Shelley's Frankenstein was a conjectural reality of the time, and there is certainly a thing that exists in a living being that certainly disappears after a primary organ fails, never to return to that being, even within a few short minutes of ceased existence.
+
+But, if there is nothing but biomechanics, the modern tech person falls into the same trap as the 19-century scientist or Progressive of the time. This time, though, it's not a mechanical object, but a computer.
+
+And, therefore, we have a machine learning algorithm, which has many effective uses, but will be hyped into something it really isn't. Our myth-making tendencies aren't without irony, either: they're consulting the bullshit generator as if it were a soothsayer of its own. It'd be more accurate if they took away hallucination (where it just makes up stuff when it doesn't know), but that would also make it spit out more errors and throw out the suspension of disbelief among users.
+
+The spirit of this machine learning works antithetically to anyone conditioned to using a computer. When veteran tech people turn on the computer, they expect precise answers when they enter "netstat" or "sudo install vlc", with the computer saying "durr dunno error" if it's not precise. We don't want it to make up stuff when it doesn't know. If this hype train doesn't slow soon, I see a catastrophic failure of an OS coming.
+
+The margin of error on these ML models never seems to get below ~20%. I'm convinced it's because the implementation of absolutely everything in life itself is far too complex to be fully understood. I believe God designed reality that way to keep us humble through trusting others.
+
+So, the best thing is to invest in AI on the boring-as-bricks stuff that must be done the same way a bazillion times (e.g., factory machinery, quality control) and treat the rest as a dying trend that's a magnification of the "no worries put it in the cloud!" dialogue of our past. 
