@@ -261,3 +261,23 @@ https://en.m.wikipedia.org/wiki/Borderline_personality_disorder
 https://notthebee.com/article/world-war-2-was-not-the-end-of-history-thoughts-from-a-christian-millennial-who-grew-up-in-dispy-land
 
 https://fiercemarriage.com/how-to-pray-as-a-couple-with-less-awkwardness
+
+https://buttondown.com/untools/archive/how-to-write-so-busy-people-will-read/
+
+https://www.yearofmentalhealth.com/p/if-youre-a-deep-thinker-you-might
+
+https://historyfacts.com/science-industry/fact/solar-eclipse-einstein-theory-of-general-relativity/
+
+https://historyfacts.com/world-history/fact/september-was-the-seventh-month-of-the-year/
+
+https://www.yearofmentalhealth.com/p/it-takes-time-to-just-be-yourself
+
+https://buttondown.com/untools/archive/creativity-principles/
+
+https://open.substack.com/pub/yearofmentalhealth/p/pretending-is-exhausting
+
+https://historyfacts.com/us-history/article/the-year-1969-in-5-facts/
+
+https://growth.design/case-studies/strava-premium-preview
+
+https://www.maketecheasier.com/learn-linux-by-playing-games/

@@ -13,3 +13,5 @@ Isa 19
 
 
 Hos 2:18 On that day I will make a covenant for them with the beasts of the field and the birds of the air and the creatures that crawl on the ground. And I will abolish bow and sword and weapons of war in the land, and will make them lie down in safety.
+
+Isaiah 65:17-25, but more in-depth

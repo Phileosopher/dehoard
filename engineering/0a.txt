@@ -1,0 +1,60 @@
+.:
+0a.txt
+corners.txt
+D.422 nag articles cleanup - engineering
+D.422 nag guides cleanup - engineering
+img_10_1754504582153.jpg
+img_2_1756086081787.jpg
+Screenshot_20250523-145837.png
+Screenshot_20250525-000725.png
+Screenshot_20250606-110903.png
+Screenshot_20250618-085731.png
+
+./D.422 nag articles cleanup - engineering:
+aircraft
+
+## architecture and city planning
+
+## autos
+
+## battery
+
+## bridges
+
+## diy
+
+## electric car
+
+## electricity
+
+## engineering - 11
+
+## fun engineering
+
+## lasers
+
+## LEGO
+
+## materials science
+
+## nuclear and plasma energy
+
+## optics
+
+## spacefaring
+
+## watercraft
+
+## 
+./D.422 nag guides cleanup - engineering:
+architecture and city planning
+
+## battery
+
+## forging press
+
+## materials science
+
+## steel
+
+## 
