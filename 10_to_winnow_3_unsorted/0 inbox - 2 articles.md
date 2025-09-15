@@ -5,10 +5,6 @@
 
 [Secretary problem - Wikipedia](https://en.m.wikipedia.org/wiki/Secretary_problem)
 
-[Natural logarithm - Wikipedia](https://en.m.wikipedia.org/wiki/Natural_logarithm)
-
-[Cyberpunk derivatives - Wikipedia](https://en.m.wikipedia.org/wiki/Cyberpunk_derivatives#Postcyberpunk)
-
 [Bathos - TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/Bathos)
 
 [Res ipsa loquitur - Wikipedia](https://en.m.wikipedia.org/wiki/Res_ipsa_loquitur)
