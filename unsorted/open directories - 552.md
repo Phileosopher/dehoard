@@ -1,6 +1,4 @@
 
-# misc open directories
-
 [Index of /manga](https://ichigo69.mayulive.com/manga/)
 
 [Index of /PPT](http://www.commissiononhealth.org/PPT/)

@@ -1,2 +1,0 @@
-
-[LiveU](http://liveu.tv/)

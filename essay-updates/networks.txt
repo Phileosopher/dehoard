@@ -1,3 +1,0 @@
-physical objects give immediate feedback
-
-people, though, are complex networks where every test of a system or query is changing the network altogethere
