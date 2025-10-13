@@ -3,14 +3,6 @@
 
 ### Aftermath: A New Spirituality
 
-After the event, *far* too many little coincidences have worked in my favor:
-
--   I've never bought a car in my life and always trusted my dad's mechanical skills to assist me, but I needed one quickly. With very little research, I found a 2005 Ford Focus with 99,000 miles on it that had been owned by one guy. It runs amazingly and has no issues.
--   Finding an RV park was not easy, since there are only, like, four of them in town. I was able to get a spot close to town, and also have been able to reserve it through the winter months. It may take some work to create a skirting around the underside, and I'm having a heck of a time with the black water tank, but I have a stable place.
--   I've been given a plea deal that came with a deferred judgment. I'd have potentially lost my insurance license if I was sentenced with that crime, meaning my career would have been thrown into [the kind of rollercoaster I used to work with](https://stucky.tech/resume/).
-
-There are more below, but that's just to indicate a few that I can't place anywhere else.
-
 I never realized it, but I've been living under multiple layers of shame, but thought I was simply acting upon a sense of duty. Conformity to a principle, though, isn't right unless it's a right principle.
 
 That shame has directed me in ways I never would have imagined. I've lived with an inherent harshness and criticism that I had normalized from a young age, and I've been exceedingly critical of just about everyone I encounter. I have a natural gift for seeing things precisely, but I used it to slice people up instead of acting in any scope of love. Everyone needs grace, and people are typically doing the best that their willpower can withstand.
